@@ -1,0 +1,5001 @@
+ID,Age,Gender,Grade,Result
+1,18,Other,High School,Good
+2,18,Other,High School,Good
+3,22,Male,High School,Good
+4,17,Other,High School,Poor
+5,,Other,High School,Good
+6,25,Male,Undergraduate,Average
+7,22,Other,High School,Poor
+8,17,Male,High School,Good
+9,16,Female,Undergraduate,Average
+10,17,Female,High School,Average
+11,,Other,Postgraduate,Poor
+12,16,Male,High School,Good
+13,16,Other,Postgraduate,Good
+14,25,Other,Undergraduate,Poor
+15,19,Other,Postgraduate,Average
+16,20,Other,Undergraduate,Average
+17,16,Other,Undergraduate,Poor
+18,16,Male,Undergraduate,Good
+19,,Other,Postgraduate,Poor
+20,17,Other,Postgraduate,Poor
+21,23,Male,Undergraduate,Good
+22,19,Male,Undergraduate,Poor
+23,18,Female,Postgraduate,Good
+24,20,Male,High School,Poor
+25,23,Male,Postgraduate,Good
+26,18,Female,High School,Good
+27,20,Female,Postgraduate,Average
+28,24,Male,Undergraduate,Average
+29,16,Female,Postgraduate,Good
+30,23,Female,High School,Good
+31,25,Male,High School,Average
+32,19,Male,Postgraduate,Good
+33,20,Male,Postgraduate,Poor
+34,22,Male,Postgraduate,Average
+35,17,Other,Undergraduate,Poor
+36,21,Male,High School,Poor
+37,22,Other,Undergraduate,Poor
+38,18,Female,Undergraduate,Average
+39,17,Other,Undergraduate,Average
+40,,Other,Postgraduate,Average
+41,19,Other,Postgraduate,Average
+42,21,Other,Postgraduate,Poor
+43,16,Other,High School,Poor
+44,18,Male,High School,Good
+45,22,Male,High School,Average
+46,18,Female,High School,Good
+47,20,Female,Undergraduate,Average
+48,20,Male,High School,Average
+49,22,Other,High School,Good
+50,19,Female,Undergraduate,Good
+51,16,Other,Postgraduate,Average
+52,22,Other,Undergraduate,Poor
+53,20,Female,Undergraduate,Poor
+54,23,Female,High School,Average
+55,22,Female,Postgraduate,Average
+56,23,Other,Undergraduate,Average
+57,17,Other,Undergraduate,Poor
+58,21,Male,High School,Good
+59,23,Female,Undergraduate,Average
+60,25,Male,Postgraduate,Good
+61,18,Other,Undergraduate,Average
+62,20,Male,Postgraduate,Good
+63,24,Other,Postgraduate,Average
+64,17,Male,Undergraduate,Average
+65,18,Male,High School,Good
+66,17,Female,Postgraduate,Good
+67,17,Male,High School,Poor
+68,19,Male,Undergraduate,Poor
+69,21,Female,High School,Poor
+70,25,Female,High School,Poor
+71,16,Other,Undergraduate,Poor
+72,24,Male,Postgraduate,Average
+73,17,Female,Undergraduate,Good
+74,22,Male,High School,Poor
+75,19,Other,High School,Good
+76,19,Male,High School,Good
+77,21,Male,Postgraduate,Poor
+78,25,Other,Postgraduate,Average
+79,23,Other,Postgraduate,Average
+80,25,Male,Postgraduate,Average
+81,,Other,Undergraduate,Average
+82,19,Other,Undergraduate,Poor
+83,19,Other,Undergraduate,Average
+84,19,Other,Postgraduate,Poor
+85,24,Other,High School,Poor
+86,22,Other,High School,Good
+87,25,Female,Postgraduate,Good
+88,23,Other,Postgraduate,Average
+89,22,Female,Postgraduate,Good
+90,19,Other,Undergraduate,Good
+91,25,Female,Postgraduate,Average
+92,22,Male,Undergraduate,Good
+93,22,Other,High School,Good
+94,22,Female,High School,Poor
+95,17,Male,Undergraduate,Average
+96,19,Other,Undergraduate,Average
+97,20,Male,High School,Poor
+98,19,Male,Postgraduate,Average
+99,17,Other,Undergraduate,Poor
+100,16,Male,High School,Average
+101,21,Male,Undergraduate,Average
+102,24,Other,High School,Good
+103,22,Male,High School,Average
+104,24,Other,High School,Good
+105,25,Other,Postgraduate,Poor
+106,17,Male,High School,Average
+107,16,Other,Undergraduate,Average
+108,19,Male,High School,Poor
+109,17,Other,High School,Average
+110,19,Other,High School,Poor
+111,20,Female,High School,Good
+112,23,Other,Postgraduate,Good
+113,22,Male,High School,Average
+114,17,Other,Undergraduate,Good
+115,20,Other,Undergraduate,Poor
+116,19,Female,Undergraduate,Good
+117,19,Female,High School,Poor
+118,23,Other,Postgraduate,Poor
+119,22,Female,Postgraduate,Poor
+120,24,Female,Postgraduate,Poor
+121,22,Other,High School,Good
+122,20,Male,Postgraduate,Average
+123,20,Female,Postgraduate,Average
+124,23,Female,Undergraduate,Poor
+125,16,Female,High School,Good
+126,16,Other,High School,Good
+127,25,Female,Postgraduate,Poor
+128,24,Male,Undergraduate,Average
+129,24,Female,High School,Average
+130,20,Female,High School,Average
+131,24,Other,High School,Average
+132,22,Male,Undergraduate,Good
+133,17,Female,Undergraduate,Poor
+134,22,Female,Undergraduate,Average
+135,24,Other,Postgraduate,Good
+136,23,Male,Undergraduate,Average
+137,25,Other,Postgraduate,Average
+138,17,Other,Postgraduate,Poor
+139,23,Female,High School,Poor
+140,17,Male,Undergraduate,Good
+141,23,Other,Undergraduate,Average
+142,25,Other,Undergraduate,Average
+143,24,Male,High School,Average
+144,23,Other,Postgraduate,Poor
+145,17,Male,High School,Good
+146,19,Male,Undergraduate,Average
+147,17,Other,Postgraduate,Good
+148,24,Other,Undergraduate,Poor
+149,23,Other,High School,Average
+150,21,Other,Undergraduate,Average
+151,17,Female,Postgraduate,Good
+152,18,Male,High School,Average
+153,21,Other,Undergraduate,Good
+154,18,Other,Undergraduate,Poor
+155,18,Female,High School,Good
+156,25,Female,Postgraduate,Average
+157,19,Other,Postgraduate,Good
+158,18,Female,Postgraduate,Poor
+159,22,Female,Undergraduate,Average
+160,23,Male,Undergraduate,Poor
+161,25,Female,High School,Average
+162,17,Other,Postgraduate,Average
+163,19,Male,High School,Good
+164,24,Other,Postgraduate,Good
+165,19,Male,Postgraduate,Good
+166,23,Other,Undergraduate,Good
+167,25,Other,Postgraduate,Average
+168,25,Female,Postgraduate,Good
+169,19,Male,Postgraduate,Good
+170,19,Female,Postgraduate,Good
+171,21,Other,Postgraduate,Average
+172,22,Other,High School,Average
+173,16,Other,Undergraduate,Average
+174,24,Other,High School,Poor
+175,23,Female,Undergraduate,Poor
+176,23,Female,Postgraduate,Poor
+177,20,Other,High School,Average
+178,20,Male,Undergraduate,Poor
+179,21,Male,Postgraduate,Good
+180,16,Other,Postgraduate,Good
+181,24,Male,Postgraduate,Average
+182,25,Male,High School,Poor
+183,18,Female,Undergraduate,Average
+184,21,Female,Postgraduate,Good
+185,17,Female,Undergraduate,Average
+186,21,Other,High School,Poor
+187,25,Other,Undergraduate,Average
+188,18,Other,High School,Average
+189,20,Other,Postgraduate,Good
+190,19,Other,Postgraduate,Poor
+191,16,Other,High School,Good
+192,19,Other,High School,Poor
+193,23,Female,Postgraduate,Average
+194,23,Female,Undergraduate,Poor
+195,18,Female,Postgraduate,Good
+196,21,Female,Postgraduate,Poor
+197,17,Other,High School,Poor
+198,23,Male,Undergraduate,Poor
+199,21,Other,Postgraduate,Good
+200,25,Male,Undergraduate,Poor
+201,17,Other,High School,Good
+202,18,Other,High School,Poor
+203,24,Female,High School,Good
+204,21,Male,High School,Average
+205,16,Other,Postgraduate,Average
+206,25,Male,Undergraduate,Average
+207,19,Other,Undergraduate,Poor
+208,19,Female,Postgraduate,Poor
+209,19,Male,Postgraduate,Poor
+210,17,Female,Undergraduate,Average
+211,23,Male,High School,Good
+212,22,Other,High School,Poor
+213,19,Female,Postgraduate,Good
+214,17,Female,Undergraduate,Average
+215,23,Female,High School,Poor
+216,18,Male,Undergraduate,Poor
+217,22,Other,Postgraduate,Average
+218,21,Male,Undergraduate,Poor
+219,25,Other,High School,Good
+220,24,Female,Postgraduate,Average
+221,25,Female,High School,Good
+222,20,Female,Postgraduate,Good
+223,23,Other,Undergraduate,Average
+224,24,Male,High School,Average
+225,21,Other,High School,Average
+226,25,Male,Postgraduate,Poor
+227,18,Male,Undergraduate,Average
+228,20,Female,Postgraduate,Poor
+229,19,Male,Postgraduate,Good
+230,19,Female,Postgraduate,Average
+231,17,Female,Postgraduate,Poor
+232,23,Female,Undergraduate,Good
+233,24,Female,High School,Poor
+234,21,Other,Undergraduate,Good
+235,23,Other,Undergraduate,Average
+236,23,Other,Postgraduate,Good
+237,23,Female,Undergraduate,Poor
+238,21,Other,Postgraduate,Average
+239,16,Female,Postgraduate,Poor
+240,16,Other,Postgraduate,Poor
+241,24,Male,High School,Average
+242,17,Female,Postgraduate,Good
+243,16,Female,Postgraduate,Average
+244,20,Other,High School,Poor
+245,21,Female,Undergraduate,Good
+246,20,Male,High School,Average
+247,21,Female,High School,Good
+248,16,Female,Postgraduate,Good
+249,23,Other,Undergraduate,Poor
+250,17,Female,Postgraduate,Poor
+251,18,Male,High School,Poor
+252,18,Male,Undergraduate,Good
+253,23,Male,Postgraduate,Poor
+254,23,Female,Postgraduate,Average
+255,19,Female,Undergraduate,Poor
+256,22,Female,High School,Good
+257,17,Male,Postgraduate,Poor
+258,24,Male,Postgraduate,Good
+259,20,Female,Undergraduate,Poor
+260,17,Male,High School,Average
+261,22,Other,High School,Average
+262,21,Other,Undergraduate,Good
+263,25,Male,Undergraduate,Good
+264,16,Male,Undergraduate,Good
+265,19,Male,Postgraduate,Poor
+266,17,Male,High School,Average
+267,19,Male,High School,Good
+268,23,Female,Undergraduate,Poor
+269,23,Male,Postgraduate,Average
+270,23,Female,High School,Average
+271,21,Male,High School,Poor
+272,19,Female,High School,Good
+273,22,Male,Postgraduate,Good
+274,19,Male,High School,Average
+275,21,Male,Postgraduate,Poor
+276,17,Other,High School,Good
+277,21,Male,Postgraduate,Good
+278,25,Female,Undergraduate,Average
+279,17,Male,Postgraduate,Poor
+280,19,Other,Undergraduate,Average
+281,25,Other,Undergraduate,Poor
+282,17,Other,Undergraduate,Poor
+283,21,Male,Undergraduate,Poor
+284,22,Other,Undergraduate,Good
+285,17,Female,Postgraduate,Good
+286,,Other,Postgraduate,Poor
+287,16,Other,High School,Good
+288,23,Female,Postgraduate,Poor
+289,16,Female,Undergraduate,Average
+290,19,Male,High School,Average
+291,16,Male,High School,Average
+292,22,Other,Undergraduate,Average
+293,18,Male,High School,Good
+294,23,Other,Postgraduate,Poor
+295,21,Female,Postgraduate,Poor
+296,17,Other,High School,Poor
+297,16,Female,Postgraduate,Average
+298,16,Female,Postgraduate,Good
+299,18,Male,Postgraduate,Good
+300,22,Male,High School,Average
+301,21,Male,High School,Average
+302,25,Other,Undergraduate,Average
+303,17,Other,Undergraduate,Average
+304,21,Female,Postgraduate,Good
+305,19,Other,High School,Good
+306,22,Female,High School,Good
+307,20,Other,Postgraduate,Poor
+308,23,Female,Postgraduate,Average
+309,17,Female,High School,Average
+310,22,Male,Postgraduate,Good
+311,16,Other,Undergraduate,Average
+312,19,Male,Undergraduate,Poor
+313,17,Other,Undergraduate,Poor
+314,19,Female,Postgraduate,Poor
+315,16,Female,Undergraduate,Poor
+316,24,Other,Postgraduate,Good
+317,21,Male,Postgraduate,Good
+318,17,Male,Undergraduate,Good
+319,20,Female,Postgraduate,Poor
+320,19,Male,Postgraduate,Good
+321,18,Female,Postgraduate,Good
+322,18,Other,Undergraduate,Average
+323,16,Female,Postgraduate,Poor
+324,18,Female,Postgraduate,Poor
+325,16,Other,Undergraduate,Poor
+326,18,Male,Undergraduate,Average
+327,23,Male,Postgraduate,Good
+328,25,Male,Undergraduate,Poor
+329,16,Male,High School,Good
+330,19,Male,High School,Poor
+331,25,Other,Undergraduate,Good
+332,23,Other,High School,Poor
+333,16,Female,Postgraduate,Poor
+334,21,Other,Postgraduate,Poor
+335,20,Female,High School,Good
+336,22,Other,Postgraduate,Average
+337,16,Female,Undergraduate,Poor
+338,23,Female,Postgraduate,Poor
+339,24,Female,Postgraduate,Average
+340,24,Female,High School,Good
+341,17,Male,Postgraduate,Good
+342,16,Male,High School,Good
+343,17,Other,Undergraduate,Poor
+344,23,Female,High School,Good
+345,21,Male,Undergraduate,Average
+346,19,Male,Postgraduate,Good
+347,16,Male,High School,Poor
+348,20,Female,Postgraduate,Average
+349,24,Other,Undergraduate,Good
+350,20,Male,Undergraduate,Good
+351,25,Male,Postgraduate,Good
+352,19,Male,Postgraduate,Average
+353,21,Male,Undergraduate,Poor
+354,17,Male,Undergraduate,Poor
+355,24,Female,Undergraduate,Poor
+356,16,Female,High School,Average
+357,25,Other,Undergraduate,Poor
+358,17,Female,Undergraduate,Good
+359,21,Male,Undergraduate,Average
+360,24,Other,High School,Average
+361,24,Male,Postgraduate,Average
+362,20,Male,Undergraduate,Good
+363,22,Other,Undergraduate,Good
+364,24,Female,Postgraduate,Average
+365,23,Female,Postgraduate,Good
+366,25,Other,Undergraduate,Average
+367,18,Other,Postgraduate,Good
+368,16,Other,Postgraduate,Average
+369,16,Other,High School,Poor
+370,25,Female,Undergraduate,Average
+371,25,Female,Postgraduate,Average
+372,21,Male,Postgraduate,Good
+373,19,Male,Postgraduate,Average
+374,21,Other,Postgraduate,Good
+375,21,Female,High School,Poor
+376,18,Other,Undergraduate,Poor
+377,18,Female,High School,Good
+378,23,Other,Undergraduate,Average
+379,19,Other,Postgraduate,Good
+380,17,Male,Postgraduate,Average
+381,19,Male,Undergraduate,Average
+382,25,Male,Postgraduate,Average
+383,19,Female,Postgraduate,Poor
+384,22,Other,High School,Good
+385,18,Other,Postgraduate,Good
+386,19,Female,Postgraduate,Poor
+387,17,Male,Postgraduate,Good
+388,25,Male,Postgraduate,Poor
+389,24,Male,High School,Good
+390,16,Female,Postgraduate,Average
+391,18,Other,High School,Average
+392,19,Female,High School,Poor
+393,23,Male,High School,Poor
+394,25,Other,Postgraduate,Good
+395,18,Male,Postgraduate,Poor
+396,23,Other,Postgraduate,Good
+397,25,Other,Undergraduate,Good
+398,23,Male,High School,Good
+399,17,Male,High School,Poor
+400,20,Male,Postgraduate,Poor
+401,23,Male,Postgraduate,Average
+402,20,Female,Postgraduate,Good
+403,23,Male,Postgraduate,Poor
+404,24,Other,Postgraduate,Average
+405,16,Female,Postgraduate,Good
+406,18,Female,Postgraduate,Poor
+407,23,Female,Postgraduate,Average
+408,20,Female,High School,Good
+409,19,Female,High School,Average
+410,23,Female,Postgraduate,Good
+411,19,Other,Postgraduate,Average
+412,23,Other,Undergraduate,Good
+413,16,Other,Postgraduate,Good
+414,23,Male,Postgraduate,Average
+415,22,Male,Postgraduate,Average
+416,24,Female,Undergraduate,Good
+417,22,Male,Postgraduate,Average
+418,24,Other,Undergraduate,Average
+419,16,Female,High School,Good
+420,21,Male,Postgraduate,Poor
+421,19,Female,Undergraduate,Good
+422,18,Other,Postgraduate,Poor
+423,20,Female,Postgraduate,Good
+424,19,Male,High School,Poor
+425,19,Other,Postgraduate,Average
+426,25,Female,High School,Good
+427,23,Female,High School,Good
+428,17,Female,Postgraduate,Average
+429,24,Other,Undergraduate,Poor
+430,16,Male,Postgraduate,Average
+431,17,Other,Postgraduate,Average
+432,20,Female,Postgraduate,Average
+433,23,Male,Undergraduate,Poor
+434,18,Male,Undergraduate,Good
+435,20,Other,Postgraduate,Average
+436,24,Male,Postgraduate,Poor
+437,19,Female,High School,Average
+438,20,Male,Postgraduate,Poor
+439,25,Male,Undergraduate,Good
+440,22,Male,Undergraduate,Good
+441,18,Male,High School,Average
+442,23,Male,Undergraduate,Good
+443,23,Female,Postgraduate,Average
+444,23,Female,Postgraduate,Poor
+445,20,Male,Postgraduate,Good
+446,23,Male,Undergraduate,Poor
+447,24,Male,High School,Average
+448,20,Other,Undergraduate,Average
+449,16,Other,Postgraduate,Average
+450,23,Female,Undergraduate,Good
+451,22,Other,Postgraduate,Average
+452,19,Male,Undergraduate,Average
+453,20,Male,Undergraduate,Good
+454,17,Male,Postgraduate,Average
+455,17,Female,High School,Average
+456,23,Female,Undergraduate,Poor
+457,18,Female,Undergraduate,Poor
+458,23,Male,Undergraduate,Average
+459,24,Other,High School,Poor
+460,25,Male,High School,Poor
+461,20,Other,Undergraduate,Poor
+462,20,Female,High School,Good
+463,20,Female,High School,Average
+464,23,Male,Undergraduate,Poor
+465,23,Other,High School,Poor
+466,25,Other,Postgraduate,Average
+467,25,Other,High School,Average
+468,20,Other,High School,Good
+469,17,Male,High School,Poor
+470,21,Other,Postgraduate,Good
+471,21,Female,High School,Good
+472,24,Other,High School,Good
+473,25,Other,High School,Good
+474,21,Other,High School,Good
+475,17,Female,Postgraduate,Average
+476,16,Male,High School,Average
+477,22,Female,Postgraduate,Poor
+478,16,Male,Postgraduate,Average
+479,25,Female,Postgraduate,Average
+480,20,Male,Undergraduate,Average
+481,22,Other,Postgraduate,Average
+482,20,Other,Undergraduate,Good
+483,21,Male,High School,Average
+484,19,Female,Undergraduate,Good
+485,20,Female,Undergraduate,Good
+486,22,Female,High School,Good
+487,18,Other,High School,Good
+488,21,Female,Undergraduate,Good
+489,18,Female,Postgraduate,Good
+490,20,Female,Undergraduate,Good
+491,19,Female,Postgraduate,Average
+492,18,Other,Undergraduate,Poor
+493,20,Male,High School,Poor
+494,24,Female,Undergraduate,Poor
+495,16,Male,Postgraduate,Good
+496,22,Female,Postgraduate,Good
+497,24,Other,Postgraduate,Good
+498,24,Male,Postgraduate,Poor
+499,21,Female,Undergraduate,Average
+500,22,Female,High School,Good
+501,21,Female,High School,Poor
+502,22,Male,High School,Poor
+503,16,Female,Undergraduate,Poor
+504,20,Female,Undergraduate,Average
+505,25,Male,High School,Good
+506,16,Male,High School,Average
+507,24,Other,Undergraduate,Average
+508,16,Male,High School,Poor
+509,21,Other,Postgraduate,Average
+510,22,Female,Undergraduate,Good
+511,22,Female,Undergraduate,Good
+512,24,Female,Postgraduate,Good
+513,24,Male,Postgraduate,Good
+514,20,Other,Undergraduate,Good
+515,20,Other,High School,Good
+516,16,Female,Postgraduate,Average
+517,17,Other,High School,Average
+518,25,Female,Undergraduate,Poor
+519,16,Male,Postgraduate,Average
+520,23,Female,Postgraduate,Good
+521,21,Male,Undergraduate,Average
+522,20,Other,Undergraduate,Poor
+523,23,Female,Postgraduate,Poor
+524,18,Female,Postgraduate,Average
+525,19,Male,Postgraduate,Average
+526,21,Other,High School,Good
+527,21,Male,High School,Average
+528,20,Male,Undergraduate,Good
+529,18,Male,High School,Good
+530,22,Male,Postgraduate,Average
+531,25,Other,Postgraduate,Average
+532,23,Other,Undergraduate,Poor
+533,25,Female,Undergraduate,Poor
+534,20,Female,Postgraduate,Good
+535,25,Female,High School,Good
+536,22,Female,High School,Average
+537,21,Male,Undergraduate,Poor
+538,23,Male,Postgraduate,Poor
+539,19,Other,Postgraduate,Good
+540,25,Male,Postgraduate,Poor
+541,17,Other,Undergraduate,Good
+542,19,Other,High School,Poor
+543,25,Female,Undergraduate,Poor
+544,19,Female,High School,Good
+545,24,Other,High School,Poor
+546,19,Other,Undergraduate,Poor
+547,21,Male,High School,Good
+548,22,Female,High School,Average
+549,23,Other,Undergraduate,Good
+550,22,Other,Undergraduate,Poor
+551,21,Male,Postgraduate,Good
+552,23,Other,Postgraduate,Poor
+553,17,Other,Undergraduate,Good
+554,17,Female,Postgraduate,Average
+555,22,Male,High School,Good
+556,22,Female,High School,Average
+557,20,Other,High School,Good
+558,25,Other,High School,Poor
+559,16,Male,Undergraduate,Poor
+560,25,Male,Undergraduate,Good
+561,19,Female,Postgraduate,Average
+562,24,Female,Undergraduate,Poor
+563,21,Female,High School,Average
+564,19,Other,Postgraduate,Poor
+565,19,Other,Undergraduate,Average
+566,24,Female,High School,Poor
+567,23,Female,Undergraduate,Poor
+568,16,Other,Postgraduate,Poor
+569,17,Female,Postgraduate,Poor
+570,23,Male,Postgraduate,Good
+571,18,Male,Postgraduate,Poor
+572,19,Other,High School,Good
+573,21,Other,High School,Good
+574,21,Other,High School,Average
+575,16,Other,High School,Average
+576,18,Male,Undergraduate,Average
+577,21,Female,Undergraduate,Average
+578,24,Other,High School,Good
+579,25,Male,Postgraduate,Average
+580,23,Male,High School,Good
+581,25,Female,High School,Good
+582,23,Male,Postgraduate,Average
+583,20,Female,Postgraduate,Poor
+584,21,Male,High School,Good
+585,17,Female,High School,Poor
+586,24,Female,Undergraduate,Poor
+587,22,Male,Postgraduate,Poor
+588,24,Other,Postgraduate,Poor
+589,20,Other,Postgraduate,Average
+590,18,Female,Postgraduate,Good
+591,23,Female,Postgraduate,Average
+592,17,Male,Postgraduate,Poor
+593,22,Female,Undergraduate,Average
+594,18,Other,Postgraduate,Good
+595,22,Other,High School,Average
+596,21,Female,Postgraduate,Poor
+597,22,Female,Postgraduate,Good
+598,16,Other,High School,Poor
+599,19,Other,Postgraduate,Poor
+600,18,Other,Undergraduate,Good
+601,18,Male,High School,Good
+602,25,Male,Undergraduate,Average
+603,23,Female,Undergraduate,Average
+604,21,Other,High School,Average
+605,21,Other,Undergraduate,Good
+606,16,Male,Undergraduate,Good
+607,16,Male,Postgraduate,Average
+608,25,Female,Postgraduate,Poor
+609,19,Female,Undergraduate,Poor
+610,23,Other,Postgraduate,Good
+611,17,Female,High School,Good
+612,24,Female,High School,Good
+613,18,Other,High School,Poor
+614,21,Female,High School,Poor
+615,16,Female,Postgraduate,Good
+616,17,Female,High School,Average
+617,16,Male,High School,Poor
+618,23,Male,High School,Good
+619,23,Male,High School,Poor
+620,21,Other,Undergraduate,Good
+621,24,Male,Postgraduate,Poor
+622,17,Other,Postgraduate,Average
+623,21,Female,Postgraduate,Good
+624,22,Other,High School,Poor
+625,23,Female,High School,Good
+626,16,Male,Postgraduate,Good
+627,22,Other,Undergraduate,Poor
+628,20,Male,High School,Average
+629,17,Other,Postgraduate,Poor
+630,20,Other,High School,Poor
+631,18,Female,Undergraduate,Average
+632,18,Other,High School,Average
+633,17,Other,Undergraduate,Good
+634,16,Male,High School,Good
+635,25,Other,Undergraduate,Average
+636,17,Female,Undergraduate,Average
+637,17,Female,High School,Good
+638,22,Female,Postgraduate,Good
+639,22,Other,Undergraduate,Poor
+640,19,Other,Undergraduate,Poor
+641,25,Male,Postgraduate,Good
+642,22,Female,Undergraduate,Good
+643,23,Other,High School,Poor
+644,23,Female,High School,Poor
+645,22,Male,High School,Good
+646,17,Male,Postgraduate,Poor
+647,25,Female,High School,Good
+648,19,Male,Undergraduate,Average
+649,23,Female,Postgraduate,Good
+650,18,Other,High School,Poor
+651,19,Female,High School,Good
+652,24,Male,High School,Good
+653,16,Female,Postgraduate,Poor
+654,19,Other,Postgraduate,Poor
+655,19,Male,Postgraduate,Good
+656,25,Female,Undergraduate,Poor
+657,24,Male,High School,Average
+658,22,Female,High School,Good
+659,19,Female,Undergraduate,Poor
+660,23,Other,High School,Average
+661,21,Female,Undergraduate,Poor
+662,24,Other,High School,Poor
+663,20,Female,High School,Good
+664,24,Other,High School,Poor
+665,21,Other,High School,Average
+666,17,Other,Undergraduate,Good
+667,23,Female,Postgraduate,Average
+668,18,Female,Postgraduate,Good
+669,23,Other,Postgraduate,Poor
+670,24,Other,High School,Poor
+671,17,Female,Postgraduate,Good
+672,23,Female,Postgraduate,Good
+673,17,Other,Postgraduate,Good
+674,24,Female,Undergraduate,Poor
+675,17,Female,High School,Good
+676,25,Other,Undergraduate,Poor
+677,18,Other,High School,Good
+678,19,Female,Postgraduate,Average
+679,20,Other,Undergraduate,Average
+680,18,Other,Postgraduate,Good
+681,16,Male,High School,Poor
+682,23,Other,High School,Good
+683,21,Other,Undergraduate,Poor
+684,25,Male,Postgraduate,Good
+685,24,Other,Undergraduate,Poor
+686,21,Male,Undergraduate,Good
+687,16,Other,Undergraduate,Average
+688,21,Other,High School,Average
+689,21,Other,Postgraduate,Good
+690,17,Female,Postgraduate,Good
+691,19,Male,Postgraduate,Poor
+692,24,Male,High School,Poor
+693,16,Other,Postgraduate,Average
+694,24,Other,High School,Good
+695,16,Female,Undergraduate,Average
+696,16,Other,Undergraduate,Poor
+697,25,Male,Undergraduate,Average
+698,18,Other,Postgraduate,Average
+699,21,Female,Undergraduate,Average
+700,17,Other,Postgraduate,Good
+701,18,Other,Undergraduate,Average
+702,19,Male,Postgraduate,Poor
+703,16,Male,High School,Poor
+704,22,Male,Undergraduate,Average
+705,23,Other,Postgraduate,Average
+706,19,Female,Undergraduate,Poor
+707,25,Female,Undergraduate,Poor
+708,23,Female,Postgraduate,Poor
+709,25,Male,Postgraduate,Poor
+710,20,Male,Undergraduate,Good
+711,24,Male,Undergraduate,Poor
+712,16,Female,Postgraduate,Good
+713,25,Male,Undergraduate,Good
+714,23,Other,High School,Good
+715,16,Female,Postgraduate,Average
+716,16,Female,Undergraduate,Average
+717,18,Female,Postgraduate,Average
+718,20,Female,Undergraduate,Poor
+719,25,Female,Postgraduate,Good
+720,17,Female,Undergraduate,Good
+721,25,Female,High School,Average
+722,21,Female,Postgraduate,Poor
+723,24,Female,Postgraduate,Average
+724,21,Female,Undergraduate,Good
+725,22,Male,Undergraduate,Average
+726,24,Female,High School,Good
+727,20,Other,High School,Average
+728,24,Other,High School,Poor
+729,20,Other,Undergraduate,Good
+730,17,Male,High School,Average
+731,19,Male,Postgraduate,Good
+732,18,Female,Postgraduate,Poor
+733,23,Other,Undergraduate,Average
+734,16,Female,High School,Average
+735,22,Male,High School,Poor
+736,18,Female,High School,Average
+737,23,Female,Postgraduate,Average
+738,19,Female,High School,Poor
+739,22,Male,High School,Average
+740,20,Other,Undergraduate,Good
+741,18,Female,Postgraduate,Good
+742,22,Male,Undergraduate,Poor
+743,25,Male,Undergraduate,Poor
+744,25,Other,Undergraduate,Average
+745,20,Male,High School,Average
+746,23,Male,Postgraduate,Poor
+747,16,Female,High School,Poor
+748,19,Other,Postgraduate,Poor
+749,19,Male,Postgraduate,Average
+750,17,Other,High School,Good
+751,18,Male,Undergraduate,Good
+752,17,Female,Postgraduate,Good
+753,19,Other,Postgraduate,Good
+754,16,Male,Undergraduate,Poor
+755,20,Male,High School,Average
+756,23,Male,High School,Poor
+757,20,Female,Postgraduate,Poor
+758,20,Female,High School,Poor
+759,23,Male,High School,Poor
+760,22,Male,Postgraduate,Good
+761,19,Male,Undergraduate,Good
+762,19,Male,Postgraduate,Good
+763,25,Male,High School,Good
+764,22,Female,Undergraduate,Poor
+765,23,Female,Undergraduate,Good
+766,20,Male,Undergraduate,Average
+767,25,Other,Undergraduate,Average
+768,17,Male,High School,Poor
+769,23,Female,Undergraduate,Good
+770,20,Male,High School,Poor
+771,16,Male,Undergraduate,Good
+772,17,Male,Undergraduate,Poor
+773,18,Male,High School,Poor
+774,19,Male,Postgraduate,Average
+775,25,Male,High School,Poor
+776,16,Other,High School,Good
+777,22,Male,Postgraduate,Average
+778,24,Other,Postgraduate,Good
+779,18,Female,Postgraduate,Average
+780,20,Other,High School,Poor
+781,17,Male,High School,Good
+782,25,Other,Undergraduate,Poor
+783,22,Male,Postgraduate,Good
+784,16,Other,Postgraduate,Good
+785,19,Male,High School,Poor
+786,21,Male,High School,Good
+787,18,Female,High School,Average
+788,25,Male,High School,Average
+789,22,Female,High School,Average
+790,23,Male,Undergraduate,Poor
+791,25,Female,High School,Average
+792,21,Male,Postgraduate,Poor
+793,23,Female,Undergraduate,Good
+794,21,Male,Undergraduate,Poor
+795,20,Male,Postgraduate,Poor
+796,20,Male,Undergraduate,Average
+797,23,Male,Postgraduate,Good
+798,24,Female,Postgraduate,Average
+799,16,Female,Undergraduate,Good
+800,18,Male,Undergraduate,Poor
+801,18,Other,High School,Poor
+802,16,Other,High School,Average
+803,23,Male,Undergraduate,Poor
+804,17,Female,Postgraduate,Poor
+805,17,Other,High School,Average
+806,16,Female,Undergraduate,Good
+807,18,Male,High School,Poor
+808,23,Other,Undergraduate,Average
+809,21,Female,Postgraduate,Average
+810,25,Other,Postgraduate,Good
+811,19,Male,Postgraduate,Average
+812,19,Male,Postgraduate,Average
+813,22,Male,Undergraduate,Good
+814,21,Female,Postgraduate,Good
+815,20,Female,Undergraduate,Average
+816,24,Other,Undergraduate,Poor
+817,25,Male,Undergraduate,Poor
+818,22,Female,Undergraduate,Average
+819,20,Other,High School,Good
+820,24,Other,Undergraduate,Average
+821,16,Other,High School,Good
+822,22,Male,Undergraduate,Good
+823,20,Male,High School,Poor
+824,25,Female,Postgraduate,Good
+825,16,Other,Undergraduate,Poor
+826,16,Other,Undergraduate,Poor
+827,21,Male,Undergraduate,Poor
+828,24,Male,High School,Average
+829,16,Female,Undergraduate,Good
+830,24,Male,High School,Poor
+831,17,Other,Postgraduate,Poor
+832,22,Other,High School,Average
+833,20,Male,High School,Good
+834,23,Male,Undergraduate,Poor
+835,18,Female,High School,Good
+836,21,Female,Postgraduate,Average
+837,20,Male,High School,Average
+838,22,Other,High School,Good
+839,19,Other,High School,Average
+840,16,Female,Undergraduate,Good
+841,20,Other,Undergraduate,Good
+842,25,Male,High School,Average
+843,25,Other,Undergraduate,Good
+844,16,Male,Undergraduate,Good
+845,18,Other,High School,Poor
+846,23,Other,High School,Poor
+847,22,Female,Postgraduate,Good
+848,16,Other,Undergraduate,Good
+849,19,Male,Undergraduate,Poor
+850,22,Female,High School,Average
+851,20,Female,Undergraduate,Average
+852,17,Other,Undergraduate,Average
+853,21,Female,High School,Good
+854,19,Male,High School,Good
+855,24,Male,Undergraduate,Good
+856,25,Male,Postgraduate,Average
+857,16,Other,Postgraduate,Poor
+858,24,Male,High School,Poor
+859,25,Female,High School,Good
+860,23,Other,High School,Poor
+861,18,Male,Postgraduate,Poor
+862,20,Other,High School,Poor
+863,16,Female,High School,Good
+864,24,Female,High School,Average
+865,19,Other,High School,Good
+866,18,Male,High School,Good
+867,19,Female,High School,Poor
+868,22,Other,High School,Average
+869,18,Female,Undergraduate,Good
+870,24,Male,Undergraduate,Average
+871,21,Other,Undergraduate,Average
+872,20,Male,Postgraduate,Poor
+873,20,Other,Postgraduate,Poor
+874,16,Male,Undergraduate,Poor
+875,16,Other,Undergraduate,Good
+876,19,Other,High School,Average
+877,24,Other,Postgraduate,Good
+878,21,Other,High School,Average
+879,20,Other,Undergraduate,Poor
+880,17,Female,Undergraduate,Poor
+881,20,Male,Undergraduate,Average
+882,18,Other,High School,Poor
+883,17,Other,High School,Poor
+884,20,Other,Postgraduate,Average
+885,17,Female,Postgraduate,Average
+886,24,Female,Undergraduate,Average
+887,17,Other,High School,Average
+888,17,Female,High School,Good
+889,23,Male,High School,Poor
+890,18,Female,Postgraduate,Average
+891,24,Other,High School,Good
+892,25,Female,High School,Poor
+893,24,Female,Undergraduate,Average
+894,19,Other,Postgraduate,Poor
+895,19,Male,High School,Good
+896,20,Other,High School,Poor
+897,19,Other,Postgraduate,Poor
+898,19,Other,Undergraduate,Average
+899,22,Other,High School,Good
+900,17,Female,Postgraduate,Average
+901,22,Male,Undergraduate,Poor
+902,18,Female,Undergraduate,Average
+903,23,Other,Postgraduate,Poor
+904,23,Female,High School,Good
+905,16,Other,Postgraduate,Good
+906,21,Male,Undergraduate,Average
+907,20,Other,High School,Poor
+908,22,Female,Postgraduate,Poor
+909,17,Male,Undergraduate,Poor
+910,17,Other,High School,Poor
+911,20,Female,Undergraduate,Average
+912,16,Female,High School,Poor
+913,23,Female,Undergraduate,Poor
+914,22,Male,High School,Poor
+915,24,Male,Undergraduate,Average
+916,23,Male,High School,Poor
+917,22,Female,Undergraduate,Poor
+918,24,Male,Postgraduate,Poor
+919,18,Male,Undergraduate,Average
+920,22,Other,High School,Average
+921,20,Other,Postgraduate,Good
+922,16,Male,High School,Poor
+923,21,Other,Undergraduate,Average
+924,24,Male,High School,Good
+925,22,Male,High School,Good
+926,20,Female,Postgraduate,Good
+927,18,Male,Postgraduate,Poor
+928,20,Male,High School,Average
+929,16,Male,Undergraduate,Good
+930,16,Other,Postgraduate,Poor
+931,21,Male,Postgraduate,Good
+932,25,Male,Undergraduate,Good
+933,16,Female,High School,Poor
+934,25,Other,Postgraduate,Good
+935,24,Male,Postgraduate,Good
+936,22,Male,High School,Good
+937,21,Female,Undergraduate,Average
+938,21,Other,High School,Average
+939,19,Other,Undergraduate,Poor
+940,24,Male,Undergraduate,Average
+941,17,Other,Undergraduate,Poor
+942,24,Female,Undergraduate,Poor
+943,19,Other,Postgraduate,Average
+944,23,Female,Undergraduate,Average
+945,24,Male,High School,Poor
+946,21,Female,Postgraduate,Average
+947,25,Other,High School,Average
+948,17,Female,High School,Poor
+949,20,Other,Postgraduate,Good
+950,25,Other,High School,Good
+951,19,Male,High School,Good
+952,20,Male,Postgraduate,Good
+953,20,Other,Undergraduate,Poor
+954,20,Female,High School,Good
+955,16,Other,Postgraduate,Poor
+956,16,Male,High School,Good
+957,22,Female,High School,Average
+958,24,Female,High School,Average
+959,20,Other,Undergraduate,Good
+960,24,Female,Postgraduate,Good
+961,16,Other,High School,Average
+962,17,Other,Undergraduate,Good
+963,23,Other,Postgraduate,Average
+964,22,Female,Postgraduate,Poor
+965,18,Male,Undergraduate,Average
+966,22,Male,High School,Poor
+967,20,Female,Undergraduate,Average
+968,18,Female,High School,Average
+969,20,Female,Postgraduate,Good
+970,23,Female,Undergraduate,Average
+971,21,Male,Undergraduate,Poor
+972,24,Male,Postgraduate,Good
+973,17,Other,Undergraduate,Good
+974,19,Female,High School,Poor
+975,19,Other,High School,Poor
+976,25,Male,Undergraduate,Good
+977,17,Male,Undergraduate,Poor
+978,21,Male,Undergraduate,Poor
+979,21,Male,High School,Good
+980,18,Male,High School,Average
+981,20,Other,High School,Average
+982,22,Male,High School,Poor
+983,25,Other,High School,Average
+984,16,Other,Postgraduate,Poor
+985,25,Male,Postgraduate,Average
+986,21,Other,High School,Good
+987,19,Female,Postgraduate,Good
+988,17,Other,Postgraduate,Average
+989,23,Female,High School,Average
+990,22,Female,Postgraduate,Poor
+991,21,Other,Undergraduate,Average
+992,22,Female,Undergraduate,Average
+993,18,Other,Undergraduate,Good
+994,24,Male,Postgraduate,Poor
+995,17,Female,Undergraduate,Poor
+996,18,Other,Postgraduate,Average
+997,20,Other,Undergraduate,Average
+998,23,Female,Undergraduate,Average
+999,25,Female,Undergraduate,Average
+1000,21,Male,Undergraduate,Poor
+1001,18,Female,Undergraduate,Average
+1002,17,Other,Undergraduate,Average
+1003,22,Other,Postgraduate,Good
+1004,21,Male,High School,Average
+1005,19,Female,Postgraduate,Good
+1006,17,Other,High School,Good
+1007,21,Other,High School,Poor
+1008,24,Other,Postgraduate,Good
+1009,24,Female,Undergraduate,Good
+1010,21,Male,Undergraduate,Average
+1011,21,Female,Undergraduate,Average
+1012,20,Male,High School,Average
+1013,25,Other,Postgraduate,Poor
+1014,19,Male,Postgraduate,Average
+1015,19,Male,Postgraduate,Good
+1016,20,Other,High School,Average
+1017,17,Male,Undergraduate,Good
+1018,25,Female,High School,Average
+1019,21,Male,Undergraduate,Good
+1020,25,Other,Undergraduate,Good
+1021,23,Male,Postgraduate,Average
+1022,24,Other,Postgraduate,Poor
+1023,18,Other,Postgraduate,Poor
+1024,24,Other,High School,Good
+1025,17,Male,Undergraduate,Good
+1026,22,Other,Postgraduate,Poor
+1027,16,Male,High School,Good
+1028,18,Male,High School,Poor
+1029,20,Other,Undergraduate,Good
+1030,21,Other,Postgraduate,Poor
+1031,24,Other,Postgraduate,Good
+1032,20,Other,Postgraduate,Poor
+1033,21,Male,Undergraduate,Average
+1034,16,Female,Undergraduate,Good
+1035,19,Female,Undergraduate,Good
+1036,23,Male,High School,Poor
+1037,18,Male,High School,Average
+1038,21,Male,Postgraduate,Good
+1039,16,Female,High School,Good
+1040,16,Other,Postgraduate,Poor
+1041,18,Male,Postgraduate,Poor
+1042,18,Male,High School,Average
+1043,18,Male,High School,Average
+1044,23,Male,High School,Poor
+1045,24,Male,Undergraduate,Average
+1046,17,Female,High School,Poor
+1047,16,Male,Undergraduate,Poor
+1048,25,Male,Undergraduate,Good
+1049,23,Other,High School,Poor
+1050,21,Male,High School,Good
+1051,24,Other,Undergraduate,Good
+1052,16,Female,High School,Good
+1053,18,Female,High School,Good
+1054,21,Male,Undergraduate,Average
+1055,25,Other,Undergraduate,Good
+1056,20,Male,High School,Good
+1057,20,Other,Undergraduate,Poor
+1058,17,Other,High School,Average
+1059,19,Male,Postgraduate,Average
+1060,21,Female,High School,Average
+1061,24,Other,Postgraduate,Poor
+1062,20,Female,Undergraduate,Average
+1063,18,Male,Postgraduate,Average
+1064,24,Male,Undergraduate,Poor
+1065,25,Female,Postgraduate,Average
+1066,19,Male,High School,Good
+1067,22,Male,High School,Poor
+1068,18,Male,Undergraduate,Average
+1069,25,Male,Postgraduate,Good
+1070,24,Other,Postgraduate,Average
+1071,16,Male,High School,Poor
+1072,21,Male,Postgraduate,Good
+1073,16,Male,Postgraduate,Average
+1074,23,Female,Undergraduate,Poor
+1075,17,Female,High School,Average
+1076,22,Other,Undergraduate,Average
+1077,17,Female,Postgraduate,Average
+1078,22,Male,High School,Average
+1079,24,Male,High School,Poor
+1080,16,Other,Postgraduate,Average
+1081,24,Female,Undergraduate,Poor
+1082,23,Male,Undergraduate,Poor
+1083,16,Other,Undergraduate,Average
+1084,16,Female,Undergraduate,Good
+1085,24,Female,High School,Poor
+1086,18,Other,Postgraduate,Poor
+1087,21,Other,Postgraduate,Average
+1088,24,Other,High School,Poor
+1089,25,Other,High School,Average
+1090,24,Male,High School,Poor
+1091,20,Other,Postgraduate,Poor
+1092,19,Male,High School,Average
+1093,22,Male,Postgraduate,Average
+1094,17,Other,Postgraduate,Average
+1095,21,Other,Undergraduate,Average
+1096,16,Female,Postgraduate,Poor
+1097,24,Male,Undergraduate,Average
+1098,20,Male,Postgraduate,Poor
+1099,18,Other,High School,Good
+1100,18,Female,Postgraduate,Poor
+1101,18,Other,Undergraduate,Good
+1102,23,Male,Postgraduate,Average
+1103,21,Female,High School,Good
+1104,20,Male,High School,Poor
+1105,20,Male,Undergraduate,Good
+1106,16,Male,High School,Average
+1107,22,Female,Undergraduate,Average
+1108,20,Female,Postgraduate,Poor
+1109,23,Male,Postgraduate,Good
+1110,24,Female,Postgraduate,Poor
+1111,20,Male,Undergraduate,Average
+1112,23,Male,Undergraduate,Poor
+1113,17,Male,Postgraduate,Average
+1114,18,Other,Postgraduate,Good
+1115,25,Male,Postgraduate,Poor
+1116,19,Other,High School,Poor
+1117,17,Other,High School,Good
+1118,18,Male,Postgraduate,Poor
+1119,22,Other,Undergraduate,Average
+1120,20,Other,Postgraduate,Poor
+1121,18,Other,Postgraduate,Average
+1122,24,Female,Undergraduate,Poor
+1123,24,Male,Postgraduate,Average
+1124,19,Female,Undergraduate,Good
+1125,19,Other,Undergraduate,Good
+1126,23,Female,Undergraduate,Average
+1127,25,Female,High School,Good
+1128,25,Other,Postgraduate,Poor
+1129,25,Male,Undergraduate,Poor
+1130,25,Other,Undergraduate,Average
+1131,19,Other,High School,Poor
+1132,25,Other,High School,Good
+1133,16,Other,Postgraduate,Average
+1134,24,Female,Postgraduate,Poor
+1135,23,Female,Undergraduate,Good
+1136,24,Female,High School,Poor
+1137,25,Other,Postgraduate,Good
+1138,22,Male,High School,Average
+1139,23,Other,Postgraduate,Poor
+1140,18,Female,Postgraduate,Poor
+1141,21,Male,Postgraduate,Poor
+1142,20,Female,High School,Poor
+1143,18,Male,Postgraduate,Poor
+1144,23,Male,Undergraduate,Poor
+1145,21,Male,Postgraduate,Poor
+1146,19,Male,Postgraduate,Average
+1147,17,Other,Undergraduate,Poor
+1148,21,Male,High School,Average
+1149,17,Female,Postgraduate,Poor
+1150,20,Other,Postgraduate,Good
+1151,22,Male,Undergraduate,Good
+1152,18,Male,Postgraduate,Poor
+1153,18,Female,Postgraduate,Good
+1154,20,Female,High School,Poor
+1155,20,Other,High School,Good
+1156,25,Female,Undergraduate,Good
+1157,20,Other,Undergraduate,Poor
+1158,22,Female,Undergraduate,Average
+1159,21,Female,Undergraduate,Good
+1160,22,Other,High School,Average
+1161,22,Other,High School,Poor
+1162,25,Male,Undergraduate,Good
+1163,21,Other,Postgraduate,Average
+1164,18,Other,Undergraduate,Average
+1165,20,Female,Undergraduate,Poor
+1166,21,Male,Postgraduate,Good
+1167,19,Female,High School,Good
+1168,20,Female,Undergraduate,Poor
+1169,23,Other,Postgraduate,Average
+1170,17,Male,Undergraduate,Poor
+1171,17,Other,High School,Average
+1172,23,Other,Undergraduate,Good
+1173,24,Female,Postgraduate,Poor
+1174,24,Other,Undergraduate,Average
+1175,16,Female,Postgraduate,Poor
+1176,25,Male,Postgraduate,Poor
+1177,18,Male,Undergraduate,Good
+1178,21,Male,Undergraduate,Average
+1179,24,Male,Undergraduate,Average
+1180,23,Male,High School,Good
+1181,23,Other,Postgraduate,Good
+1182,25,Other,Undergraduate,Average
+1183,17,Female,Postgraduate,Good
+1184,25,Male,Postgraduate,Poor
+1185,22,Other,Postgraduate,Poor
+1186,21,Female,Postgraduate,Average
+1187,24,Female,Postgraduate,Average
+1188,24,Male,High School,Poor
+1189,20,Other,Postgraduate,Average
+1190,16,Female,Postgraduate,Good
+1191,17,Female,Undergraduate,Average
+1192,20,Male,High School,Average
+1193,17,Female,Postgraduate,Average
+1194,19,Other,Undergraduate,Poor
+1195,23,Other,High School,Good
+1196,19,Other,High School,Average
+1197,20,Male,Undergraduate,Good
+1198,24,Male,High School,Good
+1199,25,Female,Undergraduate,Poor
+1200,22,Other,Postgraduate,Good
+1201,21,Other,Undergraduate,Average
+1202,23,Male,Undergraduate,Average
+1203,20,Other,Undergraduate,Poor
+1204,24,Female,Undergraduate,Poor
+1205,24,Other,Postgraduate,Good
+1206,19,Male,Undergraduate,Good
+1207,20,Other,Postgraduate,Good
+1208,21,Male,Undergraduate,Poor
+1209,22,Other,High School,Average
+1210,20,Male,High School,Poor
+1211,16,Male,Postgraduate,Average
+1212,16,Other,High School,Poor
+1213,25,Male,Postgraduate,Good
+1214,16,Female,Undergraduate,Poor
+1215,16,Other,Undergraduate,Good
+1216,17,Female,Undergraduate,Poor
+1217,20,Female,Postgraduate,Poor
+1218,23,Female,Postgraduate,Good
+1219,16,Male,High School,Good
+1220,17,Other,Postgraduate,Average
+1221,18,Male,Undergraduate,Poor
+1222,25,Female,Postgraduate,Average
+1223,25,Other,Undergraduate,Poor
+1224,23,Male,Postgraduate,Poor
+1225,18,Other,Postgraduate,Poor
+1226,24,Female,Undergraduate,Poor
+1227,19,Other,Undergraduate,Average
+1228,20,Male,Postgraduate,Poor
+1229,20,Male,Postgraduate,Good
+1230,20,Male,Postgraduate,Average
+1231,21,Female,Postgraduate,Good
+1232,21,Other,Undergraduate,Good
+1233,18,Other,Undergraduate,Good
+1234,20,Female,Postgraduate,Poor
+1235,16,Male,High School,Poor
+1236,25,Other,High School,Average
+1237,16,Male,High School,Average
+1238,19,Other,Undergraduate,Average
+1239,22,Female,Undergraduate,Good
+1240,23,Female,High School,Good
+1241,23,Male,High School,Good
+1242,23,Female,High School,Poor
+1243,25,Other,Postgraduate,Poor
+1244,18,Other,High School,Poor
+1245,17,Male,High School,Average
+1246,21,Other,Undergraduate,Good
+1247,19,Other,High School,Average
+1248,16,Other,Postgraduate,Poor
+1249,16,Male,Postgraduate,Average
+1250,16,Male,Undergraduate,Poor
+1251,23,Female,Undergraduate,Poor
+1252,17,Female,Postgraduate,Average
+1253,19,Male,Postgraduate,Average
+1254,19,Female,High School,Good
+1255,22,Other,Postgraduate,Good
+1256,16,Female,High School,Good
+1257,24,Male,Undergraduate,Average
+1258,16,Other,Postgraduate,Good
+1259,24,Other,Postgraduate,Poor
+1260,25,Male,Postgraduate,Poor
+1261,16,Male,High School,Poor
+1262,19,Male,Undergraduate,Poor
+1263,23,Female,High School,Average
+1264,17,Male,Postgraduate,Good
+1265,25,Male,Postgraduate,Poor
+1266,21,Female,High School,Good
+1267,22,Female,Postgraduate,Good
+1268,16,Male,High School,Good
+1269,19,Other,Undergraduate,Average
+1270,22,Male,High School,Poor
+1271,25,Female,High School,Poor
+1272,25,Other,Undergraduate,Poor
+1273,16,Male,High School,Poor
+1274,21,Male,High School,Average
+1275,22,Male,Undergraduate,Average
+1276,24,Female,High School,Good
+1277,23,Other,High School,Poor
+1278,17,Male,High School,Good
+1279,19,Female,Postgraduate,Poor
+1280,17,Male,Undergraduate,Average
+1281,25,Other,High School,Average
+1282,17,Female,High School,Average
+1283,22,Female,Postgraduate,Poor
+1284,25,Female,Postgraduate,Good
+1285,17,Female,High School,Average
+1286,18,Male,Undergraduate,Average
+1287,22,Female,Postgraduate,Poor
+1288,19,Other,Undergraduate,Average
+1289,22,Female,Undergraduate,Poor
+1290,18,Female,High School,Poor
+1291,17,Female,High School,Good
+1292,20,Female,High School,Good
+1293,22,Other,Undergraduate,Poor
+1294,17,Female,High School,Average
+1295,19,Female,High School,Average
+1296,23,Female,High School,Good
+1297,19,Male,Undergraduate,Average
+1298,21,Female,Postgraduate,Average
+1299,23,Other,Postgraduate,Good
+1300,17,Male,Postgraduate,Good
+1301,23,Female,Postgraduate,Good
+1302,16,Other,High School,Poor
+1303,19,Other,Undergraduate,Good
+1304,21,Female,Postgraduate,Good
+1305,17,Male,Postgraduate,Average
+1306,23,Male,Postgraduate,Poor
+1307,25,Other,Undergraduate,Good
+1308,17,Female,Postgraduate,Poor
+1309,20,Female,Postgraduate,Poor
+1310,25,Other,Undergraduate,Good
+1311,25,Female,Postgraduate,Poor
+1312,22,Female,Postgraduate,Good
+1313,23,Other,Undergraduate,Average
+1314,18,Male,High School,Good
+1315,19,Other,Postgraduate,Average
+1316,19,Other,Postgraduate,Good
+1317,17,Female,Postgraduate,Poor
+1318,25,Other,Undergraduate,Average
+1319,21,Other,Postgraduate,Good
+1320,16,Male,High School,Good
+1321,22,Other,Postgraduate,Poor
+1322,19,Other,High School,Good
+1323,23,Male,Postgraduate,Good
+1324,19,Male,Postgraduate,Poor
+1325,22,Other,Undergraduate,Average
+1326,16,Male,High School,Poor
+1327,18,Male,High School,Good
+1328,17,Other,Undergraduate,Good
+1329,20,Female,High School,Good
+1330,20,Male,Undergraduate,Good
+1331,18,Female,Undergraduate,Poor
+1332,24,Female,Undergraduate,Good
+1333,20,Male,High School,Average
+1334,25,Female,High School,Poor
+1335,21,Male,Undergraduate,Poor
+1336,18,Male,High School,Good
+1337,17,Other,High School,Average
+1338,22,Male,High School,Poor
+1339,25,Other,Undergraduate,Average
+1340,18,Female,High School,Poor
+1341,24,Other,High School,Poor
+1342,20,Male,Undergraduate,Poor
+1343,16,Female,Undergraduate,Poor
+1344,17,Male,High School,Good
+1345,20,Female,Postgraduate,Average
+1346,20,Female,Postgraduate,Good
+1347,20,Female,Undergraduate,Poor
+1348,17,Other,Undergraduate,Good
+1349,17,Other,High School,Good
+1350,25,Male,Postgraduate,Good
+1351,20,Male,Postgraduate,Good
+1352,25,Female,Postgraduate,Poor
+1353,22,Female,High School,Average
+1354,17,Female,High School,Average
+1355,22,Other,High School,Average
+1356,23,Male,High School,Average
+1357,18,Other,Undergraduate,Good
+1358,20,Other,High School,Good
+1359,25,Other,High School,Good
+1360,18,Other,High School,Average
+1361,25,Other,High School,Poor
+1362,24,Male,High School,Poor
+1363,20,Male,Postgraduate,Average
+1364,23,Other,Undergraduate,Average
+1365,19,Other,High School,Good
+1366,16,Female,Undergraduate,Poor
+1367,19,Male,Undergraduate,Poor
+1368,22,Male,Postgraduate,Poor
+1369,23,Male,High School,Good
+1370,17,Male,High School,Average
+1371,19,Male,Postgraduate,Average
+1372,20,Other,Undergraduate,Poor
+1373,22,Other,Postgraduate,Poor
+1374,16,Other,High School,Average
+1375,25,Other,Postgraduate,Poor
+1376,18,Female,Postgraduate,Poor
+1377,22,Other,Undergraduate,Average
+1378,19,Other,Postgraduate,Poor
+1379,23,Female,High School,Good
+1380,25,Female,Postgraduate,Poor
+1381,25,Female,Postgraduate,Poor
+1382,22,Male,Postgraduate,Good
+1383,16,Female,Undergraduate,Good
+1384,24,Female,High School,Good
+1385,17,Female,High School,Poor
+1386,25,Female,Undergraduate,Average
+1387,19,Male,Postgraduate,Poor
+1388,22,Male,High School,Average
+1389,20,Female,Postgraduate,Average
+1390,21,Other,Undergraduate,Poor
+1391,17,Female,Undergraduate,Good
+1392,24,Male,Undergraduate,Good
+1393,21,Male,High School,Poor
+1394,22,Female,Undergraduate,Good
+1395,18,Male,Undergraduate,Poor
+1396,20,Female,Undergraduate,Average
+1397,22,Male,Postgraduate,Good
+1398,24,Male,High School,Average
+1399,17,Male,High School,Average
+1400,23,Female,Postgraduate,Poor
+1401,20,Female,Undergraduate,Good
+1402,25,Other,Undergraduate,Poor
+1403,25,Female,Undergraduate,Poor
+1404,18,Other,Postgraduate,Poor
+1405,16,Male,High School,Average
+1406,16,Male,High School,Good
+1407,19,Male,Postgraduate,Good
+1408,20,Female,Postgraduate,Average
+1409,25,Other,Undergraduate,Average
+1410,20,Male,Undergraduate,Average
+1411,18,Male,Postgraduate,Poor
+1412,17,Other,Undergraduate,Poor
+1413,24,Female,Postgraduate,Poor
+1414,18,Male,High School,Good
+1415,22,Male,High School,Good
+1416,20,Other,High School,Poor
+1417,25,Female,Undergraduate,Average
+1418,20,Other,Undergraduate,Good
+1419,22,Female,High School,Average
+1420,25,Male,High School,Average
+1421,23,Other,High School,Poor
+1422,16,Female,Postgraduate,Average
+1423,23,Female,Postgraduate,Poor
+1424,18,Male,Undergraduate,Poor
+1425,22,Female,High School,Good
+1426,18,Male,High School,Good
+1427,17,Male,High School,Good
+1428,18,Male,Postgraduate,Average
+1429,22,Male,Undergraduate,Good
+1430,17,Female,High School,Poor
+1431,25,Female,Undergraduate,Average
+1432,24,Female,High School,Good
+1433,25,Other,Postgraduate,Average
+1434,16,Other,High School,Average
+1435,17,Male,Postgraduate,Good
+1436,21,Other,Undergraduate,Poor
+1437,20,Male,Undergraduate,Average
+1438,22,Male,Postgraduate,Poor
+1439,19,Male,Postgraduate,Poor
+1440,24,Other,Undergraduate,Poor
+1441,23,Other,Postgraduate,Poor
+1442,18,Male,High School,Average
+1443,16,Other,Postgraduate,Poor
+1444,17,Male,Postgraduate,Good
+1445,20,Female,Undergraduate,Average
+1446,16,Female,Postgraduate,Poor
+1447,22,Other,High School,Good
+1448,24,Other,Postgraduate,Good
+1449,24,Female,Undergraduate,Good
+1450,23,Male,Postgraduate,Average
+1451,16,Other,Postgraduate,Average
+1452,17,Female,Postgraduate,Good
+1453,21,Female,Postgraduate,Poor
+1454,21,Other,High School,Poor
+1455,18,Male,Postgraduate,Good
+1456,17,Other,High School,Average
+1457,20,Male,High School,Good
+1458,22,Male,High School,Poor
+1459,25,Male,Postgraduate,Poor
+1460,23,Female,Undergraduate,Poor
+1461,17,Other,High School,Poor
+1462,22,Female,Postgraduate,Good
+1463,19,Female,High School,Good
+1464,22,Female,Undergraduate,Poor
+1465,16,Other,Postgraduate,Good
+1466,23,Female,Postgraduate,Average
+1467,22,Male,Postgraduate,Poor
+1468,22,Male,Undergraduate,Good
+1469,16,Male,High School,Poor
+1470,19,Female,High School,Average
+1471,21,Other,Undergraduate,Good
+1472,18,Female,Undergraduate,Average
+1473,24,Male,High School,Average
+1474,16,Female,Postgraduate,Good
+1475,19,Female,High School,Average
+1476,24,Other,High School,Average
+1477,22,Female,Undergraduate,Average
+1478,23,Other,Postgraduate,Average
+1479,24,Male,Undergraduate,Poor
+1480,20,Male,Postgraduate,Poor
+1481,19,Other,High School,Average
+1482,22,Other,High School,Average
+1483,21,Other,Undergraduate,Good
+1484,19,Female,High School,Average
+1485,17,Male,Undergraduate,Average
+1486,24,Other,Postgraduate,Average
+1487,19,Male,Postgraduate,Average
+1488,22,Other,Undergraduate,Average
+1489,18,Male,Undergraduate,Poor
+1490,20,Female,Postgraduate,Average
+1491,23,Female,Undergraduate,Good
+1492,19,Other,High School,Poor
+1493,21,Other,Postgraduate,Good
+1494,20,Female,High School,Average
+1495,16,Female,High School,Average
+1496,24,Female,High School,Poor
+1497,16,Male,Undergraduate,Poor
+1498,18,Female,Undergraduate,Poor
+1499,17,Female,High School,Good
+1500,21,Female,Undergraduate,Poor
+1501,21,Male,Postgraduate,Good
+1502,21,Female,Postgraduate,Good
+1503,19,Other,High School,Poor
+1504,21,Female,Undergraduate,Average
+1505,20,Male,Undergraduate,Poor
+1506,18,Female,Postgraduate,Good
+1507,25,Other,Postgraduate,Poor
+1508,18,Female,Undergraduate,Poor
+1509,21,Female,Postgraduate,Average
+1510,17,Female,Postgraduate,Good
+1511,24,Female,Undergraduate,Good
+1512,21,Male,Undergraduate,Poor
+1513,24,Other,Undergraduate,Good
+1514,17,Other,High School,Good
+1515,19,Male,High School,Average
+1516,16,Other,Postgraduate,Average
+1517,20,Female,Undergraduate,Average
+1518,20,Male,Undergraduate,Average
+1519,24,Female,High School,Average
+1520,18,Female,Postgraduate,Poor
+1521,20,Other,Undergraduate,Good
+1522,18,Other,Undergraduate,Poor
+1523,17,Female,Postgraduate,Poor
+1524,23,Female,High School,Good
+1525,18,Male,Undergraduate,Good
+1526,19,Male,Undergraduate,Average
+1527,16,Male,High School,Average
+1528,20,Female,Postgraduate,Good
+1529,21,Female,Undergraduate,Average
+1530,23,Female,High School,Average
+1531,16,Other,Postgraduate,Average
+1532,18,Female,Undergraduate,Good
+1533,22,Female,High School,Good
+1534,24,Female,Undergraduate,Poor
+1535,23,Other,Postgraduate,Poor
+1536,21,Male,Undergraduate,Average
+1537,22,Female,Undergraduate,Good
+1538,23,Female,Undergraduate,Average
+1539,23,Female,High School,Poor
+1540,18,Other,Postgraduate,Good
+1541,17,Female,High School,Poor
+1542,22,Male,Postgraduate,Average
+1543,16,Other,Postgraduate,Poor
+1544,21,Male,Postgraduate,Poor
+1545,18,Male,High School,Good
+1546,22,Female,Undergraduate,Average
+1547,17,Female,Postgraduate,Poor
+1548,21,Other,Undergraduate,Poor
+1549,18,Male,Undergraduate,Good
+1550,21,Other,Postgraduate,Average
+1551,22,Male,Postgraduate,Poor
+1552,20,Female,Postgraduate,Average
+1553,17,Other,Postgraduate,Average
+1554,24,Other,Undergraduate,Poor
+1555,23,Male,High School,Poor
+1556,23,Female,Undergraduate,Good
+1557,16,Female,Undergraduate,Poor
+1558,17,Male,Postgraduate,Poor
+1559,23,Other,Undergraduate,Average
+1560,20,Female,Undergraduate,Good
+1561,21,Female,Undergraduate,Average
+1562,18,Male,High School,Average
+1563,17,Female,High School,Average
+1564,16,Female,Postgraduate,Poor
+1565,23,Other,High School,Poor
+1566,18,Male,Postgraduate,Good
+1567,22,Male,Undergraduate,Poor
+1568,19,Male,Undergraduate,Good
+1569,25,Female,High School,Poor
+1570,25,Other,High School,Average
+1571,24,Male,High School,Poor
+1572,19,Other,High School,Poor
+1573,25,Other,High School,Poor
+1574,24,Female,Postgraduate,Average
+1575,22,Male,Undergraduate,Average
+1576,25,Other,Undergraduate,Average
+1577,17,Female,Undergraduate,Average
+1578,16,Male,Undergraduate,Good
+1579,21,Other,High School,Average
+1580,20,Female,High School,Good
+1581,18,Female,Postgraduate,Average
+1582,21,Female,Postgraduate,Average
+1583,18,Female,Undergraduate,Good
+1584,23,Female,High School,Good
+1585,19,Other,Postgraduate,Good
+1586,21,Female,Postgraduate,Average
+1587,21,Female,High School,Poor
+1588,22,Male,High School,Average
+1589,18,Female,Postgraduate,Good
+1590,24,Male,Postgraduate,Good
+1591,22,Male,Undergraduate,Good
+1592,19,Female,Undergraduate,Good
+1593,24,Other,Postgraduate,Poor
+1594,17,Male,Postgraduate,Average
+1595,23,Male,High School,Good
+1596,21,Male,Postgraduate,Average
+1597,16,Male,High School,Good
+1598,18,Male,Undergraduate,Poor
+1599,16,Female,Postgraduate,Good
+1600,20,Other,Undergraduate,Good
+1601,20,Other,High School,Good
+1602,23,Male,Postgraduate,Average
+1603,22,Female,High School,Good
+1604,23,Male,Postgraduate,Good
+1605,22,Female,Postgraduate,Good
+1606,23,Other,High School,Average
+1607,24,Other,High School,Poor
+1608,18,Other,High School,Poor
+1609,20,Female,High School,Good
+1610,19,Male,Undergraduate,Good
+1611,20,Other,High School,Poor
+1612,20,Male,High School,Average
+1613,22,Male,High School,Good
+1614,21,Other,Postgraduate,Average
+1615,22,Male,Undergraduate,Average
+1616,21,Male,Undergraduate,Good
+1617,17,Male,High School,Average
+1618,24,Female,High School,Good
+1619,18,Female,High School,Average
+1620,21,Other,Undergraduate,Good
+1621,18,Other,Postgraduate,Average
+1622,22,Female,High School,Poor
+1623,17,Female,Postgraduate,Average
+1624,16,Male,Postgraduate,Poor
+1625,21,Other,Postgraduate,Average
+1626,18,Other,Postgraduate,Average
+1627,18,Female,Undergraduate,Good
+1628,20,Female,Postgraduate,Good
+1629,20,Female,High School,Good
+1630,23,Male,Postgraduate,Poor
+1631,22,Male,High School,Good
+1632,23,Male,High School,Average
+1633,19,Female,Postgraduate,Good
+1634,20,Other,Undergraduate,Poor
+1635,16,Other,Undergraduate,Average
+1636,25,Male,Undergraduate,Average
+1637,22,Male,High School,Average
+1638,23,Other,Postgraduate,Good
+1639,19,Female,High School,Average
+1640,24,Male,Postgraduate,Average
+1641,24,Female,Postgraduate,Poor
+1642,19,Female,Postgraduate,Average
+1643,25,Female,Postgraduate,Good
+1644,16,Other,Undergraduate,Poor
+1645,19,Other,High School,Average
+1646,18,Female,Undergraduate,Good
+1647,24,Other,Postgraduate,Average
+1648,16,Female,Postgraduate,Average
+1649,21,Other,High School,Good
+1650,22,Female,High School,Poor
+1651,17,Other,Postgraduate,Average
+1652,23,Male,Undergraduate,Good
+1653,17,Male,High School,Poor
+1654,19,Female,High School,Good
+1655,18,Female,High School,Average
+1656,24,Female,Postgraduate,Average
+1657,24,Female,Undergraduate,Average
+1658,17,Male,Undergraduate,Average
+1659,23,Male,Undergraduate,Poor
+1660,23,Male,High School,Poor
+1661,24,Male,High School,Average
+1662,22,Male,High School,Poor
+1663,24,Male,Postgraduate,Good
+1664,19,Female,Undergraduate,Good
+1665,20,Male,High School,Average
+1666,22,Female,High School,Average
+1667,19,Other,High School,Average
+1668,24,Other,Undergraduate,Good
+1669,19,Other,Postgraduate,Good
+1670,24,Other,Undergraduate,Poor
+1671,18,Female,Undergraduate,Good
+1672,22,Male,Undergraduate,Good
+1673,25,Male,Postgraduate,Good
+1674,19,Male,High School,Good
+1675,24,Female,High School,Poor
+1676,16,Male,Postgraduate,Average
+1677,16,Female,Postgraduate,Poor
+1678,24,Other,Postgraduate,Poor
+1679,18,Other,High School,Average
+1680,18,Female,Postgraduate,Poor
+1681,16,Other,Postgraduate,Average
+1682,21,Female,High School,Average
+1683,25,Other,Undergraduate,Average
+1684,17,Female,Postgraduate,Poor
+1685,19,Other,Postgraduate,Average
+1686,17,Female,Postgraduate,Average
+1687,23,Female,Undergraduate,Good
+1688,19,Other,Undergraduate,Good
+1689,19,Female,Postgraduate,Poor
+1690,19,Other,High School,Average
+1691,25,Male,High School,Good
+1692,21,Other,Postgraduate,Good
+1693,17,Other,Postgraduate,Good
+1694,24,Male,High School,Average
+1695,21,Male,High School,Average
+1696,19,Other,Postgraduate,Poor
+1697,21,Male,Undergraduate,Average
+1698,21,Other,High School,Average
+1699,16,Other,Undergraduate,Average
+1700,20,Male,Postgraduate,Poor
+1701,23,Female,High School,Good
+1702,25,Female,High School,Poor
+1703,21,Other,Undergraduate,Average
+1704,22,Male,Undergraduate,Average
+1705,20,Male,Undergraduate,Good
+1706,21,Female,Postgraduate,Average
+1707,25,Female,High School,Good
+1708,22,Other,Undergraduate,Good
+1709,19,Other,Undergraduate,Poor
+1710,20,Other,Undergraduate,Good
+1711,18,Male,Undergraduate,Good
+1712,23,Female,Postgraduate,Good
+1713,17,Other,Postgraduate,Poor
+1714,17,Male,High School,Good
+1715,23,Other,Undergraduate,Good
+1716,17,Male,Postgraduate,Average
+1717,18,Female,Postgraduate,Good
+1718,16,Other,High School,Average
+1719,23,Other,High School,Average
+1720,20,Female,Postgraduate,Good
+1721,19,Male,High School,Average
+1722,21,Female,Postgraduate,Poor
+1723,21,Female,High School,Poor
+1724,20,Other,High School,Average
+1725,25,Other,Postgraduate,Poor
+1726,25,Other,Undergraduate,Good
+1727,23,Male,Undergraduate,Poor
+1728,20,Female,High School,Poor
+1729,25,Male,High School,Good
+1730,24,Female,Postgraduate,Poor
+1731,25,Other,Undergraduate,Good
+1732,17,Male,High School,Poor
+1733,18,Other,Postgraduate,Good
+1734,17,Other,High School,Poor
+1735,18,Female,High School,Good
+1736,18,Male,Postgraduate,Poor
+1737,17,Other,Postgraduate,Average
+1738,21,Male,Undergraduate,Average
+1739,21,Male,Undergraduate,Average
+1740,22,Female,High School,Good
+1741,21,Other,High School,Poor
+1742,16,Female,Undergraduate,Poor
+1743,19,Female,High School,Average
+1744,17,Male,High School,Good
+1745,22,Male,Undergraduate,Poor
+1746,16,Other,High School,Average
+1747,24,Female,High School,Average
+1748,22,Male,Undergraduate,Average
+1749,21,Other,Undergraduate,Good
+1750,22,Other,High School,Good
+1751,23,Other,High School,Good
+1752,23,Other,Undergraduate,Average
+1753,19,Male,Postgraduate,Average
+1754,19,Male,High School,Good
+1755,23,Male,Undergraduate,Average
+1756,19,Male,Postgraduate,Poor
+1757,16,Male,High School,Poor
+1758,21,Female,Postgraduate,Average
+1759,24,Male,Undergraduate,Average
+1760,24,Female,Postgraduate,Average
+1761,19,Female,Undergraduate,Average
+1762,25,Female,Postgraduate,Average
+1763,21,Male,Undergraduate,Good
+1764,21,Male,High School,Good
+1765,25,Female,Undergraduate,Poor
+1766,19,Male,High School,Average
+1767,17,Male,High School,Good
+1768,18,Male,Undergraduate,Good
+1769,19,Female,High School,Average
+1770,19,Female,High School,Good
+1771,23,Male,Postgraduate,Good
+1772,24,Other,High School,Good
+1773,21,Other,Undergraduate,Average
+1774,17,Male,High School,Average
+1775,16,Male,Postgraduate,Average
+1776,20,Female,High School,Average
+1777,20,Male,Undergraduate,Average
+1778,17,Female,Postgraduate,Average
+1779,16,Male,Undergraduate,Average
+1780,17,Male,Undergraduate,Good
+1781,22,Female,Postgraduate,Average
+1782,18,Other,High School,Good
+1783,16,Female,Postgraduate,Good
+1784,24,Female,Postgraduate,Good
+1785,25,Male,Postgraduate,Good
+1786,24,Other,Undergraduate,Average
+1787,19,Other,High School,Average
+1788,21,Female,Undergraduate,Good
+1789,17,Other,Postgraduate,Good
+1790,20,Male,Postgraduate,Average
+1791,17,Male,Undergraduate,Average
+1792,21,Male,High School,Good
+1793,21,Female,Postgraduate,Average
+1794,20,Female,High School,Good
+1795,25,Female,Undergraduate,Good
+1796,19,Male,High School,Poor
+1797,18,Other,Postgraduate,Good
+1798,19,Male,High School,Average
+1799,18,Other,Postgraduate,Average
+1800,23,Other,Undergraduate,Good
+1801,19,Male,Postgraduate,Good
+1802,18,Male,Undergraduate,Good
+1803,21,Female,Postgraduate,Good
+1804,18,Other,High School,Average
+1805,17,Other,High School,Good
+1806,24,Other,High School,Average
+1807,17,Female,High School,Good
+1808,23,Male,Undergraduate,Poor
+1809,24,Female,Undergraduate,Good
+1810,19,Male,Undergraduate,Average
+1811,17,Other,Postgraduate,Good
+1812,18,Female,High School,Average
+1813,21,Female,Undergraduate,Average
+1814,17,Male,Postgraduate,Average
+1815,20,Female,Postgraduate,Average
+1816,16,Other,Postgraduate,Poor
+1817,25,Other,Undergraduate,Average
+1818,20,Male,Undergraduate,Poor
+1819,24,Male,High School,Average
+1820,19,Female,High School,Average
+1821,22,Female,High School,Good
+1822,17,Female,High School,Good
+1823,22,Other,Postgraduate,Average
+1824,23,Male,High School,Poor
+1825,18,Male,High School,Good
+1826,20,Female,Undergraduate,Average
+1827,22,Other,Undergraduate,Good
+1828,22,Other,Postgraduate,Good
+1829,23,Other,High School,Good
+1830,21,Female,Undergraduate,Average
+1831,22,Male,Undergraduate,Poor
+1832,19,Female,Postgraduate,Average
+1833,19,Female,High School,Average
+1834,19,Female,Postgraduate,Poor
+1835,21,Female,Undergraduate,Good
+1836,16,Female,High School,Good
+1837,24,Male,High School,Poor
+1838,16,Other,High School,Good
+1839,19,Female,Undergraduate,Good
+1840,22,Male,High School,Good
+1841,17,Female,Postgraduate,Good
+1842,18,Male,Postgraduate,Average
+1843,16,Male,Undergraduate,Poor
+1844,22,Male,Postgraduate,Good
+1845,24,Female,High School,Average
+1846,24,Male,Postgraduate,Average
+1847,22,Other,Postgraduate,Good
+1848,16,Male,High School,Average
+1849,25,Other,High School,Good
+1850,17,Other,Postgraduate,Good
+1851,20,Male,Undergraduate,Good
+1852,18,Other,Undergraduate,Average
+1853,24,Other,High School,Good
+1854,24,Other,Undergraduate,Average
+1855,19,Female,High School,Average
+1856,25,Male,High School,Good
+1857,25,Other,Postgraduate,Good
+1858,23,Other,Undergraduate,Good
+1859,22,Female,High School,Poor
+1860,17,Male,Postgraduate,Average
+1861,24,Female,High School,Average
+1862,18,Other,Undergraduate,Good
+1863,25,Male,High School,Average
+1864,16,Male,Undergraduate,Poor
+1865,20,Male,Postgraduate,Average
+1866,24,Female,Postgraduate,Good
+1867,20,Male,Postgraduate,Good
+1868,21,Other,Postgraduate,Good
+1869,19,Other,High School,Poor
+1870,24,Male,Undergraduate,Good
+1871,22,Male,Undergraduate,Average
+1872,23,Male,High School,Poor
+1873,19,Female,Undergraduate,Poor
+1874,20,Female,Postgraduate,Poor
+1875,16,Female,High School,Poor
+1876,23,Female,High School,Average
+1877,16,Other,Postgraduate,Good
+1878,21,Female,Undergraduate,Good
+1879,20,Male,High School,Poor
+1880,17,Male,Undergraduate,Poor
+1881,23,Female,Undergraduate,Good
+1882,20,Other,High School,Average
+1883,18,Other,High School,Average
+1884,18,Other,Undergraduate,Poor
+1885,21,Female,High School,Average
+1886,22,Female,Undergraduate,Poor
+1887,17,Female,High School,Good
+1888,22,Female,High School,Poor
+1889,17,Male,Undergraduate,Poor
+1890,24,Male,High School,Average
+1891,21,Other,High School,Good
+1892,19,Other,Postgraduate,Average
+1893,20,Female,High School,Poor
+1894,25,Female,Undergraduate,Average
+1895,25,Other,Undergraduate,Average
+1896,17,Female,Undergraduate,Poor
+1897,22,Male,Postgraduate,Average
+1898,25,Other,Undergraduate,Good
+1899,16,Other,Postgraduate,Poor
+1900,16,Male,High School,Good
+1901,21,Female,Postgraduate,Good
+1902,19,Other,Undergraduate,Average
+1903,22,Female,Postgraduate,Poor
+1904,16,Male,Postgraduate,Poor
+1905,19,Female,High School,Good
+1906,19,Other,High School,Average
+1907,20,Male,Undergraduate,Good
+1908,16,Female,Undergraduate,Average
+1909,20,Male,Postgraduate,Poor
+1910,24,Male,Undergraduate,Poor
+1911,25,Other,Postgraduate,Poor
+1912,25,Female,Postgraduate,Poor
+1913,23,Female,High School,Poor
+1914,24,Male,High School,Average
+1915,20,Female,High School,Good
+1916,20,Male,Postgraduate,Good
+1917,21,Male,Postgraduate,Average
+1918,25,Other,Undergraduate,Poor
+1919,22,Male,High School,Good
+1920,20,Other,Postgraduate,Poor
+1921,16,Female,Undergraduate,Poor
+1922,20,Female,Postgraduate,Poor
+1923,25,Other,Postgraduate,Average
+1924,24,Male,High School,Good
+1925,21,Male,Postgraduate,Good
+1926,16,Other,High School,Average
+1927,20,Female,Undergraduate,Average
+1928,21,Female,High School,Poor
+1929,18,Male,High School,Average
+1930,24,Other,Postgraduate,Poor
+1931,16,Other,Postgraduate,Poor
+1932,17,Other,Undergraduate,Good
+1933,19,Male,Postgraduate,Poor
+1934,17,Female,Undergraduate,Good
+1935,23,Male,High School,Poor
+1936,17,Female,High School,Poor
+1937,25,Other,Postgraduate,Average
+1938,17,Other,High School,Good
+1939,20,Female,Undergraduate,Poor
+1940,24,Other,High School,Poor
+1941,18,Male,Postgraduate,Average
+1942,16,Male,Undergraduate,Average
+1943,18,Other,High School,Good
+1944,24,Male,Postgraduate,Good
+1945,23,Male,Undergraduate,Average
+1946,16,Other,Postgraduate,Good
+1947,19,Male,High School,Good
+1948,19,Male,High School,Poor
+1949,20,Male,Postgraduate,Good
+1950,21,Female,Postgraduate,Average
+1951,25,Male,Undergraduate,Average
+1952,24,Male,High School,Average
+1953,25,Other,High School,Average
+1954,22,Other,Postgraduate,Average
+1955,21,Other,High School,Poor
+1956,23,Other,Postgraduate,Poor
+1957,22,Other,High School,Average
+1958,18,Other,Postgraduate,Average
+1959,17,Other,Postgraduate,Average
+1960,16,Other,Undergraduate,Good
+1961,19,Male,Undergraduate,Poor
+1962,17,Male,Postgraduate,Average
+1963,20,Male,Postgraduate,Poor
+1964,22,Male,Postgraduate,Poor
+1965,22,Female,Undergraduate,Poor
+1966,24,Male,High School,Good
+1967,20,Female,Postgraduate,Poor
+1968,18,Female,High School,Good
+1969,22,Male,Undergraduate,Good
+1970,24,Other,Postgraduate,Poor
+1971,20,Male,High School,Good
+1972,21,Female,Postgraduate,Average
+1973,22,Female,Postgraduate,Poor
+1974,20,Female,Postgraduate,Good
+1975,23,Male,Undergraduate,Poor
+1976,22,Male,Undergraduate,Poor
+1977,16,Female,High School,Good
+1978,22,Male,Undergraduate,Poor
+1979,16,Female,Postgraduate,Good
+1980,20,Female,Postgraduate,Good
+1981,25,Male,Undergraduate,Poor
+1982,17,Female,Postgraduate,Average
+1983,19,Other,Postgraduate,Poor
+1984,22,Female,Undergraduate,Good
+1985,16,Male,Undergraduate,Poor
+1986,25,Male,Postgraduate,Good
+1987,20,Other,High School,Good
+1988,17,Female,Undergraduate,Good
+1989,20,Other,Postgraduate,Average
+1990,22,Other,Postgraduate,Poor
+1991,24,Other,Postgraduate,Average
+1992,23,Other,High School,Average
+1993,24,Male,Undergraduate,Poor
+1994,21,Female,High School,Good
+1995,24,Other,High School,Good
+1996,24,Other,Postgraduate,Good
+1997,23,Male,Postgraduate,Good
+1998,22,Female,High School,Average
+1999,17,Female,Postgraduate,Poor
+2000,24,Female,Postgraduate,Good
+2001,22,Other,Postgraduate,Average
+2002,25,Male,Postgraduate,Good
+2003,25,Other,High School,Good
+2004,21,Female,Postgraduate,Average
+2005,22,Other,Postgraduate,Good
+2006,25,Other,Undergraduate,Poor
+2007,21,Other,Undergraduate,Average
+2008,19,Male,High School,Average
+2009,20,Female,High School,Good
+2010,21,Female,Postgraduate,Average
+2011,20,Other,Undergraduate,Good
+2012,16,Other,Undergraduate,Good
+2013,24,Other,Undergraduate,Poor
+2014,16,Other,Undergraduate,Average
+2015,20,Other,Postgraduate,Average
+2016,22,Other,Postgraduate,Average
+2017,18,Female,High School,Poor
+2018,20,Male,Undergraduate,Poor
+2019,17,Female,Undergraduate,Good
+2020,25,Other,Undergraduate,Poor
+2021,18,Other,Undergraduate,Average
+2022,25,Female,High School,Average
+2023,23,Female,High School,Poor
+2024,17,Female,High School,Average
+2025,20,Female,High School,Average
+2026,21,Other,Postgraduate,Average
+2027,18,Male,Postgraduate,Good
+2028,21,Male,High School,Average
+2029,17,Other,High School,Average
+2030,24,Male,Undergraduate,Poor
+2031,16,Other,Postgraduate,Poor
+2032,23,Other,Postgraduate,Good
+2033,25,Male,High School,Poor
+2034,22,Male,Postgraduate,Good
+2035,23,Other,Undergraduate,Average
+2036,16,Other,Postgraduate,Poor
+2037,18,Female,Postgraduate,Good
+2038,19,Male,High School,Poor
+2039,19,Male,Postgraduate,Poor
+2040,17,Male,Postgraduate,Good
+2041,20,Female,Postgraduate,Average
+2042,17,Female,Undergraduate,Poor
+2043,20,Other,High School,Good
+2044,16,Female,High School,Good
+2045,20,Male,Undergraduate,Average
+2046,24,Male,Postgraduate,Average
+2047,22,Female,Undergraduate,Poor
+2048,24,Female,Postgraduate,Good
+2049,19,Female,High School,Poor
+2050,25,Female,Undergraduate,Average
+2051,16,Female,Undergraduate,Good
+2052,19,Other,High School,Average
+2053,19,Male,High School,Poor
+2054,17,Other,Undergraduate,Good
+2055,22,Male,Undergraduate,Good
+2056,17,Other,Postgraduate,Good
+2057,16,Other,High School,Poor
+2058,23,Male,Undergraduate,Poor
+2059,19,Male,Undergraduate,Good
+2060,17,Other,Postgraduate,Good
+2061,22,Female,High School,Average
+2062,17,Other,High School,Good
+2063,20,Other,Undergraduate,Poor
+2064,21,Male,Postgraduate,Poor
+2065,21,Other,Postgraduate,Average
+2066,17,Male,Postgraduate,Average
+2067,16,Female,High School,Average
+2068,17,Female,Undergraduate,Poor
+2069,24,Male,Undergraduate,Average
+2070,25,Male,Postgraduate,Average
+2071,21,Other,Postgraduate,Poor
+2072,19,Male,Undergraduate,Good
+2073,20,Female,Postgraduate,Poor
+2074,17,Male,Undergraduate,Good
+2075,22,Male,Postgraduate,Average
+2076,18,Male,Undergraduate,Poor
+2077,17,Female,High School,Average
+2078,16,Female,Postgraduate,Average
+2079,22,Other,High School,Good
+2080,25,Other,High School,Average
+2081,21,Male,Undergraduate,Average
+2082,18,Female,Undergraduate,Average
+2083,23,Male,High School,Good
+2084,22,Male,Postgraduate,Poor
+2085,19,Female,Postgraduate,Average
+2086,22,Male,Postgraduate,Average
+2087,23,Female,Undergraduate,Poor
+2088,22,Male,High School,Good
+2089,17,Male,High School,Poor
+2090,18,Male,Undergraduate,Good
+2091,21,Male,High School,Average
+2092,17,Female,High School,Average
+2093,16,Male,High School,Poor
+2094,18,Female,Postgraduate,Average
+2095,18,Other,High School,Average
+2096,20,Male,Postgraduate,Average
+2097,17,Other,Postgraduate,Poor
+2098,22,Male,Postgraduate,Good
+2099,24,Female,Undergraduate,Good
+2100,23,Female,Postgraduate,Average
+2101,25,Other,Undergraduate,Good
+2102,16,Male,Postgraduate,Average
+2103,24,Female,Undergraduate,Average
+2104,20,Male,Postgraduate,Average
+2105,17,Female,Undergraduate,Poor
+2106,18,Female,High School,Poor
+2107,23,Female,Undergraduate,Average
+2108,25,Male,Postgraduate,Poor
+2109,23,Male,Undergraduate,Good
+2110,20,Other,Undergraduate,Average
+2111,24,Male,Undergraduate,Poor
+2112,18,Other,Postgraduate,Average
+2113,16,Male,Undergraduate,Poor
+2114,16,Other,Postgraduate,Average
+2115,18,Other,Undergraduate,Poor
+2116,16,Female,High School,Good
+2117,25,Female,Postgraduate,Poor
+2118,23,Other,Undergraduate,Poor
+2119,20,Male,High School,Poor
+2120,25,Male,Undergraduate,Poor
+2121,16,Male,High School,Good
+2122,17,Female,Postgraduate,Good
+2123,16,Female,Postgraduate,Poor
+2124,24,Other,Undergraduate,Good
+2125,18,Male,Postgraduate,Good
+2126,18,Female,High School,Poor
+2127,20,Male,Undergraduate,Good
+2128,25,Female,High School,Average
+2129,23,Female,High School,Poor
+2130,19,Other,High School,Average
+2131,24,Male,High School,Poor
+2132,16,Female,Postgraduate,Good
+2133,24,Female,Undergraduate,Poor
+2134,16,Other,High School,Poor
+2135,21,Male,High School,Poor
+2136,19,Female,Postgraduate,Good
+2137,19,Other,High School,Average
+2138,18,Male,High School,Good
+2139,16,Female,Postgraduate,Average
+2140,19,Other,Postgraduate,Poor
+2141,16,Other,High School,Poor
+2142,17,Female,Undergraduate,Poor
+2143,22,Female,High School,Poor
+2144,25,Female,Postgraduate,Poor
+2145,18,Female,Postgraduate,Average
+2146,17,Female,Postgraduate,Good
+2147,24,Male,Undergraduate,Good
+2148,20,Female,Postgraduate,Good
+2149,20,Other,Undergraduate,Average
+2150,19,Other,High School,Average
+2151,19,Female,Postgraduate,Good
+2152,24,Female,Undergraduate,Good
+2153,18,Female,High School,Good
+2154,25,Male,Postgraduate,Average
+2155,18,Male,High School,Good
+2156,20,Female,High School,Poor
+2157,24,Other,High School,Average
+2158,21,Female,High School,Poor
+2159,25,Other,High School,Good
+2160,18,Female,Postgraduate,Good
+2161,22,Female,Postgraduate,Good
+2162,18,Female,High School,Good
+2163,19,Male,High School,Average
+2164,23,Female,High School,Good
+2165,22,Other,Postgraduate,Good
+2166,22,Male,High School,Poor
+2167,18,Female,Undergraduate,Average
+2168,23,Other,Postgraduate,Good
+2169,21,Male,Postgraduate,Average
+2170,23,Other,Undergraduate,Good
+2171,19,Female,Undergraduate,Average
+2172,22,Other,Postgraduate,Average
+2173,18,Female,Postgraduate,Average
+2174,20,Other,Postgraduate,Good
+2175,19,Other,High School,Average
+2176,18,Other,Postgraduate,Good
+2177,22,Other,Undergraduate,Average
+2178,25,Other,Undergraduate,Poor
+2179,17,Male,Postgraduate,Good
+2180,23,Other,Undergraduate,Good
+2181,25,Other,High School,Good
+2182,25,Other,Undergraduate,Average
+2183,22,Female,Undergraduate,Average
+2184,22,Other,High School,Poor
+2185,20,Male,Postgraduate,Good
+2186,24,Male,High School,Poor
+2187,16,Male,Undergraduate,Good
+2188,23,Other,Postgraduate,Average
+2189,25,Female,High School,Good
+2190,22,Male,Undergraduate,Good
+2191,17,Female,High School,Poor
+2192,21,Female,High School,Average
+2193,17,Other,Postgraduate,Good
+2194,24,Female,Undergraduate,Good
+2195,24,Other,Undergraduate,Average
+2196,19,Female,Postgraduate,Average
+2197,24,Other,Postgraduate,Average
+2198,18,Other,Postgraduate,Good
+2199,17,Other,High School,Good
+2200,18,Male,Undergraduate,Good
+2201,18,Female,Undergraduate,Average
+2202,16,Female,High School,Average
+2203,21,Female,Postgraduate,Average
+2204,24,Female,Undergraduate,Poor
+2205,22,Male,Postgraduate,Poor
+2206,23,Other,Undergraduate,Poor
+2207,21,Male,Undergraduate,Poor
+2208,21,Female,High School,Poor
+2209,20,Female,Postgraduate,Poor
+2210,24,Male,Undergraduate,Average
+2211,18,Female,High School,Poor
+2212,24,Male,Postgraduate,Poor
+2213,20,Female,Postgraduate,Poor
+2214,18,Male,Postgraduate,Good
+2215,23,Male,Undergraduate,Poor
+2216,24,Other,Undergraduate,Poor
+2217,24,Male,High School,Poor
+2218,22,Male,Postgraduate,Average
+2219,22,Male,Postgraduate,Good
+2220,21,Male,High School,Average
+2221,17,Other,High School,Good
+2222,24,Male,High School,Average
+2223,19,Male,High School,Average
+2224,18,Female,High School,Average
+2225,19,Male,Postgraduate,Good
+2226,24,Male,Postgraduate,Good
+2227,24,Male,High School,Poor
+2228,16,Other,Postgraduate,Poor
+2229,25,Other,High School,Average
+2230,20,Male,Undergraduate,Average
+2231,19,Male,Undergraduate,Good
+2232,23,Female,High School,Poor
+2233,19,Other,High School,Good
+2234,18,Male,Undergraduate,Poor
+2235,21,Other,High School,Good
+2236,18,Female,High School,Good
+2237,20,Male,Postgraduate,Good
+2238,24,Female,High School,Average
+2239,22,Other,Postgraduate,Poor
+2240,24,Other,High School,Good
+2241,19,Other,Undergraduate,Good
+2242,24,Other,High School,Good
+2243,18,Other,High School,Poor
+2244,16,Female,Postgraduate,Good
+2245,25,Female,Postgraduate,Poor
+2246,24,Female,Postgraduate,Good
+2247,18,Male,Undergraduate,Poor
+2248,18,Male,High School,Average
+2249,18,Male,Undergraduate,Poor
+2250,21,Female,High School,Average
+2251,17,Other,High School,Poor
+2252,17,Other,Postgraduate,Poor
+2253,21,Other,High School,Good
+2254,24,Female,High School,Good
+2255,19,Female,Postgraduate,Poor
+2256,17,Female,Undergraduate,Good
+2257,22,Other,High School,Poor
+2258,22,Female,Postgraduate,Poor
+2259,17,Other,Postgraduate,Good
+2260,17,Other,Postgraduate,Good
+2261,20,Female,Undergraduate,Poor
+2262,19,Other,High School,Good
+2263,21,Other,High School,Average
+2264,21,Female,Postgraduate,Average
+2265,24,Male,High School,Average
+2266,24,Other,Postgraduate,Poor
+2267,20,Female,High School,Good
+2268,16,Other,High School,Average
+2269,23,Female,High School,Poor
+2270,17,Female,Postgraduate,Average
+2271,22,Other,Postgraduate,Poor
+2272,18,Male,Undergraduate,Poor
+2273,20,Male,Undergraduate,Poor
+2274,18,Other,High School,Poor
+2275,22,Male,Postgraduate,Poor
+2276,20,Female,Postgraduate,Good
+2277,21,Other,High School,Average
+2278,22,Male,High School,Good
+2279,21,Other,Undergraduate,Good
+2280,23,Female,High School,Poor
+2281,16,Female,Undergraduate,Average
+2282,19,Male,Undergraduate,Good
+2283,22,Male,Postgraduate,Average
+2284,20,Other,Postgraduate,Poor
+2285,24,Other,Undergraduate,Poor
+2286,24,Male,Undergraduate,Good
+2287,23,Male,Undergraduate,Average
+2288,22,Other,Postgraduate,Good
+2289,17,Male,High School,Average
+2290,22,Male,High School,Good
+2291,25,Male,High School,Poor
+2292,19,Other,Postgraduate,Poor
+2293,24,Female,Postgraduate,Poor
+2294,18,Female,Undergraduate,Average
+2295,25,Other,Undergraduate,Average
+2296,18,Female,High School,Average
+2297,22,Male,Undergraduate,Poor
+2298,20,Male,High School,Average
+2299,16,Male,Postgraduate,Good
+2300,25,Male,Postgraduate,Average
+2301,25,Male,Postgraduate,Poor
+2302,17,Female,High School,Good
+2303,21,Male,Undergraduate,Poor
+2304,24,Female,High School,Average
+2305,19,Other,Undergraduate,Poor
+2306,23,Male,Undergraduate,Good
+2307,22,Female,High School,Good
+2308,22,Female,High School,Good
+2309,17,Male,Undergraduate,Average
+2310,24,Female,Postgraduate,Average
+2311,24,Other,Postgraduate,Average
+2312,22,Other,Postgraduate,Good
+2313,21,Female,High School,Good
+2314,24,Other,Undergraduate,Good
+2315,21,Other,Undergraduate,Average
+2316,16,Other,Postgraduate,Good
+2317,18,Other,Undergraduate,Good
+2318,17,Male,Undergraduate,Poor
+2319,18,Female,Postgraduate,Good
+2320,24,Female,Undergraduate,Poor
+2321,25,Male,Undergraduate,Average
+2322,20,Female,Undergraduate,Average
+2323,23,Male,High School,Poor
+2324,16,Male,Postgraduate,Average
+2325,24,Male,High School,Average
+2326,24,Other,Undergraduate,Good
+2327,25,Female,High School,Good
+2328,19,Other,Undergraduate,Poor
+2329,23,Male,Undergraduate,Good
+2330,24,Other,High School,Good
+2331,25,Other,Undergraduate,Poor
+2332,22,Other,Undergraduate,Average
+2333,19,Male,High School,Good
+2334,24,Female,Postgraduate,Average
+2335,23,Female,Undergraduate,Good
+2336,16,Male,High School,Poor
+2337,21,Male,Postgraduate,Average
+2338,24,Other,Undergraduate,Good
+2339,25,Female,High School,Average
+2340,20,Male,Undergraduate,Poor
+2341,17,Male,High School,Good
+2342,20,Male,Undergraduate,Average
+2343,21,Other,Undergraduate,Average
+2344,20,Other,Postgraduate,Poor
+2345,16,Female,High School,Good
+2346,22,Other,Postgraduate,Good
+2347,20,Female,Undergraduate,Good
+2348,18,Male,High School,Average
+2349,24,Other,Undergraduate,Good
+2350,19,Other,Undergraduate,Average
+2351,23,Other,Undergraduate,Poor
+2352,18,Male,High School,Good
+2353,20,Male,Postgraduate,Average
+2354,21,Other,Undergraduate,Good
+2355,17,Male,High School,Poor
+2356,19,Male,Undergraduate,Good
+2357,21,Male,Undergraduate,Average
+2358,21,Female,Undergraduate,Average
+2359,17,Other,Postgraduate,Good
+2360,23,Other,Undergraduate,Poor
+2361,20,Female,Undergraduate,Good
+2362,19,Other,Undergraduate,Average
+2363,19,Male,High School,Good
+2364,20,Female,High School,Good
+2365,21,Other,High School,Average
+2366,24,Male,High School,Average
+2367,18,Other,Postgraduate,Average
+2368,19,Male,Undergraduate,Good
+2369,16,Male,Postgraduate,Good
+2370,20,Male,High School,Poor
+2371,25,Male,Undergraduate,Poor
+2372,24,Male,Undergraduate,Poor
+2373,16,Other,Postgraduate,Poor
+2374,25,Male,High School,Poor
+2375,24,Female,Undergraduate,Average
+2376,16,Male,Undergraduate,Poor
+2377,18,Other,Undergraduate,Good
+2378,17,Male,High School,Average
+2379,22,Female,Undergraduate,Poor
+2380,23,Other,Undergraduate,Poor
+2381,23,Female,Postgraduate,Poor
+2382,22,Other,High School,Average
+2383,23,Female,Undergraduate,Poor
+2384,23,Other,Postgraduate,Poor
+2385,24,Female,Undergraduate,Average
+2386,25,Male,Postgraduate,Good
+2387,23,Other,Undergraduate,Good
+2388,16,Female,Undergraduate,Good
+2389,17,Other,Postgraduate,Average
+2390,20,Other,Postgraduate,Average
+2391,16,Female,Undergraduate,Poor
+2392,19,Other,High School,Poor
+2393,19,Male,High School,Poor
+2394,19,Female,Undergraduate,Average
+2395,25,Female,Postgraduate,Good
+2396,21,Other,Postgraduate,Good
+2397,21,Other,Postgraduate,Average
+2398,20,Other,Postgraduate,Poor
+2399,22,Female,Undergraduate,Average
+2400,19,Other,High School,Good
+2401,25,Male,High School,Average
+2402,18,Female,High School,Good
+2403,17,Female,High School,Good
+2404,25,Other,Undergraduate,Poor
+2405,20,Male,High School,Average
+2406,16,Male,Undergraduate,Average
+2407,22,Male,Undergraduate,Average
+2408,24,Other,Postgraduate,Average
+2409,17,Other,Undergraduate,Poor
+2410,18,Female,Postgraduate,Poor
+2411,17,Female,High School,Average
+2412,20,Female,Postgraduate,Good
+2413,25,Other,High School,Average
+2414,17,Female,High School,Good
+2415,20,Female,Undergraduate,Good
+2416,22,Male,Postgraduate,Average
+2417,22,Male,Undergraduate,Poor
+2418,16,Other,High School,Average
+2419,25,Female,High School,Good
+2420,17,Male,Postgraduate,Average
+2421,18,Other,Postgraduate,Poor
+2422,24,Other,High School,Average
+2423,23,Male,Postgraduate,Average
+2424,16,Other,High School,Poor
+2425,20,Other,High School,Good
+2426,19,Other,High School,Good
+2427,21,Other,High School,Poor
+2428,20,Male,Undergraduate,Good
+2429,23,Female,Postgraduate,Good
+2430,20,Female,Postgraduate,Average
+2431,16,Other,Undergraduate,Average
+2432,23,Male,Undergraduate,Good
+2433,19,Other,High School,Good
+2434,24,Male,Undergraduate,Good
+2435,25,Other,Undergraduate,Average
+2436,21,Other,Postgraduate,Good
+2437,25,Female,Postgraduate,Good
+2438,18,Male,High School,Good
+2439,19,Male,Postgraduate,Average
+2440,19,Female,Postgraduate,Poor
+2441,20,Female,Undergraduate,Average
+2442,25,Male,Postgraduate,Average
+2443,23,Male,Postgraduate,Good
+2444,17,Female,Undergraduate,Poor
+2445,24,Other,Undergraduate,Good
+2446,17,Male,High School,Good
+2447,22,Other,High School,Good
+2448,16,Male,High School,Average
+2449,16,Other,Postgraduate,Average
+2450,16,Female,Undergraduate,Good
+2451,25,Female,Undergraduate,Average
+2452,23,Male,High School,Good
+2453,19,Other,Postgraduate,Good
+2454,20,Male,Undergraduate,Good
+2455,20,Female,Postgraduate,Good
+2456,24,Female,Postgraduate,Average
+2457,19,Other,Postgraduate,Average
+2458,22,Male,Undergraduate,Average
+2459,17,Female,Postgraduate,Poor
+2460,17,Other,Postgraduate,Poor
+2461,22,Male,High School,Good
+2462,20,Female,High School,Average
+2463,24,Other,Postgraduate,Average
+2464,25,Other,High School,Average
+2465,19,Other,High School,Good
+2466,19,Female,High School,Poor
+2467,25,Male,Postgraduate,Poor
+2468,19,Female,Postgraduate,Average
+2469,22,Male,Undergraduate,Poor
+2470,22,Other,High School,Good
+2471,20,Other,High School,Average
+2472,22,Female,Postgraduate,Good
+2473,25,Other,Postgraduate,Average
+2474,23,Female,Postgraduate,Average
+2475,24,Male,High School,Good
+2476,16,Male,Postgraduate,Good
+2477,23,Other,High School,Good
+2478,17,Female,Postgraduate,Good
+2479,21,Other,High School,Poor
+2480,23,Other,Postgraduate,Poor
+2481,23,Female,High School,Average
+2482,23,Male,Postgraduate,Good
+2483,16,Male,Postgraduate,Poor
+2484,17,Other,Undergraduate,Good
+2485,25,Other,Postgraduate,Good
+2486,20,Female,Postgraduate,Good
+2487,17,Male,Postgraduate,Poor
+2488,17,Female,High School,Good
+2489,24,Female,High School,Average
+2490,22,Other,High School,Average
+2491,22,Other,Undergraduate,Poor
+2492,23,Female,High School,Poor
+2493,22,Female,High School,Good
+2494,25,Female,High School,Average
+2495,17,Female,High School,Poor
+2496,18,Other,Undergraduate,Good
+2497,22,Female,High School,Good
+2498,21,Other,High School,Good
+2499,17,Female,Undergraduate,Poor
+2500,16,Other,High School,Average
+2501,17,Male,Postgraduate,Average
+2502,18,Male,High School,Average
+2503,16,Male,Postgraduate,Average
+2504,18,Female,High School,Poor
+2505,16,Female,Undergraduate,Good
+2506,16,Male,Undergraduate,Average
+2507,20,Male,Undergraduate,Average
+2508,16,Other,High School,Poor
+2509,22,Male,High School,Good
+2510,22,Female,High School,Good
+2511,16,Other,Undergraduate,Poor
+2512,25,Female,Undergraduate,Average
+2513,24,Female,High School,Average
+2514,24,Other,Undergraduate,Poor
+2515,17,Male,High School,Poor
+2516,16,Female,High School,Good
+2517,17,Other,High School,Average
+2518,25,Other,Undergraduate,Good
+2519,20,Other,Undergraduate,Poor
+2520,16,Female,Undergraduate,Good
+2521,23,Other,Postgraduate,Poor
+2522,16,Other,High School,Good
+2523,20,Other,Undergraduate,Average
+2524,25,Male,High School,Poor
+2525,22,Female,Postgraduate,Poor
+2526,16,Other,Postgraduate,Average
+2527,18,Other,High School,Good
+2528,19,Other,High School,Average
+2529,20,Female,Postgraduate,Good
+2530,16,Female,Postgraduate,Average
+2531,24,Female,Postgraduate,Good
+2532,24,Other,Undergraduate,Good
+2533,24,Female,Undergraduate,Good
+2534,17,Female,Postgraduate,Good
+2535,16,Female,High School,Average
+2536,21,Male,High School,Average
+2537,17,Other,High School,Average
+2538,20,Male,Postgraduate,Good
+2539,24,Male,Postgraduate,Poor
+2540,17,Other,Postgraduate,Good
+2541,17,Other,Undergraduate,Poor
+2542,23,Female,High School,Poor
+2543,25,Female,High School,Poor
+2544,20,Male,Postgraduate,Good
+2545,16,Other,Postgraduate,Poor
+2546,16,Other,Postgraduate,Average
+2547,17,Male,Undergraduate,Good
+2548,24,Male,High School,Poor
+2549,21,Male,High School,Good
+2550,19,Other,Postgraduate,Poor
+2551,18,Other,High School,Poor
+2552,22,Female,Undergraduate,Good
+2553,18,Female,Postgraduate,Average
+2554,23,Female,High School,Poor
+2555,24,Male,High School,Average
+2556,21,Female,Postgraduate,Poor
+2557,18,Male,Postgraduate,Average
+2558,19,Female,Postgraduate,Poor
+2559,25,Female,High School,Good
+2560,22,Male,Undergraduate,Good
+2561,19,Other,Undergraduate,Poor
+2562,21,Female,High School,Average
+2563,24,Female,Undergraduate,Poor
+2564,22,Female,Undergraduate,Good
+2565,25,Male,High School,Good
+2566,25,Female,Postgraduate,Poor
+2567,23,Other,High School,Poor
+2568,25,Male,High School,Poor
+2569,20,Other,Postgraduate,Poor
+2570,16,Male,High School,Good
+2571,17,Other,Postgraduate,Poor
+2572,16,Male,Postgraduate,Average
+2573,23,Female,High School,Poor
+2574,17,Other,Undergraduate,Poor
+2575,24,Other,Undergraduate,Good
+2576,19,Male,Undergraduate,Poor
+2577,19,Female,Undergraduate,Average
+2578,19,Other,High School,Poor
+2579,18,Other,High School,Good
+2580,20,Male,High School,Average
+2581,19,Other,Undergraduate,Poor
+2582,20,Male,Undergraduate,Average
+2583,19,Female,Undergraduate,Average
+2584,23,Other,Postgraduate,Good
+2585,18,Male,Undergraduate,Good
+2586,17,Female,High School,Good
+2587,22,Other,High School,Average
+2588,18,Female,High School,Poor
+2589,17,Other,Undergraduate,Average
+2590,23,Female,High School,Average
+2591,18,Male,Undergraduate,Good
+2592,23,Other,Postgraduate,Poor
+2593,20,Male,High School,Poor
+2594,16,Female,Undergraduate,Good
+2595,16,Female,High School,Good
+2596,19,Other,Undergraduate,Poor
+2597,23,Female,Undergraduate,Good
+2598,25,Male,Postgraduate,Good
+2599,19,Other,Postgraduate,Good
+2600,20,Female,Postgraduate,Average
+2601,18,Other,Postgraduate,Poor
+2602,25,Male,High School,Good
+2603,24,Female,High School,Poor
+2604,23,Other,Postgraduate,Average
+2605,18,Female,Postgraduate,Good
+2606,18,Female,Undergraduate,Poor
+2607,21,Female,Undergraduate,Good
+2608,22,Female,Postgraduate,Good
+2609,20,Male,Postgraduate,Good
+2610,16,Female,Postgraduate,Average
+2611,21,Female,Postgraduate,Poor
+2612,24,Other,Undergraduate,Good
+2613,16,Male,Postgraduate,Average
+2614,21,Male,Undergraduate,Good
+2615,19,Male,High School,Average
+2616,25,Female,High School,Average
+2617,25,Male,Postgraduate,Good
+2618,19,Male,Postgraduate,Poor
+2619,24,Male,High School,Good
+2620,25,Other,Postgraduate,Poor
+2621,18,Male,Undergraduate,Average
+2622,22,Male,Undergraduate,Good
+2623,22,Female,Undergraduate,Good
+2624,24,Male,High School,Poor
+2625,24,Other,Undergraduate,Average
+2626,23,Male,High School,Poor
+2627,24,Male,Postgraduate,Poor
+2628,16,Other,Undergraduate,Good
+2629,23,Male,Postgraduate,Poor
+2630,18,Male,Postgraduate,Good
+2631,19,Male,Postgraduate,Poor
+2632,22,Male,High School,Good
+2633,25,Male,Postgraduate,Good
+2634,25,Male,High School,Good
+2635,18,Other,Undergraduate,Good
+2636,20,Female,Postgraduate,Poor
+2637,17,Other,Undergraduate,Average
+2638,19,Male,Postgraduate,Average
+2639,17,Other,Postgraduate,Good
+2640,19,Other,Undergraduate,Poor
+2641,18,Male,Postgraduate,Poor
+2642,24,Other,High School,Poor
+2643,23,Female,High School,Average
+2644,25,Other,Undergraduate,Poor
+2645,24,Male,High School,Poor
+2646,17,Female,Undergraduate,Poor
+2647,24,Other,Undergraduate,Poor
+2648,16,Male,High School,Average
+2649,24,Female,High School,Poor
+2650,20,Other,Undergraduate,Average
+2651,24,Male,Postgraduate,Poor
+2652,24,Other,Postgraduate,Good
+2653,19,Female,Undergraduate,Poor
+2654,23,Female,High School,Good
+2655,21,Other,High School,Good
+2656,21,Male,High School,Good
+2657,24,Female,Postgraduate,Good
+2658,17,Other,Postgraduate,Average
+2659,18,Other,Undergraduate,Poor
+2660,18,Other,High School,Average
+2661,22,Other,Postgraduate,Poor
+2662,20,Male,Undergraduate,Average
+2663,16,Male,High School,Poor
+2664,23,Other,High School,Good
+2665,20,Other,High School,Good
+2666,19,Male,Undergraduate,Poor
+2667,19,Other,Postgraduate,Average
+2668,17,Female,Postgraduate,Poor
+2669,16,Female,Postgraduate,Good
+2670,21,Female,Postgraduate,Good
+2671,18,Male,Undergraduate,Good
+2672,24,Male,High School,Poor
+2673,19,Male,Postgraduate,Poor
+2674,17,Male,Postgraduate,Poor
+2675,19,Other,Postgraduate,Good
+2676,19,Male,High School,Good
+2677,16,Other,Undergraduate,Good
+2678,23,Other,Undergraduate,Average
+2679,19,Male,Postgraduate,Good
+2680,19,Male,High School,Poor
+2681,22,Male,High School,Good
+2682,17,Male,Postgraduate,Average
+2683,21,Other,Postgraduate,Average
+2684,21,Other,High School,Average
+2685,22,Male,High School,Poor
+2686,17,Male,Postgraduate,Good
+2687,22,Other,Postgraduate,Good
+2688,17,Other,Undergraduate,Good
+2689,17,Female,Undergraduate,Average
+2690,16,Male,Postgraduate,Good
+2691,24,Female,High School,Poor
+2692,24,Female,Postgraduate,Average
+2693,20,Male,High School,Poor
+2694,22,Other,Postgraduate,Good
+2695,25,Female,Postgraduate,Good
+2696,22,Other,Postgraduate,Poor
+2697,18,Female,Postgraduate,Average
+2698,17,Male,High School,Poor
+2699,19,Other,Postgraduate,Good
+2700,23,Other,Undergraduate,Average
+2701,16,Male,Undergraduate,Good
+2702,23,Female,High School,Average
+2703,17,Other,Undergraduate,Average
+2704,25,Male,Postgraduate,Good
+2705,23,Female,High School,Good
+2706,17,Male,Undergraduate,Average
+2707,22,Female,Undergraduate,Poor
+2708,18,Other,High School,Good
+2709,21,Male,High School,Average
+2710,22,Male,Postgraduate,Average
+2711,21,Other,Postgraduate,Poor
+2712,20,Male,Postgraduate,Poor
+2713,24,Male,Postgraduate,Good
+2714,24,Male,Undergraduate,Average
+2715,18,Female,High School,Average
+2716,22,Female,Postgraduate,Average
+2717,17,Other,Postgraduate,Average
+2718,16,Female,Undergraduate,Average
+2719,25,Other,Undergraduate,Good
+2720,19,Female,Postgraduate,Good
+2721,18,Male,Undergraduate,Average
+2722,19,Male,Undergraduate,Poor
+2723,18,Female,Postgraduate,Good
+2724,25,Other,Postgraduate,Good
+2725,24,Other,Postgraduate,Poor
+2726,19,Female,Undergraduate,Good
+2727,19,Other,Undergraduate,Average
+2728,22,Male,Undergraduate,Average
+2729,19,Female,High School,Poor
+2730,24,Other,High School,Good
+2731,24,Female,High School,Average
+2732,24,Male,Undergraduate,Good
+2733,21,Female,High School,Good
+2734,25,Female,High School,Poor
+2735,24,Male,High School,Average
+2736,18,Other,Undergraduate,Poor
+2737,17,Male,Undergraduate,Poor
+2738,25,Other,Postgraduate,Poor
+2739,17,Other,High School,Good
+2740,22,Male,Undergraduate,Poor
+2741,25,Male,High School,Poor
+2742,20,Male,Postgraduate,Poor
+2743,19,Male,High School,Good
+2744,17,Male,Postgraduate,Good
+2745,19,Other,High School,Poor
+2746,25,Other,Undergraduate,Good
+2747,21,Male,Undergraduate,Poor
+2748,21,Female,Postgraduate,Average
+2749,23,Male,High School,Good
+2750,21,Other,High School,Poor
+2751,20,Female,High School,Poor
+2752,22,Female,Postgraduate,Poor
+2753,18,Female,High School,Good
+2754,19,Female,Postgraduate,Poor
+2755,21,Other,Postgraduate,Average
+2756,24,Male,High School,Average
+2757,21,Female,Undergraduate,Poor
+2758,19,Male,Postgraduate,Average
+2759,23,Other,Postgraduate,Poor
+2760,20,Female,High School,Poor
+2761,20,Other,Undergraduate,Good
+2762,23,Other,Undergraduate,Poor
+2763,24,Other,Undergraduate,Average
+2764,19,Female,High School,Poor
+2765,23,Female,Undergraduate,Good
+2766,23,Other,Undergraduate,Poor
+2767,18,Male,High School,Good
+2768,19,Male,Postgraduate,Good
+2769,17,Female,Undergraduate,Poor
+2770,20,Male,Undergraduate,Average
+2771,21,Female,High School,Good
+2772,21,Female,High School,Average
+2773,17,Female,High School,Good
+2774,19,Male,High School,Poor
+2775,17,Female,Postgraduate,Average
+2776,25,Female,High School,Average
+2777,20,Female,High School,Average
+2778,25,Other,Undergraduate,Good
+2779,17,Female,Undergraduate,Average
+2780,24,Male,Undergraduate,Good
+2781,25,Male,Undergraduate,Poor
+2782,16,Male,High School,Poor
+2783,21,Female,Postgraduate,Good
+2784,24,Female,Postgraduate,Average
+2785,18,Male,High School,Average
+2786,25,Other,Undergraduate,Good
+2787,24,Male,High School,Poor
+2788,17,Other,Postgraduate,Good
+2789,17,Male,Undergraduate,Good
+2790,25,Other,Postgraduate,Good
+2791,17,Male,Postgraduate,Poor
+2792,18,Female,Undergraduate,Good
+2793,19,Male,Undergraduate,Poor
+2794,18,Male,Postgraduate,Good
+2795,21,Other,Postgraduate,Average
+2796,21,Male,Undergraduate,Average
+2797,20,Other,High School,Good
+2798,17,Other,High School,Average
+2799,25,Other,Undergraduate,Average
+2800,19,Other,High School,Good
+2801,22,Female,Undergraduate,Good
+2802,23,Other,High School,Average
+2803,24,Female,Postgraduate,Good
+2804,17,Other,Undergraduate,Good
+2805,24,Male,High School,Average
+2806,22,Other,Postgraduate,Good
+2807,22,Other,Postgraduate,Good
+2808,16,Female,Postgraduate,Average
+2809,25,Female,High School,Poor
+2810,25,Male,Undergraduate,Average
+2811,23,Other,High School,Good
+2812,18,Other,Postgraduate,Poor
+2813,19,Male,Undergraduate,Good
+2814,25,Female,Undergraduate,Average
+2815,19,Other,Undergraduate,Average
+2816,17,Male,Undergraduate,Good
+2817,18,Female,Postgraduate,Good
+2818,20,Male,High School,Poor
+2819,18,Male,Undergraduate,Poor
+2820,20,Other,High School,Poor
+2821,23,Female,Undergraduate,Average
+2822,23,Other,Undergraduate,Good
+2823,25,Female,Undergraduate,Poor
+2824,18,Female,High School,Good
+2825,20,Other,High School,Average
+2826,16,Male,High School,Good
+2827,22,Male,High School,Average
+2828,18,Female,High School,Poor
+2829,22,Other,High School,Average
+2830,23,Male,Undergraduate,Good
+2831,25,Female,Postgraduate,Good
+2832,22,Female,High School,Poor
+2833,20,Other,High School,Good
+2834,24,Other,High School,Good
+2835,16,Male,High School,Average
+2836,21,Female,High School,Average
+2837,21,Female,Postgraduate,Good
+2838,22,Female,Postgraduate,Average
+2839,22,Other,Undergraduate,Good
+2840,17,Male,Undergraduate,Poor
+2841,25,Male,Undergraduate,Average
+2842,20,Other,Undergraduate,Good
+2843,21,Other,Undergraduate,Poor
+2844,17,Male,Postgraduate,Poor
+2845,24,Male,Postgraduate,Poor
+2846,21,Male,Undergraduate,Average
+2847,20,Male,Undergraduate,Average
+2848,23,Male,Undergraduate,Good
+2849,23,Other,Undergraduate,Poor
+2850,16,Other,High School,Poor
+2851,22,Male,High School,Good
+2852,21,Male,Undergraduate,Average
+2853,18,Female,High School,Average
+2854,16,Other,High School,Poor
+2855,17,Other,Undergraduate,Poor
+2856,16,Female,Postgraduate,Good
+2857,18,Male,Postgraduate,Good
+2858,21,Other,Postgraduate,Average
+2859,17,Female,Undergraduate,Good
+2860,21,Other,Postgraduate,Average
+2861,25,Other,Postgraduate,Good
+2862,23,Female,High School,Poor
+2863,18,Male,Undergraduate,Poor
+2864,18,Male,Undergraduate,Good
+2865,16,Other,High School,Good
+2866,18,Other,Postgraduate,Average
+2867,22,Male,Postgraduate,Poor
+2868,24,Other,Undergraduate,Average
+2869,23,Other,Postgraduate,Poor
+2870,18,Male,Postgraduate,Poor
+2871,20,Female,Postgraduate,Average
+2872,16,Female,Undergraduate,Average
+2873,16,Female,Postgraduate,Good
+2874,24,Female,High School,Average
+2875,25,Female,Undergraduate,Good
+2876,22,Male,Postgraduate,Good
+2877,19,Other,Postgraduate,Average
+2878,19,Female,High School,Good
+2879,18,Female,High School,Average
+2880,20,Female,High School,Average
+2881,23,Female,Postgraduate,Poor
+2882,18,Female,Undergraduate,Good
+2883,21,Female,Postgraduate,Good
+2884,19,Other,Postgraduate,Good
+2885,18,Other,Undergraduate,Poor
+2886,16,Female,Undergraduate,Poor
+2887,23,Female,Undergraduate,Average
+2888,22,Female,Postgraduate,Good
+2889,22,Female,Postgraduate,Poor
+2890,23,Female,Undergraduate,Poor
+2891,25,Male,Postgraduate,Poor
+2892,24,Female,Undergraduate,Good
+2893,25,Male,High School,Average
+2894,18,Male,Undergraduate,Average
+2895,17,Male,Undergraduate,Good
+2896,19,Male,Undergraduate,Average
+2897,19,Male,Postgraduate,Poor
+2898,23,Male,High School,Poor
+2899,23,Other,Undergraduate,Poor
+2900,22,Female,Postgraduate,Poor
+2901,20,Male,High School,Good
+2902,16,Male,Undergraduate,Average
+2903,21,Other,Undergraduate,Average
+2904,16,Male,High School,Average
+2905,17,Other,High School,Poor
+2906,21,Other,Undergraduate,Average
+2907,16,Other,Undergraduate,Average
+2908,21,Other,Postgraduate,Poor
+2909,24,Female,Postgraduate,Poor
+2910,21,Female,Postgraduate,Average
+2911,16,Male,Postgraduate,Good
+2912,24,Female,High School,Good
+2913,22,Female,Postgraduate,Average
+2914,20,Female,Undergraduate,Poor
+2915,22,Other,Undergraduate,Good
+2916,21,Male,Undergraduate,Average
+2917,23,Female,Postgraduate,Average
+2918,23,Other,Postgraduate,Poor
+2919,23,Female,High School,Poor
+2920,21,Male,High School,Average
+2921,17,Male,Postgraduate,Good
+2922,16,Female,Undergraduate,Good
+2923,21,Male,Postgraduate,Average
+2924,17,Male,Postgraduate,Good
+2925,22,Other,Undergraduate,Good
+2926,25,Male,Postgraduate,Poor
+2927,17,Female,High School,Poor
+2928,22,Other,Postgraduate,Average
+2929,16,Other,Postgraduate,Average
+2930,21,Female,High School,Poor
+2931,23,Other,Postgraduate,Good
+2932,19,Female,Postgraduate,Poor
+2933,17,Female,High School,Average
+2934,24,Female,Undergraduate,Poor
+2935,21,Female,Postgraduate,Average
+2936,17,Male,High School,Average
+2937,20,Female,High School,Good
+2938,22,Male,Undergraduate,Average
+2939,18,Other,High School,Average
+2940,16,Male,Postgraduate,Poor
+2941,25,Other,Undergraduate,Good
+2942,20,Other,Postgraduate,Good
+2943,20,Female,Undergraduate,Poor
+2944,22,Female,High School,Poor
+2945,21,Male,Postgraduate,Poor
+2946,16,Male,Postgraduate,Good
+2947,16,Female,Undergraduate,Good
+2948,22,Other,Undergraduate,Good
+2949,17,Other,Undergraduate,Good
+2950,24,Other,High School,Good
+2951,24,Other,High School,Good
+2952,19,Female,High School,Good
+2953,18,Male,High School,Poor
+2954,23,Male,Postgraduate,Poor
+2955,19,Female,High School,Good
+2956,18,Female,High School,Good
+2957,18,Other,Undergraduate,Good
+2958,18,Male,High School,Poor
+2959,16,Female,High School,Good
+2960,20,Other,Postgraduate,Good
+2961,17,Other,Undergraduate,Average
+2962,22,Male,High School,Average
+2963,19,Male,Postgraduate,Good
+2964,17,Female,Undergraduate,Good
+2965,23,Male,Postgraduate,Good
+2966,23,Male,Undergraduate,Good
+2967,16,Female,Undergraduate,Poor
+2968,20,Female,Postgraduate,Average
+2969,25,Male,Undergraduate,Good
+2970,17,Other,Postgraduate,Average
+2971,24,Male,High School,Average
+2972,17,Other,Postgraduate,Poor
+2973,22,Male,Postgraduate,Average
+2974,17,Other,Undergraduate,Poor
+2975,17,Female,Postgraduate,Poor
+2976,16,Male,High School,Poor
+2977,16,Other,Undergraduate,Good
+2978,24,Other,Undergraduate,Average
+2979,17,Male,Postgraduate,Poor
+2980,18,Female,High School,Poor
+2981,24,Male,Undergraduate,Average
+2982,21,Male,Undergraduate,Average
+2983,21,Female,Postgraduate,Good
+2984,24,Male,Postgraduate,Average
+2985,22,Male,Postgraduate,Good
+2986,18,Male,Undergraduate,Good
+2987,24,Other,Undergraduate,Poor
+2988,19,Male,Postgraduate,Poor
+2989,25,Male,Postgraduate,Poor
+2990,18,Female,High School,Average
+2991,24,Other,Postgraduate,Poor
+2992,18,Male,Undergraduate,Poor
+2993,16,Male,Postgraduate,Average
+2994,25,Other,High School,Poor
+2995,18,Female,High School,Average
+2996,18,Female,Postgraduate,Good
+2997,20,Other,Postgraduate,Poor
+2998,24,Female,Undergraduate,Average
+2999,22,Female,Undergraduate,Good
+3000,18,Male,High School,Average
+3001,18,Male,Postgraduate,Average
+3002,19,Female,Postgraduate,Average
+3003,22,Other,Postgraduate,Poor
+3004,19,Female,Undergraduate,Average
+3005,24,Other,Postgraduate,Average
+3006,18,Female,Postgraduate,Good
+3007,22,Female,Postgraduate,Good
+3008,25,Male,Postgraduate,Average
+3009,24,Other,Undergraduate,Good
+3010,20,Male,High School,Poor
+3011,19,Male,Postgraduate,Poor
+3012,17,Female,Postgraduate,Poor
+3013,20,Male,Postgraduate,Good
+3014,18,Other,Postgraduate,Poor
+3015,18,Female,Undergraduate,Average
+3016,25,Female,Postgraduate,Good
+3017,22,Female,Undergraduate,Good
+3018,21,Male,Postgraduate,Good
+3019,18,Male,Undergraduate,Poor
+3020,24,Other,Postgraduate,Average
+3021,22,Male,Undergraduate,Average
+3022,23,Female,High School,Good
+3023,19,Male,Postgraduate,Good
+3024,22,Other,Postgraduate,Good
+3025,24,Male,Postgraduate,Poor
+3026,23,Female,Postgraduate,Average
+3027,22,Female,Postgraduate,Good
+3028,20,Other,Postgraduate,Poor
+3029,23,Female,High School,Poor
+3030,23,Female,Postgraduate,Average
+3031,19,Male,Postgraduate,Poor
+3032,24,Male,High School,Good
+3033,16,Other,High School,Average
+3034,24,Female,Postgraduate,Good
+3035,16,Female,Postgraduate,Average
+3036,20,Other,High School,Poor
+3037,21,Female,Undergraduate,Average
+3038,25,Female,Undergraduate,Poor
+3039,20,Male,High School,Poor
+3040,19,Male,Undergraduate,Average
+3041,20,Male,Undergraduate,Good
+3042,22,Female,Undergraduate,Good
+3043,17,Male,Postgraduate,Good
+3044,22,Male,High School,Good
+3045,24,Male,Undergraduate,Poor
+3046,22,Other,Undergraduate,Poor
+3047,19,Other,High School,Average
+3048,23,Male,Postgraduate,Good
+3049,25,Male,Postgraduate,Good
+3050,23,Other,Postgraduate,Poor
+3051,24,Other,Undergraduate,Average
+3052,21,Male,High School,Average
+3053,16,Other,High School,Good
+3054,24,Other,High School,Good
+3055,24,Other,Undergraduate,Average
+3056,16,Male,Undergraduate,Average
+3057,24,Female,Undergraduate,Poor
+3058,16,Female,Postgraduate,Poor
+3059,17,Female,Undergraduate,Poor
+3060,21,Female,Undergraduate,Poor
+3061,22,Female,High School,Poor
+3062,22,Other,Postgraduate,Poor
+3063,21,Other,Undergraduate,Poor
+3064,23,Other,Postgraduate,Poor
+3065,23,Male,Postgraduate,Good
+3066,16,Male,Postgraduate,Good
+3067,24,Male,Undergraduate,Average
+3068,19,Other,High School,Good
+3069,19,Female,Postgraduate,Average
+3070,24,Female,Postgraduate,Good
+3071,25,Other,High School,Good
+3072,17,Female,High School,Good
+3073,21,Male,Postgraduate,Average
+3074,17,Male,Postgraduate,Average
+3075,24,Other,Undergraduate,Good
+3076,18,Other,High School,Average
+3077,21,Male,High School,Poor
+3078,18,Male,High School,Average
+3079,20,Other,High School,Poor
+3080,18,Male,Postgraduate,Poor
+3081,23,Female,Undergraduate,Average
+3082,19,Other,Postgraduate,Poor
+3083,18,Other,Undergraduate,Poor
+3084,23,Other,High School,Average
+3085,22,Other,Undergraduate,Good
+3086,16,Female,High School,Poor
+3087,18,Other,Undergraduate,Average
+3088,18,Female,Undergraduate,Good
+3089,19,Female,High School,Good
+3090,16,Male,High School,Good
+3091,25,Female,Undergraduate,Poor
+3092,24,Male,High School,Poor
+3093,17,Other,High School,Poor
+3094,22,Male,Postgraduate,Poor
+3095,17,Female,High School,Good
+3096,23,Other,High School,Average
+3097,18,Other,Postgraduate,Good
+3098,21,Other,Postgraduate,Good
+3099,23,Female,Undergraduate,Good
+3100,20,Female,Undergraduate,Good
+3101,22,Other,High School,Poor
+3102,24,Other,High School,Poor
+3103,20,Male,High School,Good
+3104,25,Other,Postgraduate,Good
+3105,22,Other,High School,Good
+3106,23,Other,High School,Average
+3107,25,Female,Postgraduate,Poor
+3108,19,Female,Postgraduate,Average
+3109,23,Male,Postgraduate,Poor
+3110,23,Male,Undergraduate,Average
+3111,16,Male,Undergraduate,Poor
+3112,22,Female,Undergraduate,Good
+3113,21,Female,Postgraduate,Poor
+3114,24,Male,High School,Poor
+3115,25,Other,Undergraduate,Poor
+3116,23,Male,Postgraduate,Average
+3117,19,Male,High School,Poor
+3118,17,Female,Postgraduate,Average
+3119,18,Male,Undergraduate,Good
+3120,22,Male,Undergraduate,Good
+3121,24,Male,Postgraduate,Average
+3122,18,Male,High School,Good
+3123,22,Male,Postgraduate,Poor
+3124,25,Male,Postgraduate,Average
+3125,16,Other,High School,Average
+3126,18,Female,Undergraduate,Good
+3127,17,Other,Postgraduate,Average
+3128,21,Male,Postgraduate,Good
+3129,24,Other,High School,Poor
+3130,18,Male,Postgraduate,Average
+3131,23,Other,Undergraduate,Good
+3132,24,Male,Postgraduate,Good
+3133,23,Female,Undergraduate,Average
+3134,24,Male,Postgraduate,Average
+3135,24,Male,Undergraduate,Average
+3136,18,Male,Postgraduate,Average
+3137,24,Male,Postgraduate,Average
+3138,16,Female,Postgraduate,Good
+3139,19,Other,Undergraduate,Poor
+3140,25,Female,Undergraduate,Good
+3141,16,Male,Postgraduate,Poor
+3142,17,Male,Undergraduate,Average
+3143,19,Male,Postgraduate,Poor
+3144,25,Female,High School,Average
+3145,23,Male,High School,Good
+3146,25,Other,Postgraduate,Good
+3147,21,Male,Postgraduate,Good
+3148,19,Other,Postgraduate,Poor
+3149,19,Female,High School,Poor
+3150,21,Male,High School,Good
+3151,16,Male,High School,Poor
+3152,20,Male,Postgraduate,Good
+3153,19,Female,High School,Good
+3154,23,Female,Undergraduate,Average
+3155,25,Other,High School,Poor
+3156,24,Other,Undergraduate,Good
+3157,25,Male,Postgraduate,Poor
+3158,17,Male,Postgraduate,Poor
+3159,17,Female,High School,Average
+3160,23,Male,Postgraduate,Good
+3161,21,Other,Undergraduate,Average
+3162,23,Male,High School,Poor
+3163,16,Other,Postgraduate,Average
+3164,18,Female,High School,Poor
+3165,22,Female,High School,Average
+3166,22,Female,Undergraduate,Average
+3167,20,Male,High School,Average
+3168,24,Female,High School,Good
+3169,17,Male,High School,Good
+3170,16,Female,Undergraduate,Average
+3171,18,Male,Undergraduate,Average
+3172,22,Male,Postgraduate,Poor
+3173,23,Male,High School,Good
+3174,23,Female,Undergraduate,Average
+3175,17,Male,Postgraduate,Average
+3176,21,Other,High School,Good
+3177,20,Other,High School,Poor
+3178,17,Female,High School,Good
+3179,25,Other,High School,Poor
+3180,16,Female,High School,Good
+3181,19,Female,High School,Good
+3182,21,Male,High School,Poor
+3183,24,Male,Postgraduate,Average
+3184,24,Male,High School,Average
+3185,18,Other,Undergraduate,Good
+3186,24,Other,High School,Poor
+3187,21,Other,Postgraduate,Poor
+3188,23,Male,High School,Good
+3189,23,Other,High School,Good
+3190,18,Other,Postgraduate,Poor
+3191,18,Male,Postgraduate,Average
+3192,24,Male,High School,Average
+3193,25,Male,High School,Poor
+3194,18,Other,Postgraduate,Poor
+3195,19,Female,Postgraduate,Poor
+3196,22,Male,Postgraduate,Good
+3197,24,Other,Postgraduate,Average
+3198,18,Other,High School,Poor
+3199,16,Female,High School,Poor
+3200,17,Male,Postgraduate,Average
+3201,25,Other,High School,Poor
+3202,19,Male,Postgraduate,Average
+3203,22,Male,High School,Good
+3204,16,Female,Postgraduate,Good
+3205,19,Female,Postgraduate,Good
+3206,17,Female,High School,Poor
+3207,22,Other,Postgraduate,Poor
+3208,22,Female,Postgraduate,Poor
+3209,22,Female,Undergraduate,Good
+3210,21,Other,High School,Poor
+3211,20,Male,High School,Good
+3212,18,Female,Postgraduate,Average
+3213,23,Male,Undergraduate,Average
+3214,22,Male,Postgraduate,Good
+3215,17,Other,Postgraduate,Poor
+3216,20,Female,Undergraduate,Good
+3217,17,Female,Postgraduate,Average
+3218,18,Other,Undergraduate,Good
+3219,22,Other,Postgraduate,Average
+3220,25,Male,High School,Average
+3221,17,Female,High School,Average
+3222,16,Female,Postgraduate,Average
+3223,21,Other,High School,Poor
+3224,20,Female,Postgraduate,Average
+3225,22,Female,Postgraduate,Poor
+3226,19,Other,Postgraduate,Poor
+3227,17,Other,Undergraduate,Good
+3228,22,Male,High School,Poor
+3229,17,Female,Postgraduate,Average
+3230,18,Other,Postgraduate,Good
+3231,20,Other,Undergraduate,Good
+3232,19,Female,Postgraduate,Poor
+3233,25,Other,High School,Poor
+3234,19,Other,High School,Poor
+3235,17,Male,Undergraduate,Poor
+3236,24,Female,Postgraduate,Average
+3237,17,Male,Postgraduate,Good
+3238,24,Female,High School,Poor
+3239,24,Male,Undergraduate,Poor
+3240,20,Female,High School,Average
+3241,23,Other,High School,Good
+3242,20,Other,High School,Good
+3243,24,Male,High School,Poor
+3244,21,Male,Undergraduate,Good
+3245,23,Male,High School,Good
+3246,25,Other,Postgraduate,Average
+3247,22,Male,High School,Average
+3248,20,Female,High School,Poor
+3249,20,Male,Undergraduate,Average
+3250,22,Female,Postgraduate,Good
+3251,21,Male,Postgraduate,Poor
+3252,18,Other,High School,Average
+3253,24,Male,High School,Good
+3254,25,Other,Undergraduate,Average
+3255,21,Other,Undergraduate,Poor
+3256,22,Female,High School,Good
+3257,22,Female,High School,Average
+3258,17,Other,Postgraduate,Poor
+3259,17,Other,High School,Poor
+3260,17,Male,Undergraduate,Good
+3261,25,Male,Undergraduate,Average
+3262,25,Female,Undergraduate,Average
+3263,22,Male,High School,Average
+3264,20,Female,Undergraduate,Average
+3265,25,Male,Undergraduate,Average
+3266,17,Male,Postgraduate,Good
+3267,16,Female,High School,Poor
+3268,19,Female,Postgraduate,Good
+3269,17,Female,Undergraduate,Poor
+3270,16,Male,Undergraduate,Average
+3271,25,Other,Undergraduate,Average
+3272,19,Other,High School,Poor
+3273,23,Female,Undergraduate,Poor
+3274,16,Female,Postgraduate,Poor
+3275,22,Other,High School,Average
+3276,21,Other,Undergraduate,Average
+3277,16,Other,Undergraduate,Poor
+3278,18,Male,Postgraduate,Poor
+3279,24,Female,Undergraduate,Average
+3280,22,Male,Postgraduate,Poor
+3281,18,Other,Postgraduate,Poor
+3282,20,Male,Postgraduate,Average
+3283,24,Male,Postgraduate,Good
+3284,25,Male,Undergraduate,Poor
+3285,24,Female,High School,Good
+3286,18,Other,High School,Average
+3287,20,Other,Postgraduate,Average
+3288,21,Female,High School,Average
+3289,16,Female,High School,Poor
+3290,22,Other,Postgraduate,Good
+3291,24,Female,Undergraduate,Poor
+3292,21,Female,Undergraduate,Average
+3293,21,Other,Undergraduate,Poor
+3294,23,Other,High School,Average
+3295,17,Male,High School,Average
+3296,16,Male,High School,Average
+3297,20,Other,Postgraduate,Poor
+3298,23,Female,Undergraduate,Average
+3299,20,Other,Undergraduate,Poor
+3300,22,Female,High School,Poor
+3301,21,Male,Postgraduate,Good
+3302,17,Other,Postgraduate,Good
+3303,21,Other,High School,Average
+3304,18,Female,Undergraduate,Poor
+3305,16,Male,Postgraduate,Poor
+3306,17,Male,Undergraduate,Average
+3307,23,Other,Undergraduate,Average
+3308,22,Other,Postgraduate,Average
+3309,19,Other,Postgraduate,Poor
+3310,23,Other,Postgraduate,Good
+3311,19,Male,Undergraduate,Average
+3312,21,Male,Undergraduate,Poor
+3313,25,Female,High School,Poor
+3314,25,Other,Postgraduate,Average
+3315,21,Female,Postgraduate,Good
+3316,21,Male,High School,Good
+3317,20,Male,High School,Poor
+3318,20,Male,Undergraduate,Good
+3319,23,Female,High School,Poor
+3320,18,Other,Undergraduate,Poor
+3321,18,Female,Undergraduate,Poor
+3322,25,Other,High School,Good
+3323,20,Male,Postgraduate,Good
+3324,19,Other,Undergraduate,Average
+3325,23,Female,Undergraduate,Good
+3326,23,Male,Postgraduate,Average
+3327,21,Other,High School,Good
+3328,24,Male,Postgraduate,Average
+3329,23,Female,Postgraduate,Good
+3330,25,Female,Undergraduate,Poor
+3331,19,Other,Undergraduate,Average
+3332,18,Male,High School,Good
+3333,18,Other,High School,Poor
+3334,22,Female,Undergraduate,Poor
+3335,23,Male,High School,Poor
+3336,16,Female,Postgraduate,Good
+3337,17,Other,High School,Good
+3338,18,Female,Postgraduate,Poor
+3339,25,Male,Postgraduate,Good
+3340,25,Male,Postgraduate,Poor
+3341,16,Female,Undergraduate,Poor
+3342,17,Male,Undergraduate,Poor
+3343,24,Female,High School,Average
+3344,20,Female,High School,Good
+3345,20,Male,Undergraduate,Good
+3346,22,Male,Postgraduate,Good
+3347,24,Female,Postgraduate,Good
+3348,23,Male,Undergraduate,Average
+3349,21,Other,High School,Poor
+3350,16,Male,Undergraduate,Poor
+3351,25,Other,Undergraduate,Average
+3352,18,Male,Undergraduate,Poor
+3353,19,Female,Postgraduate,Poor
+3354,23,Male,High School,Poor
+3355,22,Male,Postgraduate,Average
+3356,24,Other,High School,Poor
+3357,23,Female,Postgraduate,Average
+3358,20,Female,Undergraduate,Average
+3359,19,Female,Postgraduate,Average
+3360,23,Female,Undergraduate,Poor
+3361,24,Other,Undergraduate,Poor
+3362,25,Other,Undergraduate,Average
+3363,18,Male,Undergraduate,Average
+3364,25,Other,Postgraduate,Average
+3365,24,Female,Postgraduate,Good
+3366,19,Male,High School,Good
+3367,25,Other,Undergraduate,Poor
+3368,23,Male,High School,Average
+3369,21,Other,Undergraduate,Good
+3370,21,Male,Undergraduate,Good
+3371,16,Other,High School,Average
+3372,16,Female,High School,Poor
+3373,19,Other,Postgraduate,Good
+3374,18,Male,Undergraduate,Poor
+3375,24,Female,High School,Average
+3376,17,Female,High School,Poor
+3377,23,Male,High School,Average
+3378,25,Male,Undergraduate,Average
+3379,25,Other,Undergraduate,Poor
+3380,25,Female,High School,Poor
+3381,22,Male,Postgraduate,Poor
+3382,23,Other,High School,Good
+3383,22,Female,Postgraduate,Good
+3384,18,Other,Postgraduate,Good
+3385,18,Male,High School,Good
+3386,18,Female,Undergraduate,Poor
+3387,22,Other,High School,Poor
+3388,16,Male,High School,Poor
+3389,23,Female,Undergraduate,Good
+3390,22,Other,Undergraduate,Average
+3391,22,Other,Undergraduate,Average
+3392,23,Female,Postgraduate,Poor
+3393,16,Female,Undergraduate,Poor
+3394,17,Male,Undergraduate,Good
+3395,18,Male,High School,Average
+3396,19,Female,High School,Poor
+3397,18,Other,High School,Poor
+3398,20,Female,High School,Poor
+3399,17,Female,Postgraduate,Poor
+3400,22,Other,Undergraduate,Good
+3401,22,Male,Postgraduate,Average
+3402,22,Female,Undergraduate,Poor
+3403,23,Other,High School,Average
+3404,16,Female,Postgraduate,Good
+3405,22,Other,Postgraduate,Good
+3406,17,Female,Undergraduate,Average
+3407,24,Female,Undergraduate,Good
+3408,25,Other,High School,Poor
+3409,23,Male,Undergraduate,Average
+3410,22,Other,Postgraduate,Good
+3411,16,Male,High School,Average
+3412,16,Other,Undergraduate,Average
+3413,16,Male,High School,Good
+3414,18,Other,High School,Poor
+3415,22,Female,Postgraduate,Poor
+3416,24,Other,High School,Poor
+3417,24,Female,Postgraduate,Good
+3418,20,Female,Postgraduate,Average
+3419,19,Female,Postgraduate,Good
+3420,21,Male,Postgraduate,Good
+3421,24,Male,Undergraduate,Poor
+3422,22,Other,Undergraduate,Average
+3423,25,Other,Undergraduate,Good
+3424,16,Male,Undergraduate,Poor
+3425,18,Other,High School,Good
+3426,23,Female,Undergraduate,Average
+3427,20,Male,Postgraduate,Good
+3428,25,Other,Undergraduate,Poor
+3429,16,Male,High School,Good
+3430,23,Male,Undergraduate,Poor
+3431,19,Female,Postgraduate,Good
+3432,21,Female,High School,Good
+3433,23,Other,Postgraduate,Good
+3434,16,Male,Undergraduate,Average
+3435,16,Female,High School,Average
+3436,22,Other,Undergraduate,Good
+3437,24,Male,High School,Poor
+3438,20,Male,Undergraduate,Poor
+3439,24,Male,Postgraduate,Good
+3440,16,Other,Postgraduate,Poor
+3441,25,Female,Postgraduate,Good
+3442,23,Male,Undergraduate,Good
+3443,23,Other,Undergraduate,Poor
+3444,18,Female,Undergraduate,Average
+3445,18,Male,Undergraduate,Good
+3446,18,Female,Undergraduate,Good
+3447,25,Female,High School,Good
+3448,18,Other,Postgraduate,Poor
+3449,19,Other,Undergraduate,Average
+3450,24,Female,Undergraduate,Good
+3451,22,Male,Postgraduate,Poor
+3452,17,Female,High School,Poor
+3453,16,Other,Undergraduate,Average
+3454,25,Male,Undergraduate,Poor
+3455,25,Female,High School,Good
+3456,16,Other,Postgraduate,Average
+3457,18,Male,High School,Poor
+3458,23,Female,High School,Poor
+3459,19,Other,Undergraduate,Average
+3460,17,Male,Postgraduate,Good
+3461,19,Other,High School,Good
+3462,20,Male,Postgraduate,Good
+3463,22,Other,Undergraduate,Average
+3464,17,Female,High School,Poor
+3465,22,Male,Undergraduate,Good
+3466,18,Other,High School,Poor
+3467,24,Other,Postgraduate,Average
+3468,16,Female,Postgraduate,Good
+3469,23,Other,Undergraduate,Average
+3470,19,Other,High School,Good
+3471,19,Female,High School,Average
+3472,16,Male,Postgraduate,Average
+3473,24,Male,High School,Average
+3474,21,Male,Postgraduate,Good
+3475,20,Other,Postgraduate,Average
+3476,20,Female,High School,Average
+3477,19,Male,Postgraduate,Average
+3478,21,Other,Undergraduate,Poor
+3479,24,Other,High School,Poor
+3480,18,Male,Undergraduate,Average
+3481,20,Other,High School,Poor
+3482,16,Female,High School,Good
+3483,16,Male,High School,Good
+3484,25,Female,Undergraduate,Poor
+3485,24,Other,Postgraduate,Average
+3486,18,Male,High School,Poor
+3487,17,Male,Postgraduate,Poor
+3488,24,Female,Postgraduate,Poor
+3489,23,Other,High School,Average
+3490,18,Other,Postgraduate,Poor
+3491,25,Other,Undergraduate,Good
+3492,24,Other,High School,Poor
+3493,25,Female,High School,Poor
+3494,20,Other,Postgraduate,Poor
+3495,18,Male,Postgraduate,Average
+3496,21,Other,Postgraduate,Good
+3497,23,Male,Postgraduate,Average
+3498,20,Male,Undergraduate,Average
+3499,20,Other,High School,Good
+3500,19,Female,Postgraduate,Poor
+3501,24,Other,Undergraduate,Good
+3502,24,Female,Undergraduate,Average
+3503,17,Other,High School,Poor
+3504,16,Female,Postgraduate,Poor
+3505,22,Other,Undergraduate,Good
+3506,24,Male,Postgraduate,Poor
+3507,16,Female,Undergraduate,Poor
+3508,24,Female,Postgraduate,Poor
+3509,23,Female,High School,Poor
+3510,17,Male,Undergraduate,Average
+3511,18,Other,Postgraduate,Poor
+3512,20,Male,Undergraduate,Average
+3513,19,Male,Undergraduate,Average
+3514,16,Male,Postgraduate,Poor
+3515,19,Other,Postgraduate,Average
+3516,24,Male,High School,Poor
+3517,22,Female,High School,Good
+3518,17,Male,Undergraduate,Average
+3519,25,Other,Undergraduate,Poor
+3520,20,Other,Undergraduate,Poor
+3521,24,Male,Postgraduate,Good
+3522,20,Male,Undergraduate,Poor
+3523,19,Male,Undergraduate,Good
+3524,19,Male,Postgraduate,Average
+3525,24,Female,High School,Good
+3526,20,Male,Undergraduate,Good
+3527,20,Other,Undergraduate,Good
+3528,20,Other,High School,Poor
+3529,20,Other,High School,Good
+3530,19,Male,Undergraduate,Average
+3531,25,Female,Undergraduate,Poor
+3532,17,Other,Postgraduate,Good
+3533,18,Male,High School,Average
+3534,24,Male,High School,Good
+3535,16,Other,Postgraduate,Good
+3536,21,Female,High School,Good
+3537,18,Female,Undergraduate,Good
+3538,16,Other,High School,Average
+3539,20,Male,Undergraduate,Good
+3540,18,Female,High School,Poor
+3541,25,Male,Undergraduate,Average
+3542,21,Male,High School,Good
+3543,18,Male,Postgraduate,Average
+3544,24,Female,Undergraduate,Good
+3545,20,Female,Undergraduate,Good
+3546,25,Female,Postgraduate,Average
+3547,24,Female,High School,Average
+3548,21,Male,High School,Good
+3549,25,Other,Undergraduate,Average
+3550,17,Female,Postgraduate,Average
+3551,21,Other,Undergraduate,Good
+3552,25,Other,Postgraduate,Average
+3553,25,Other,High School,Poor
+3554,20,Female,High School,Average
+3555,20,Other,High School,Good
+3556,19,Other,High School,Good
+3557,23,Other,High School,Poor
+3558,20,Other,High School,Poor
+3559,24,Male,High School,Poor
+3560,19,Other,Undergraduate,Average
+3561,18,Female,Postgraduate,Good
+3562,25,Male,High School,Average
+3563,17,Male,High School,Poor
+3564,25,Male,Undergraduate,Poor
+3565,24,Male,Postgraduate,Good
+3566,17,Male,Postgraduate,Average
+3567,22,Male,High School,Good
+3568,16,Male,Postgraduate,Average
+3569,22,Male,Postgraduate,Average
+3570,17,Other,High School,Average
+3571,20,Female,Postgraduate,Average
+3572,16,Male,Undergraduate,Good
+3573,23,Female,Undergraduate,Average
+3574,21,Other,Undergraduate,Average
+3575,25,Male,Undergraduate,Good
+3576,21,Female,High School,Poor
+3577,20,Female,High School,Average
+3578,18,Other,High School,Poor
+3579,19,Female,Postgraduate,Good
+3580,19,Male,High School,Poor
+3581,19,Other,Undergraduate,Average
+3582,25,Male,Undergraduate,Good
+3583,19,Other,Postgraduate,Average
+3584,25,Other,High School,Average
+3585,21,Female,High School,Good
+3586,16,Other,High School,Good
+3587,23,Male,High School,Average
+3588,16,Male,Postgraduate,Average
+3589,23,Male,Postgraduate,Good
+3590,22,Male,Undergraduate,Poor
+3591,24,Other,High School,Poor
+3592,23,Female,High School,Poor
+3593,19,Female,Undergraduate,Good
+3594,16,Male,Undergraduate,Poor
+3595,21,Male,Undergraduate,Poor
+3596,25,Other,High School,Average
+3597,20,Other,Postgraduate,Poor
+3598,23,Female,Postgraduate,Poor
+3599,16,Female,Undergraduate,Good
+3600,16,Female,Undergraduate,Poor
+3601,16,Female,High School,Average
+3602,23,Male,High School,Average
+3603,18,Female,High School,Good
+3604,24,Other,Undergraduate,Average
+3605,22,Female,High School,Good
+3606,20,Other,Undergraduate,Good
+3607,22,Other,High School,Good
+3608,17,Female,Postgraduate,Average
+3609,20,Female,Postgraduate,Average
+3610,16,Female,High School,Poor
+3611,21,Other,High School,Poor
+3612,22,Female,Undergraduate,Poor
+3613,18,Other,Undergraduate,Average
+3614,19,Other,Postgraduate,Average
+3615,17,Male,High School,Good
+3616,23,Other,Postgraduate,Average
+3617,18,Female,Undergraduate,Poor
+3618,19,Male,High School,Good
+3619,19,Male,Postgraduate,Good
+3620,17,Other,Undergraduate,Poor
+3621,17,Male,Postgraduate,Average
+3622,20,Other,Undergraduate,Poor
+3623,20,Male,High School,Average
+3624,24,Male,High School,Poor
+3625,21,Other,Postgraduate,Poor
+3626,17,Other,Undergraduate,Good
+3627,23,Other,High School,Poor
+3628,25,Other,High School,Poor
+3629,24,Female,Postgraduate,Good
+3630,16,Female,Postgraduate,Average
+3631,24,Female,Undergraduate,Poor
+3632,19,Other,High School,Good
+3633,19,Male,Undergraduate,Poor
+3634,24,Male,Undergraduate,Good
+3635,23,Female,Postgraduate,Poor
+3636,17,Other,Undergraduate,Poor
+3637,17,Male,Postgraduate,Poor
+3638,20,Other,High School,Average
+3639,22,Other,High School,Average
+3640,17,Other,Undergraduate,Average
+3641,16,Male,Postgraduate,Poor
+3642,20,Male,Undergraduate,Average
+3643,22,Female,Postgraduate,Good
+3644,22,Female,Postgraduate,Good
+3645,20,Other,Undergraduate,Poor
+3646,25,Female,High School,Poor
+3647,19,Female,Undergraduate,Average
+3648,21,Male,High School,Average
+3649,18,Male,Postgraduate,Good
+3650,19,Female,High School,Good
+3651,25,Female,Postgraduate,Good
+3652,19,Male,High School,Poor
+3653,23,Female,Postgraduate,Good
+3654,17,Male,High School,Average
+3655,24,Male,Postgraduate,Good
+3656,20,Female,Undergraduate,Good
+3657,18,Female,Postgraduate,Average
+3658,19,Male,High School,Average
+3659,23,Female,Undergraduate,Good
+3660,21,Male,Undergraduate,Good
+3661,19,Other,Postgraduate,Average
+3662,20,Male,Postgraduate,Poor
+3663,22,Male,Undergraduate,Good
+3664,22,Male,High School,Good
+3665,21,Male,Postgraduate,Good
+3666,16,Male,High School,Good
+3667,16,Female,Postgraduate,Poor
+3668,16,Male,Undergraduate,Poor
+3669,19,Male,Postgraduate,Poor
+3670,20,Female,Undergraduate,Poor
+3671,25,Female,High School,Average
+3672,20,Male,High School,Good
+3673,17,Other,Postgraduate,Good
+3674,17,Female,Undergraduate,Average
+3675,24,Female,High School,Good
+3676,21,Male,Undergraduate,Average
+3677,21,Other,High School,Poor
+3678,22,Male,High School,Poor
+3679,20,Male,Undergraduate,Good
+3680,18,Female,Postgraduate,Good
+3681,25,Female,Undergraduate,Average
+3682,18,Other,High School,Good
+3683,16,Other,Postgraduate,Poor
+3684,19,Other,Postgraduate,Good
+3685,25,Male,High School,Good
+3686,21,Male,Postgraduate,Good
+3687,19,Female,Postgraduate,Average
+3688,24,Female,Postgraduate,Good
+3689,20,Other,High School,Good
+3690,22,Female,Postgraduate,Poor
+3691,17,Male,High School,Good
+3692,21,Male,Postgraduate,Poor
+3693,17,Other,High School,Average
+3694,22,Male,High School,Average
+3695,23,Male,High School,Average
+3696,23,Male,High School,Poor
+3697,23,Male,Postgraduate,Poor
+3698,18,Male,Postgraduate,Poor
+3699,18,Male,Postgraduate,Poor
+3700,24,Female,High School,Poor
+3701,25,Other,Postgraduate,Poor
+3702,25,Female,High School,Good
+3703,20,Male,High School,Poor
+3704,20,Other,High School,Average
+3705,24,Other,High School,Poor
+3706,25,Other,High School,Average
+3707,20,Female,High School,Good
+3708,24,Male,Undergraduate,Good
+3709,25,Other,Postgraduate,Poor
+3710,23,Female,Postgraduate,Poor
+3711,16,Female,Undergraduate,Good
+3712,25,Female,Undergraduate,Poor
+3713,25,Other,Postgraduate,Poor
+3714,20,Female,Postgraduate,Good
+3715,23,Other,High School,Average
+3716,21,Other,Postgraduate,Good
+3717,22,Other,Undergraduate,Poor
+3718,20,Male,Postgraduate,Poor
+3719,18,Male,Postgraduate,Good
+3720,16,Female,Postgraduate,Poor
+3721,22,Female,Undergraduate,Good
+3722,24,Male,High School,Good
+3723,25,Other,High School,Good
+3724,20,Male,High School,Average
+3725,24,Female,Postgraduate,Poor
+3726,23,Male,Postgraduate,Good
+3727,20,Other,Undergraduate,Good
+3728,25,Male,High School,Average
+3729,19,Other,High School,Poor
+3730,24,Other,High School,Poor
+3731,24,Female,Postgraduate,Poor
+3732,19,Other,Postgraduate,Poor
+3733,24,Other,Postgraduate,Good
+3734,21,Female,Postgraduate,Poor
+3735,21,Other,Postgraduate,Good
+3736,23,Female,Postgraduate,Average
+3737,18,Other,Undergraduate,Average
+3738,21,Female,Undergraduate,Good
+3739,25,Other,High School,Average
+3740,23,Other,Undergraduate,Good
+3741,16,Other,Postgraduate,Good
+3742,21,Male,Undergraduate,Average
+3743,22,Female,Postgraduate,Average
+3744,18,Female,Undergraduate,Good
+3745,20,Other,Postgraduate,Good
+3746,24,Male,Undergraduate,Average
+3747,20,Male,Undergraduate,Average
+3748,25,Male,Postgraduate,Good
+3749,21,Other,High School,Poor
+3750,22,Female,Undergraduate,Good
+3751,22,Female,Undergraduate,Poor
+3752,18,Male,High School,Average
+3753,16,Female,Undergraduate,Average
+3754,22,Female,Undergraduate,Average
+3755,16,Other,Undergraduate,Good
+3756,23,Other,Undergraduate,Poor
+3757,20,Other,Undergraduate,Poor
+3758,20,Other,Undergraduate,Average
+3759,22,Other,Postgraduate,Good
+3760,18,Other,High School,Average
+3761,23,Other,High School,Average
+3762,17,Female,Undergraduate,Poor
+3763,21,Female,High School,Good
+3764,19,Other,High School,Average
+3765,20,Female,Undergraduate,Average
+3766,24,Female,Undergraduate,Average
+3767,25,Male,High School,Average
+3768,20,Female,High School,Average
+3769,23,Female,Undergraduate,Poor
+3770,24,Male,Postgraduate,Average
+3771,23,Male,Undergraduate,Poor
+3772,21,Female,Postgraduate,Good
+3773,21,Male,Postgraduate,Poor
+3774,24,Other,Undergraduate,Poor
+3775,23,Other,Postgraduate,Poor
+3776,18,Other,Undergraduate,Average
+3777,20,Other,High School,Average
+3778,21,Female,Postgraduate,Average
+3779,23,Male,High School,Poor
+3780,20,Other,Undergraduate,Good
+3781,22,Female,Undergraduate,Poor
+3782,23,Female,Undergraduate,Poor
+3783,23,Other,Undergraduate,Good
+3784,21,Male,Postgraduate,Average
+3785,17,Female,Undergraduate,Good
+3786,19,Male,Undergraduate,Good
+3787,21,Male,Postgraduate,Average
+3788,23,Male,Undergraduate,Poor
+3789,18,Female,Postgraduate,Poor
+3790,20,Other,Postgraduate,Poor
+3791,18,Male,Postgraduate,Average
+3792,16,Male,High School,Good
+3793,16,Female,Undergraduate,Average
+3794,16,Male,Postgraduate,Average
+3795,25,Male,Undergraduate,Poor
+3796,23,Male,Postgraduate,Poor
+3797,22,Female,High School,Poor
+3798,18,Female,Undergraduate,Good
+3799,21,Female,High School,Poor
+3800,25,Other,High School,Average
+3801,16,Male,Undergraduate,Good
+3802,21,Male,Undergraduate,Average
+3803,16,Female,High School,Poor
+3804,20,Male,Undergraduate,Good
+3805,20,Female,Undergraduate,Good
+3806,17,Male,Undergraduate,Good
+3807,20,Other,Postgraduate,Average
+3808,19,Male,Undergraduate,Good
+3809,25,Male,Undergraduate,Good
+3810,19,Female,High School,Good
+3811,22,Female,Postgraduate,Good
+3812,23,Male,Undergraduate,Poor
+3813,22,Other,High School,Good
+3814,17,Male,High School,Good
+3815,21,Other,High School,Good
+3816,17,Other,Undergraduate,Average
+3817,17,Male,Undergraduate,Average
+3818,19,Female,Postgraduate,Poor
+3819,16,Other,Undergraduate,Average
+3820,18,Female,Undergraduate,Average
+3821,16,Female,Undergraduate,Good
+3822,20,Female,Postgraduate,Average
+3823,25,Male,Undergraduate,Average
+3824,17,Other,Undergraduate,Good
+3825,21,Male,High School,Average
+3826,21,Male,Undergraduate,Poor
+3827,19,Female,Undergraduate,Average
+3828,19,Other,Undergraduate,Average
+3829,25,Female,High School,Poor
+3830,18,Female,Undergraduate,Average
+3831,24,Female,High School,Good
+3832,22,Female,Undergraduate,Poor
+3833,17,Male,Undergraduate,Poor
+3834,17,Other,Undergraduate,Poor
+3835,20,Male,High School,Poor
+3836,25,Male,High School,Average
+3837,24,Male,Undergraduate,Average
+3838,22,Male,Undergraduate,Average
+3839,24,Female,Postgraduate,Good
+3840,20,Male,Undergraduate,Good
+3841,24,Female,Postgraduate,Poor
+3842,23,Male,Undergraduate,Good
+3843,18,Male,High School,Poor
+3844,20,Female,Postgraduate,Average
+3845,20,Male,Undergraduate,Good
+3846,16,Other,Undergraduate,Good
+3847,21,Female,High School,Average
+3848,23,Male,High School,Average
+3849,21,Male,Undergraduate,Good
+3850,20,Other,Postgraduate,Poor
+3851,21,Male,High School,Average
+3852,24,Male,Postgraduate,Good
+3853,25,Other,Undergraduate,Average
+3854,20,Other,High School,Good
+3855,22,Female,Undergraduate,Average
+3856,16,Male,High School,Average
+3857,23,Female,High School,Good
+3858,19,Male,Undergraduate,Good
+3859,18,Other,Postgraduate,Average
+3860,19,Female,Postgraduate,Poor
+3861,19,Other,High School,Good
+3862,22,Male,High School,Average
+3863,21,Female,Undergraduate,Average
+3864,21,Female,High School,Poor
+3865,17,Female,Postgraduate,Poor
+3866,22,Female,Undergraduate,Average
+3867,22,Other,Undergraduate,Poor
+3868,24,Female,Postgraduate,Average
+3869,20,Female,Undergraduate,Poor
+3870,20,Male,Undergraduate,Good
+3871,25,Female,Undergraduate,Poor
+3872,21,Female,Undergraduate,Poor
+3873,19,Male,Postgraduate,Good
+3874,23,Male,Undergraduate,Average
+3875,16,Other,Postgraduate,Average
+3876,18,Male,Undergraduate,Average
+3877,21,Female,Undergraduate,Poor
+3878,23,Male,Postgraduate,Good
+3879,18,Male,Postgraduate,Poor
+3880,23,Male,Undergraduate,Poor
+3881,18,Male,High School,Poor
+3882,18,Other,Postgraduate,Good
+3883,21,Other,High School,Poor
+3884,21,Other,Undergraduate,Poor
+3885,22,Male,Postgraduate,Poor
+3886,21,Female,High School,Good
+3887,18,Male,High School,Good
+3888,25,Other,Undergraduate,Good
+3889,25,Female,High School,Good
+3890,24,Male,High School,Good
+3891,18,Female,Undergraduate,Average
+3892,19,Other,Postgraduate,Average
+3893,24,Male,Postgraduate,Average
+3894,24,Other,High School,Poor
+3895,24,Female,Undergraduate,Good
+3896,16,Female,Postgraduate,Good
+3897,19,Female,High School,Average
+3898,22,Female,Postgraduate,Poor
+3899,25,Other,High School,Poor
+3900,16,Other,High School,Poor
+3901,23,Other,Postgraduate,Average
+3902,19,Other,Undergraduate,Poor
+3903,25,Female,High School,Average
+3904,24,Other,Undergraduate,Poor
+3905,22,Male,High School,Average
+3906,21,Other,Postgraduate,Good
+3907,24,Female,Undergraduate,Average
+3908,24,Other,Postgraduate,Good
+3909,25,Other,High School,Good
+3910,20,Other,Postgraduate,Good
+3911,23,Other,High School,Good
+3912,19,Male,Postgraduate,Poor
+3913,18,Female,High School,Good
+3914,20,Male,Postgraduate,Poor
+3915,19,Other,Postgraduate,Poor
+3916,23,Male,Postgraduate,Good
+3917,23,Male,Undergraduate,Good
+3918,18,Female,High School,Average
+3919,19,Female,Undergraduate,Good
+3920,23,Other,Undergraduate,Good
+3921,21,Male,High School,Good
+3922,16,Female,Postgraduate,Poor
+3923,23,Female,Postgraduate,Poor
+3924,19,Male,High School,Poor
+3925,17,Male,Postgraduate,Poor
+3926,24,Other,Undergraduate,Average
+3927,18,Female,High School,Good
+3928,21,Other,High School,Poor
+3929,21,Female,Undergraduate,Poor
+3930,19,Female,High School,Poor
+3931,23,Male,Postgraduate,Poor
+3932,22,Other,Postgraduate,Average
+3933,21,Female,High School,Poor
+3934,20,Female,Undergraduate,Poor
+3935,16,Other,Undergraduate,Average
+3936,19,Male,Undergraduate,Good
+3937,16,Other,Postgraduate,Good
+3938,25,Female,Undergraduate,Good
+3939,21,Other,Undergraduate,Average
+3940,24,Male,Postgraduate,Poor
+3941,17,Male,High School,Poor
+3942,24,Female,Postgraduate,Average
+3943,20,Male,Undergraduate,Poor
+3944,20,Male,Postgraduate,Good
+3945,19,Female,Postgraduate,Average
+3946,20,Other,High School,Average
+3947,24,Other,High School,Good
+3948,24,Other,Postgraduate,Good
+3949,17,Male,Undergraduate,Good
+3950,21,Other,High School,Good
+3951,17,Other,High School,Average
+3952,20,Other,Undergraduate,Average
+3953,25,Female,Undergraduate,Good
+3954,22,Other,High School,Poor
+3955,21,Other,High School,Poor
+3956,17,Other,High School,Average
+3957,22,Other,High School,Average
+3958,22,Female,Undergraduate,Good
+3959,18,Other,Postgraduate,Poor
+3960,16,Male,Undergraduate,Poor
+3961,23,Other,High School,Average
+3962,23,Male,Undergraduate,Good
+3963,18,Male,Postgraduate,Average
+3964,22,Male,High School,Good
+3965,25,Other,Undergraduate,Poor
+3966,21,Female,Postgraduate,Average
+3967,17,Female,Postgraduate,Average
+3968,19,Female,Postgraduate,Poor
+3969,23,Female,High School,Poor
+3970,19,Other,High School,Good
+3971,24,Female,Undergraduate,Poor
+3972,18,Other,Undergraduate,Poor
+3973,19,Female,High School,Good
+3974,25,Other,Undergraduate,Good
+3975,16,Male,Postgraduate,Poor
+3976,18,Other,Postgraduate,Good
+3977,21,Female,Postgraduate,Average
+3978,21,Male,Undergraduate,Average
+3979,23,Male,Postgraduate,Poor
+3980,22,Male,Postgraduate,Average
+3981,18,Other,Undergraduate,Average
+3982,18,Female,Postgraduate,Average
+3983,22,Other,Undergraduate,Good
+3984,21,Female,Postgraduate,Poor
+3985,19,Female,Undergraduate,Average
+3986,25,Male,Undergraduate,Good
+3987,17,Other,Postgraduate,Poor
+3988,18,Male,Undergraduate,Good
+3989,18,Female,Postgraduate,Poor
+3990,21,Male,Undergraduate,Poor
+3991,24,Male,Undergraduate,Poor
+3992,24,Male,Undergraduate,Poor
+3993,25,Female,High School,Average
+3994,17,Other,Postgraduate,Average
+3995,21,Other,Undergraduate,Poor
+3996,17,Other,Undergraduate,Good
+3997,17,Male,High School,Poor
+3998,24,Other,Undergraduate,Poor
+3999,17,Female,High School,Good
+4000,19,Other,Undergraduate,Good
+4001,20,Male,High School,Average
+4002,23,Male,Postgraduate,Average
+4003,18,Male,High School,Good
+4004,22,Other,Undergraduate,Average
+4005,17,Male,Undergraduate,Average
+4006,20,Female,Postgraduate,Good
+4007,17,Female,High School,Good
+4008,18,Male,Undergraduate,Average
+4009,23,Other,Postgraduate,Poor
+4010,24,Male,Postgraduate,Average
+4011,23,Female,High School,Good
+4012,18,Other,Undergraduate,Average
+4013,18,Other,Postgraduate,Poor
+4014,24,Female,High School,Good
+4015,23,Female,Postgraduate,Good
+4016,19,Male,Undergraduate,Poor
+4017,16,Male,High School,Good
+4018,25,Other,Undergraduate,Good
+4019,21,Male,Postgraduate,Poor
+4020,20,Female,Undergraduate,Good
+4021,18,Other,High School,Poor
+4022,16,Male,High School,Poor
+4023,16,Male,Undergraduate,Good
+4024,19,Male,Postgraduate,Average
+4025,16,Female,Undergraduate,Good
+4026,20,Female,Postgraduate,Average
+4027,17,Male,Postgraduate,Poor
+4028,17,Other,Undergraduate,Average
+4029,24,Female,High School,Poor
+4030,17,Male,Postgraduate,Poor
+4031,19,Male,High School,Average
+4032,22,Female,Postgraduate,Average
+4033,19,Male,Postgraduate,Poor
+4034,17,Other,High School,Average
+4035,23,Other,Undergraduate,Average
+4036,24,Other,Postgraduate,Poor
+4037,23,Other,Undergraduate,Good
+4038,22,Male,High School,Good
+4039,18,Female,Undergraduate,Good
+4040,19,Other,Undergraduate,Poor
+4041,17,Male,Undergraduate,Good
+4042,17,Male,High School,Poor
+4043,25,Male,High School,Good
+4044,20,Male,Postgraduate,Poor
+4045,16,Male,High School,Poor
+4046,25,Male,Postgraduate,Poor
+4047,16,Female,Undergraduate,Average
+4048,21,Male,High School,Poor
+4049,17,Other,Undergraduate,Poor
+4050,16,Other,Postgraduate,Good
+4051,22,Other,Undergraduate,Average
+4052,17,Female,High School,Average
+4053,24,Other,Postgraduate,Average
+4054,25,Male,High School,Good
+4055,23,Female,High School,Good
+4056,17,Other,High School,Good
+4057,24,Female,Undergraduate,Average
+4058,22,Female,Undergraduate,Poor
+4059,19,Female,Undergraduate,Average
+4060,17,Male,Postgraduate,Good
+4061,17,Female,Undergraduate,Good
+4062,24,Female,Postgraduate,Poor
+4063,25,Male,Postgraduate,Poor
+4064,22,Male,Postgraduate,Poor
+4065,20,Other,High School,Poor
+4066,25,Male,High School,Good
+4067,16,Female,High School,Poor
+4068,22,Male,High School,Poor
+4069,16,Other,Postgraduate,Average
+4070,18,Other,High School,Good
+4071,17,Male,Postgraduate,Good
+4072,17,Female,High School,Average
+4073,17,Other,High School,Poor
+4074,24,Female,Postgraduate,Poor
+4075,22,Male,Postgraduate,Good
+4076,16,Female,High School,Poor
+4077,20,Female,Undergraduate,Poor
+4078,17,Female,Undergraduate,Average
+4079,25,Other,High School,Poor
+4080,22,Male,High School,Poor
+4081,23,Female,Undergraduate,Average
+4082,25,Other,Undergraduate,Poor
+4083,24,Female,Postgraduate,Poor
+4084,20,Female,Undergraduate,Good
+4085,21,Other,High School,Good
+4086,24,Other,High School,Poor
+4087,25,Other,Undergraduate,Average
+4088,22,Female,Postgraduate,Average
+4089,19,Male,Undergraduate,Average
+4090,22,Male,Undergraduate,Poor
+4091,17,Male,Postgraduate,Average
+4092,25,Male,High School,Average
+4093,16,Female,Undergraduate,Good
+4094,18,Other,Postgraduate,Average
+4095,20,Other,High School,Average
+4096,20,Other,Undergraduate,Average
+4097,19,Other,High School,Poor
+4098,23,Other,Postgraduate,Good
+4099,22,Male,Undergraduate,Good
+4100,21,Male,Postgraduate,Poor
+4101,21,Female,Undergraduate,Poor
+4102,21,Other,High School,Poor
+4103,19,Other,Postgraduate,Poor
+4104,22,Female,High School,Good
+4105,16,Female,Postgraduate,Good
+4106,17,Female,High School,Good
+4107,19,Female,High School,Average
+4108,22,Female,Undergraduate,Poor
+4109,19,Male,High School,Poor
+4110,17,Female,High School,Average
+4111,17,Male,High School,Average
+4112,18,Other,High School,Good
+4113,25,Male,Postgraduate,Poor
+4114,17,Male,Postgraduate,Poor
+4115,19,Male,Postgraduate,Average
+4116,25,Other,High School,Average
+4117,16,Female,High School,Poor
+4118,21,Male,Postgraduate,Average
+4119,20,Other,High School,Average
+4120,24,Male,Undergraduate,Average
+4121,16,Male,Postgraduate,Average
+4122,22,Male,Undergraduate,Poor
+4123,25,Male,Postgraduate,Average
+4124,20,Other,High School,Good
+4125,25,Male,High School,Poor
+4126,16,Male,Postgraduate,Poor
+4127,20,Female,Postgraduate,Good
+4128,22,Male,High School,Poor
+4129,22,Male,Undergraduate,Good
+4130,19,Female,Postgraduate,Poor
+4131,23,Other,High School,Average
+4132,22,Female,Postgraduate,Good
+4133,23,Other,Undergraduate,Poor
+4134,19,Male,Undergraduate,Good
+4135,20,Female,Undergraduate,Poor
+4136,20,Other,Undergraduate,Average
+4137,20,Male,Undergraduate,Poor
+4138,17,Other,High School,Poor
+4139,16,Male,Postgraduate,Good
+4140,19,Male,Undergraduate,Average
+4141,23,Other,Postgraduate,Good
+4142,19,Female,Undergraduate,Average
+4143,20,Male,High School,Average
+4144,24,Female,High School,Poor
+4145,16,Male,Undergraduate,Poor
+4146,22,Male,High School,Average
+4147,18,Female,High School,Poor
+4148,18,Other,High School,Good
+4149,23,Female,Undergraduate,Good
+4150,23,Male,Postgraduate,Average
+4151,16,Female,Postgraduate,Good
+4152,19,Male,Postgraduate,Poor
+4153,20,Female,Postgraduate,Good
+4154,24,Other,Postgraduate,Poor
+4155,22,Other,Postgraduate,Average
+4156,24,Female,Postgraduate,Average
+4157,24,Female,Postgraduate,Average
+4158,25,Male,Postgraduate,Poor
+4159,16,Other,Undergraduate,Poor
+4160,19,Female,High School,Poor
+4161,17,Other,Undergraduate,Average
+4162,19,Male,High School,Good
+4163,19,Male,High School,Poor
+4164,18,Other,High School,Poor
+4165,25,Other,High School,Good
+4166,21,Female,Postgraduate,Average
+4167,19,Female,High School,Good
+4168,21,Male,Undergraduate,Good
+4169,17,Other,Undergraduate,Poor
+4170,19,Other,High School,Poor
+4171,24,Female,Postgraduate,Good
+4172,19,Male,Postgraduate,Poor
+4173,16,Other,Postgraduate,Average
+4174,17,Other,Postgraduate,Average
+4175,21,Other,Undergraduate,Average
+4176,25,Other,Postgraduate,Good
+4177,25,Female,Postgraduate,Average
+4178,18,Male,High School,Average
+4179,16,Other,Undergraduate,Poor
+4180,23,Female,Undergraduate,Poor
+4181,19,Other,Postgraduate,Poor
+4182,25,Other,High School,Average
+4183,21,Female,Postgraduate,Poor
+4184,21,Female,Undergraduate,Average
+4185,21,Male,Undergraduate,Poor
+4186,23,Female,Undergraduate,Poor
+4187,18,Female,Undergraduate,Good
+4188,22,Other,High School,Good
+4189,22,Male,Postgraduate,Average
+4190,25,Other,High School,Poor
+4191,20,Other,Undergraduate,Good
+4192,21,Other,Postgraduate,Good
+4193,24,Female,Postgraduate,Poor
+4194,17,Other,High School,Poor
+4195,16,Male,Undergraduate,Good
+4196,17,Male,Postgraduate,Poor
+4197,24,Other,High School,Average
+4198,22,Female,High School,Good
+4199,23,Male,High School,Good
+4200,16,Female,Postgraduate,Good
+4201,16,Female,High School,Poor
+4202,22,Male,High School,Average
+4203,20,Other,High School,Poor
+4204,20,Other,Undergraduate,Good
+4205,18,Female,Postgraduate,Good
+4206,19,Male,Undergraduate,Good
+4207,20,Female,High School,Good
+4208,16,Other,Postgraduate,Good
+4209,17,Female,High School,Poor
+4210,23,Other,Postgraduate,Average
+4211,16,Other,Postgraduate,Good
+4212,25,Female,Postgraduate,Average
+4213,21,Male,Undergraduate,Poor
+4214,22,Male,High School,Average
+4215,23,Male,Undergraduate,Good
+4216,18,Other,Postgraduate,Average
+4217,19,Female,High School,Poor
+4218,19,Male,High School,Poor
+4219,25,Other,Postgraduate,Good
+4220,25,Male,High School,Poor
+4221,22,Female,Postgraduate,Average
+4222,16,Other,Postgraduate,Good
+4223,25,Other,High School,Good
+4224,21,Female,Postgraduate,Good
+4225,19,Male,High School,Average
+4226,16,Other,Undergraduate,Poor
+4227,16,Male,High School,Good
+4228,23,Female,High School,Average
+4229,22,Male,Undergraduate,Good
+4230,17,Male,Undergraduate,Good
+4231,22,Other,Postgraduate,Good
+4232,17,Male,Postgraduate,Good
+4233,23,Other,Undergraduate,Good
+4234,22,Male,Undergraduate,Good
+4235,20,Other,Postgraduate,Average
+4236,16,Female,Postgraduate,Poor
+4237,22,Female,Undergraduate,Poor
+4238,16,Male,Undergraduate,Good
+4239,17,Male,Undergraduate,Good
+4240,16,Other,High School,Good
+4241,22,Other,High School,Average
+4242,18,Female,High School,Poor
+4243,19,Other,Postgraduate,Poor
+4244,22,Male,High School,Poor
+4245,18,Female,Undergraduate,Average
+4246,23,Other,Undergraduate,Poor
+4247,20,Male,High School,Average
+4248,20,Other,Undergraduate,Average
+4249,17,Female,High School,Poor
+4250,24,Female,Undergraduate,Poor
+4251,23,Male,Postgraduate,Good
+4252,22,Female,Postgraduate,Average
+4253,25,Female,Postgraduate,Average
+4254,19,Male,Postgraduate,Poor
+4255,21,Other,Postgraduate,Good
+4256,23,Male,High School,Average
+4257,22,Female,High School,Average
+4258,23,Male,Undergraduate,Average
+4259,19,Other,Postgraduate,Good
+4260,25,Other,High School,Poor
+4261,16,Female,Postgraduate,Average
+4262,21,Female,Postgraduate,Good
+4263,24,Female,Undergraduate,Poor
+4264,17,Other,Undergraduate,Average
+4265,21,Other,High School,Poor
+4266,23,Other,Postgraduate,Good
+4267,21,Male,Undergraduate,Poor
+4268,25,Other,Postgraduate,Good
+4269,22,Female,Undergraduate,Average
+4270,23,Female,Postgraduate,Average
+4271,22,Male,High School,Good
+4272,21,Other,Undergraduate,Good
+4273,22,Female,Undergraduate,Poor
+4274,23,Female,Undergraduate,Poor
+4275,18,Male,Postgraduate,Poor
+4276,20,Other,Postgraduate,Average
+4277,24,Other,Undergraduate,Good
+4278,25,Male,Postgraduate,Poor
+4279,20,Female,Undergraduate,Poor
+4280,23,Female,Undergraduate,Good
+4281,16,Other,Postgraduate,Good
+4282,21,Other,High School,Poor
+4283,17,Female,Postgraduate,Poor
+4284,19,Other,Postgraduate,Good
+4285,23,Other,Undergraduate,Average
+4286,16,Male,Undergraduate,Average
+4287,17,Female,Undergraduate,Poor
+4288,17,Male,Undergraduate,Average
+4289,18,Female,Undergraduate,Average
+4290,25,Other,Postgraduate,Average
+4291,25,Female,High School,Poor
+4292,19,Other,High School,Poor
+4293,18,Male,Postgraduate,Average
+4294,17,Other,Postgraduate,Average
+4295,22,Other,Undergraduate,Good
+4296,16,Other,Undergraduate,Average
+4297,23,Male,Postgraduate,Good
+4298,24,Other,Undergraduate,Average
+4299,19,Other,Postgraduate,Average
+4300,23,Male,Postgraduate,Good
+4301,25,Male,Undergraduate,Average
+4302,22,Female,Postgraduate,Poor
+4303,24,Male,Undergraduate,Average
+4304,22,Male,Postgraduate,Poor
+4305,16,Other,High School,Average
+4306,19,Female,Postgraduate,Poor
+4307,21,Female,Undergraduate,Good
+4308,24,Male,High School,Average
+4309,19,Other,Undergraduate,Average
+4310,17,Female,High School,Poor
+4311,21,Other,High School,Good
+4312,18,Male,High School,Poor
+4313,18,Female,Undergraduate,Poor
+4314,18,Male,High School,Poor
+4315,21,Female,Undergraduate,Average
+4316,17,Male,High School,Good
+4317,18,Female,High School,Poor
+4318,22,Other,Undergraduate,Average
+4319,19,Other,Postgraduate,Average
+4320,18,Female,High School,Average
+4321,23,Other,Postgraduate,Good
+4322,16,Male,Postgraduate,Good
+4323,21,Female,Undergraduate,Poor
+4324,22,Male,High School,Good
+4325,16,Female,Undergraduate,Poor
+4326,18,Male,High School,Poor
+4327,24,Male,High School,Average
+4328,24,Other,Postgraduate,Good
+4329,25,Other,High School,Average
+4330,18,Male,Postgraduate,Good
+4331,24,Male,Postgraduate,Poor
+4332,23,Other,Postgraduate,Poor
+4333,17,Female,High School,Average
+4334,22,Female,High School,Good
+4335,22,Male,Undergraduate,Good
+4336,23,Other,Undergraduate,Good
+4337,19,Other,Undergraduate,Good
+4338,25,Male,High School,Average
+4339,22,Other,Postgraduate,Good
+4340,18,Female,High School,Poor
+4341,21,Male,High School,Poor
+4342,17,Male,Undergraduate,Poor
+4343,23,Female,Undergraduate,Average
+4344,23,Other,Undergraduate,Average
+4345,19,Male,High School,Good
+4346,20,Female,High School,Average
+4347,20,Male,Postgraduate,Poor
+4348,18,Other,High School,Average
+4349,19,Female,High School,Good
+4350,24,Female,High School,Poor
+4351,17,Female,Postgraduate,Average
+4352,18,Male,Undergraduate,Poor
+4353,17,Other,Postgraduate,Average
+4354,21,Female,Postgraduate,Average
+4355,24,Male,Undergraduate,Average
+4356,18,Female,Postgraduate,Average
+4357,24,Female,High School,Good
+4358,16,Male,Undergraduate,Good
+4359,17,Female,Postgraduate,Average
+4360,20,Male,High School,Poor
+4361,18,Female,High School,Poor
+4362,20,Female,Postgraduate,Poor
+4363,22,Male,High School,Average
+4364,21,Male,Postgraduate,Average
+4365,18,Male,Postgraduate,Poor
+4366,23,Male,Undergraduate,Poor
+4367,25,Female,Undergraduate,Poor
+4368,25,Other,High School,Poor
+4369,25,Male,High School,Poor
+4370,19,Other,Undergraduate,Good
+4371,25,Other,Postgraduate,Good
+4372,25,Male,Undergraduate,Good
+4373,24,Male,High School,Average
+4374,20,Male,Postgraduate,Average
+4375,22,Female,High School,Average
+4376,20,Other,Undergraduate,Good
+4377,22,Male,High School,Good
+4378,25,Other,Postgraduate,Good
+4379,16,Other,Postgraduate,Average
+4380,21,Female,Undergraduate,Average
+4381,19,Female,High School,Good
+4382,18,Female,Postgraduate,Poor
+4383,19,Male,Undergraduate,Poor
+4384,25,Male,Undergraduate,Average
+4385,16,Male,High School,Poor
+4386,23,Other,High School,Average
+4387,20,Other,Postgraduate,Poor
+4388,17,Other,Postgraduate,Average
+4389,19,Male,Undergraduate,Good
+4390,20,Other,Postgraduate,Average
+4391,21,Male,Undergraduate,Average
+4392,16,Male,High School,Average
+4393,20,Male,Postgraduate,Poor
+4394,25,Other,High School,Poor
+4395,16,Other,Undergraduate,Poor
+4396,17,Male,High School,Poor
+4397,21,Other,Undergraduate,Good
+4398,20,Female,Undergraduate,Good
+4399,21,Other,Undergraduate,Good
+4400,25,Other,Postgraduate,Good
+4401,24,Male,Undergraduate,Poor
+4402,19,Female,Postgraduate,Poor
+4403,16,Male,Undergraduate,Poor
+4404,22,Female,Undergraduate,Poor
+4405,19,Other,Postgraduate,Good
+4406,25,Other,Undergraduate,Average
+4407,20,Female,High School,Poor
+4408,22,Other,Postgraduate,Average
+4409,21,Female,High School,Good
+4410,22,Male,Undergraduate,Good
+4411,22,Female,High School,Average
+4412,24,Female,High School,Average
+4413,24,Female,Postgraduate,Good
+4414,25,Female,Postgraduate,Poor
+4415,22,Other,Postgraduate,Average
+4416,18,Female,Undergraduate,Average
+4417,22,Female,Undergraduate,Average
+4418,20,Male,Postgraduate,Average
+4419,24,Male,High School,Average
+4420,25,Other,Undergraduate,Average
+4421,25,Male,Undergraduate,Average
+4422,17,Male,Undergraduate,Average
+4423,16,Other,Postgraduate,Average
+4424,25,Other,Undergraduate,Average
+4425,18,Other,High School,Average
+4426,19,Female,High School,Average
+4427,18,Other,Postgraduate,Poor
+4428,22,Female,Postgraduate,Average
+4429,16,Male,High School,Average
+4430,25,Male,Undergraduate,Good
+4431,20,Female,High School,Good
+4432,24,Male,Postgraduate,Average
+4433,19,Male,Postgraduate,Good
+4434,20,Other,High School,Poor
+4435,20,Male,Postgraduate,Average
+4436,19,Female,Undergraduate,Good
+4437,16,Male,High School,Good
+4438,24,Male,High School,Poor
+4439,18,Male,Undergraduate,Poor
+4440,20,Female,Undergraduate,Good
+4441,19,Other,High School,Good
+4442,23,Female,High School,Good
+4443,17,Male,High School,Poor
+4444,16,Male,High School,Good
+4445,24,Female,Postgraduate,Good
+4446,23,Female,Undergraduate,Poor
+4447,16,Other,High School,Good
+4448,25,Male,High School,Poor
+4449,25,Other,Postgraduate,Average
+4450,16,Male,Postgraduate,Poor
+4451,21,Male,Undergraduate,Good
+4452,20,Female,Postgraduate,Poor
+4453,23,Male,Undergraduate,Poor
+4454,18,Other,Postgraduate,Good
+4455,23,Other,Postgraduate,Good
+4456,23,Other,High School,Average
+4457,17,Female,Undergraduate,Good
+4458,20,Male,Undergraduate,Average
+4459,18,Female,High School,Average
+4460,20,Male,High School,Poor
+4461,25,Male,High School,Average
+4462,25,Male,Undergraduate,Poor
+4463,21,Other,Postgraduate,Poor
+4464,24,Other,Undergraduate,Good
+4465,21,Female,Undergraduate,Poor
+4466,19,Female,High School,Good
+4467,25,Female,Undergraduate,Average
+4468,16,Female,High School,Poor
+4469,22,Male,High School,Good
+4470,19,Other,High School,Good
+4471,20,Male,Postgraduate,Good
+4472,24,Female,High School,Good
+4473,25,Female,High School,Average
+4474,18,Female,High School,Good
+4475,25,Female,Postgraduate,Average
+4476,19,Other,High School,Good
+4477,22,Female,Undergraduate,Good
+4478,21,Other,Undergraduate,Good
+4479,20,Other,Undergraduate,Good
+4480,22,Other,Undergraduate,Good
+4481,20,Female,Postgraduate,Good
+4482,20,Female,High School,Poor
+4483,21,Other,High School,Average
+4484,20,Male,Undergraduate,Poor
+4485,17,Female,Undergraduate,Good
+4486,18,Female,High School,Good
+4487,24,Female,Postgraduate,Poor
+4488,24,Other,High School,Poor
+4489,25,Other,Undergraduate,Good
+4490,17,Female,Undergraduate,Average
+4491,25,Other,High School,Average
+4492,20,Male,Postgraduate,Average
+4493,23,Male,Undergraduate,Good
+4494,23,Female,Undergraduate,Poor
+4495,21,Male,Postgraduate,Good
+4496,22,Other,High School,Average
+4497,25,Male,Undergraduate,Good
+4498,17,Male,Undergraduate,Good
+4499,18,Female,Undergraduate,Poor
+4500,17,Other,High School,Good
+4501,18,Female,Undergraduate,Good
+4502,22,Male,Undergraduate,Poor
+4503,21,Male,Postgraduate,Average
+4504,21,Male,Undergraduate,Average
+4505,17,Female,Undergraduate,Good
+4506,20,Other,Postgraduate,Poor
+4507,22,Male,Postgraduate,Average
+4508,22,Male,High School,Good
+4509,23,Female,High School,Average
+4510,21,Female,Undergraduate,Poor
+4511,23,Male,Undergraduate,Average
+4512,24,Female,Postgraduate,Good
+4513,24,Male,High School,Average
+4514,25,Female,High School,Poor
+4515,21,Female,Postgraduate,Average
+4516,25,Male,Undergraduate,Poor
+4517,25,Male,High School,Poor
+4518,23,Male,Postgraduate,Average
+4519,23,Female,Undergraduate,Poor
+4520,18,Male,High School,Good
+4521,23,Male,Undergraduate,Poor
+4522,20,Male,Postgraduate,Good
+4523,21,Other,Postgraduate,Average
+4524,24,Other,Postgraduate,Poor
+4525,25,Other,High School,Good
+4526,18,Male,High School,Poor
+4527,23,Female,High School,Average
+4528,22,Other,Undergraduate,Poor
+4529,24,Other,High School,Average
+4530,23,Female,High School,Good
+4531,17,Female,High School,Poor
+4532,17,Other,Undergraduate,Good
+4533,17,Other,Undergraduate,Poor
+4534,22,Male,Undergraduate,Average
+4535,19,Other,Postgraduate,Good
+4536,24,Other,Postgraduate,Average
+4537,25,Female,Postgraduate,Poor
+4538,23,Female,Undergraduate,Average
+4539,19,Female,High School,Good
+4540,25,Male,High School,Good
+4541,24,Female,Undergraduate,Good
+4542,18,Other,Undergraduate,Average
+4543,24,Other,Undergraduate,Good
+4544,17,Male,Undergraduate,Poor
+4545,17,Male,Undergraduate,Average
+4546,20,Male,Postgraduate,Poor
+4547,22,Female,Postgraduate,Poor
+4548,16,Female,High School,Poor
+4549,22,Male,High School,Good
+4550,17,Other,Postgraduate,Average
+4551,22,Female,Postgraduate,Poor
+4552,25,Other,Postgraduate,Average
+4553,18,Female,High School,Average
+4554,20,Other,High School,Good
+4555,16,Female,Undergraduate,Poor
+4556,21,Female,Postgraduate,Good
+4557,18,Male,Undergraduate,Average
+4558,23,Other,Undergraduate,Good
+4559,16,Other,High School,Good
+4560,20,Male,High School,Good
+4561,25,Other,Postgraduate,Poor
+4562,18,Female,High School,Average
+4563,21,Female,Postgraduate,Average
+4564,20,Male,High School,Good
+4565,24,Other,Postgraduate,Good
+4566,21,Male,Postgraduate,Good
+4567,20,Female,Undergraduate,Good
+4568,25,Other,Undergraduate,Good
+4569,24,Other,Postgraduate,Poor
+4570,19,Male,High School,Average
+4571,20,Other,Postgraduate,Average
+4572,25,Other,Postgraduate,Average
+4573,21,Other,Undergraduate,Poor
+4574,23,Other,High School,Poor
+4575,23,Male,High School,Good
+4576,18,Male,High School,Average
+4577,22,Female,Postgraduate,Average
+4578,17,Female,Postgraduate,Good
+4579,22,Female,Undergraduate,Good
+4580,21,Female,Undergraduate,Poor
+4581,20,Female,Postgraduate,Average
+4582,21,Female,Postgraduate,Good
+4583,20,Other,Postgraduate,Poor
+4584,22,Female,Undergraduate,Average
+4585,16,Other,Postgraduate,Poor
+4586,22,Other,Postgraduate,Average
+4587,17,Male,Postgraduate,Good
+4588,25,Male,Postgraduate,Good
+4589,22,Female,Undergraduate,Good
+4590,23,Female,Undergraduate,Good
+4591,24,Male,Postgraduate,Good
+4592,19,Male,High School,Good
+4593,21,Male,Undergraduate,Poor
+4594,22,Male,Undergraduate,Good
+4595,22,Female,Undergraduate,Average
+4596,19,Other,Postgraduate,Good
+4597,23,Other,Undergraduate,Good
+4598,22,Female,Undergraduate,Poor
+4599,18,Other,High School,Average
+4600,16,Female,Undergraduate,Average
+4601,18,Female,High School,Average
+4602,23,Other,Postgraduate,Poor
+4603,21,Male,Undergraduate,Poor
+4604,18,Female,Undergraduate,Good
+4605,17,Male,High School,Poor
+4606,20,Male,High School,Poor
+4607,16,Male,Undergraduate,Good
+4608,20,Male,Undergraduate,Average
+4609,23,Female,Undergraduate,Average
+4610,21,Male,Undergraduate,Good
+4611,19,Other,High School,Good
+4612,24,Male,Undergraduate,Good
+4613,20,Male,High School,Poor
+4614,21,Male,High School,Average
+4615,22,Male,Undergraduate,Good
+4616,20,Other,Undergraduate,Average
+4617,16,Other,Undergraduate,Good
+4618,17,Other,High School,Average
+4619,22,Female,Postgraduate,Poor
+4620,22,Male,Undergraduate,Poor
+4621,23,Female,High School,Average
+4622,18,Female,Postgraduate,Poor
+4623,24,Female,High School,Average
+4624,18,Female,Postgraduate,Average
+4625,21,Other,Postgraduate,Average
+4626,23,Other,Postgraduate,Good
+4627,16,Female,High School,Average
+4628,23,Other,Undergraduate,Poor
+4629,16,Other,Postgraduate,Poor
+4630,22,Other,Undergraduate,Average
+4631,19,Other,High School,Average
+4632,16,Other,Postgraduate,Average
+4633,23,Female,Undergraduate,Good
+4634,24,Male,High School,Average
+4635,18,Male,High School,Average
+4636,19,Male,Undergraduate,Average
+4637,17,Male,Undergraduate,Poor
+4638,19,Female,Postgraduate,Poor
+4639,16,Other,Undergraduate,Poor
+4640,17,Male,High School,Average
+4641,17,Other,Undergraduate,Good
+4642,18,Male,High School,Poor
+4643,22,Male,Postgraduate,Average
+4644,21,Male,Postgraduate,Poor
+4645,20,Other,Undergraduate,Good
+4646,22,Female,Postgraduate,Poor
+4647,23,Female,Undergraduate,Poor
+4648,20,Other,Undergraduate,Good
+4649,17,Male,High School,Average
+4650,19,Other,Undergraduate,Average
+4651,25,Female,Undergraduate,Average
+4652,25,Female,Postgraduate,Average
+4653,24,Female,High School,Poor
+4654,22,Male,High School,Poor
+4655,18,Other,High School,Poor
+4656,20,Other,Postgraduate,Poor
+4657,20,Female,Undergraduate,Poor
+4658,20,Male,High School,Poor
+4659,23,Male,Undergraduate,Poor
+4660,23,Female,High School,Good
+4661,20,Male,High School,Poor
+4662,20,Female,High School,Poor
+4663,21,Female,Undergraduate,Average
+4664,24,Male,High School,Average
+4665,22,Female,Undergraduate,Good
+4666,24,Other,High School,Good
+4667,23,Other,High School,Average
+4668,23,Female,Undergraduate,Good
+4669,19,Other,Undergraduate,Average
+4670,18,Other,Undergraduate,Poor
+4671,24,Male,Undergraduate,Average
+4672,23,Female,Postgraduate,Average
+4673,19,Male,Undergraduate,Poor
+4674,19,Male,Postgraduate,Poor
+4675,23,Female,Postgraduate,Poor
+4676,24,Male,High School,Average
+4677,23,Other,High School,Average
+4678,21,Male,High School,Average
+4679,20,Other,Postgraduate,Good
+4680,24,Other,Undergraduate,Good
+4681,22,Other,Undergraduate,Poor
+4682,18,Other,High School,Average
+4683,20,Other,Postgraduate,Average
+4684,25,Female,High School,Average
+4685,19,Female,High School,Good
+4686,18,Female,Undergraduate,Good
+4687,24,Male,Undergraduate,Average
+4688,16,Female,High School,Poor
+4689,24,Male,High School,Poor
+4690,16,Female,Undergraduate,Good
+4691,17,Female,High School,Good
+4692,20,Other,High School,Good
+4693,25,Other,High School,Poor
+4694,23,Other,High School,Poor
+4695,19,Other,Undergraduate,Good
+4696,16,Male,High School,Good
+4697,23,Female,Postgraduate,Good
+4698,24,Male,Undergraduate,Poor
+4699,17,Female,Undergraduate,Poor
+4700,23,Female,High School,Good
+4701,20,Female,Undergraduate,Good
+4702,17,Other,High School,Good
+4703,18,Female,Undergraduate,Poor
+4704,16,Other,Postgraduate,Good
+4705,18,Female,Postgraduate,Good
+4706,17,Female,Postgraduate,Poor
+4707,16,Female,High School,Good
+4708,19,Male,Undergraduate,Average
+4709,20,Other,High School,Good
+4710,20,Male,High School,Good
+4711,22,Male,High School,Average
+4712,23,Male,Undergraduate,Poor
+4713,22,Other,Undergraduate,Good
+4714,19,Other,High School,Good
+4715,17,Other,Postgraduate,Good
+4716,25,Female,High School,Average
+4717,16,Male,Postgraduate,Poor
+4718,22,Female,High School,Average
+4719,21,Male,High School,Average
+4720,18,Male,High School,Average
+4721,25,Male,Undergraduate,Average
+4722,19,Other,High School,Average
+4723,21,Female,Postgraduate,Good
+4724,25,Other,Postgraduate,Good
+4725,24,Other,High School,Poor
+4726,19,Other,High School,Poor
+4727,17,Other,Postgraduate,Good
+4728,16,Female,High School,Average
+4729,25,Female,Undergraduate,Average
+4730,16,Female,High School,Good
+4731,19,Female,High School,Poor
+4732,25,Female,Postgraduate,Good
+4733,20,Male,Postgraduate,Poor
+4734,22,Male,Postgraduate,Average
+4735,18,Female,Undergraduate,Good
+4736,16,Male,Undergraduate,Good
+4737,24,Male,Undergraduate,Good
+4738,20,Female,Postgraduate,Poor
+4739,16,Other,Undergraduate,Poor
+4740,17,Other,Undergraduate,Average
+4741,22,Female,Postgraduate,Average
+4742,25,Female,High School,Poor
+4743,18,Other,Postgraduate,Poor
+4744,24,Female,High School,Average
+4745,17,Male,Undergraduate,Poor
+4746,25,Male,High School,Poor
+4747,25,Other,Postgraduate,Good
+4748,17,Female,High School,Good
+4749,16,Other,High School,Average
+4750,25,Female,Postgraduate,Average
+4751,24,Female,Undergraduate,Good
+4752,24,Other,High School,Poor
+4753,22,Other,Postgraduate,Good
+4754,22,Other,Undergraduate,Poor
+4755,25,Other,Postgraduate,Good
+4756,21,Male,High School,Good
+4757,21,Other,Undergraduate,Good
+4758,17,Female,High School,Average
+4759,25,Other,Postgraduate,Good
+4760,24,Female,Undergraduate,Average
+4761,24,Male,Undergraduate,Average
+4762,18,Other,Undergraduate,Average
+4763,17,Male,Postgraduate,Poor
+4764,20,Male,Undergraduate,Average
+4765,23,Other,Undergraduate,Good
+4766,18,Female,Postgraduate,Average
+4767,25,Male,Undergraduate,Good
+4768,18,Male,Undergraduate,Good
+4769,16,Female,Undergraduate,Average
+4770,20,Female,High School,Good
+4771,21,Other,Undergraduate,Good
+4772,25,Other,High School,Good
+4773,25,Other,Undergraduate,Poor
+4774,24,Male,Undergraduate,Average
+4775,24,Female,Postgraduate,Good
+4776,25,Male,Undergraduate,Poor
+4777,22,Male,Undergraduate,Poor
+4778,16,Male,Postgraduate,Poor
+4779,22,Other,Undergraduate,Poor
+4780,25,Male,Postgraduate,Poor
+4781,21,Male,Undergraduate,Poor
+4782,17,Male,Undergraduate,Good
+4783,24,Male,High School,Average
+4784,16,Male,Undergraduate,Good
+4785,17,Other,Postgraduate,Poor
+4786,23,Other,Postgraduate,Good
+4787,22,Male,High School,Average
+4788,21,Female,Postgraduate,Poor
+4789,25,Female,Undergraduate,Good
+4790,23,Male,Postgraduate,Good
+4791,25,Other,Undergraduate,Average
+4792,18,Male,Undergraduate,Poor
+4793,25,Female,Undergraduate,Poor
+4794,23,Other,High School,Poor
+4795,18,Other,Postgraduate,Good
+4796,17,Male,Undergraduate,Poor
+4797,16,Other,Postgraduate,Poor
+4798,19,Female,High School,Average
+4799,24,Male,High School,Poor
+4800,19,Female,Undergraduate,Good
+4801,18,Other,Undergraduate,Poor
+4802,20,Male,High School,Average
+4803,18,Other,High School,Average
+4804,21,Male,Undergraduate,Poor
+4805,18,Other,Postgraduate,Average
+4806,24,Other,High School,Average
+4807,18,Female,Undergraduate,Average
+4808,19,Female,Postgraduate,Good
+4809,16,Male,Undergraduate,Good
+4810,21,Female,Undergraduate,Good
+4811,16,Other,High School,Poor
+4812,24,Female,Postgraduate,Good
+4813,17,Female,Undergraduate,Poor
+4814,24,Male,Undergraduate,Poor
+4815,19,Male,Undergraduate,Good
+4816,21,Male,Undergraduate,Poor
+4817,18,Other,Undergraduate,Good
+4818,24,Female,High School,Poor
+4819,24,Other,Postgraduate,Good
+4820,21,Male,High School,Good
+4821,25,Male,High School,Average
+4822,21,Female,Postgraduate,Average
+4823,16,Other,High School,Poor
+4824,19,Other,High School,Poor
+4825,18,Male,High School,Average
+4826,19,Male,High School,Good
+4827,17,Male,High School,Poor
+4828,25,Other,High School,Average
+4829,19,Male,High School,Average
+4830,17,Female,Undergraduate,Good
+4831,20,Other,Undergraduate,Good
+4832,23,Other,Postgraduate,Poor
+4833,19,Female,High School,Poor
+4834,17,Other,High School,Average
+4835,20,Male,Postgraduate,Poor
+4836,18,Other,Postgraduate,Average
+4837,22,Male,Undergraduate,Poor
+4838,25,Male,High School,Poor
+4839,17,Other,Undergraduate,Good
+4840,21,Female,Undergraduate,Average
+4841,21,Other,High School,Average
+4842,23,Other,High School,Average
+4843,24,Female,Undergraduate,Good
+4844,20,Male,Undergraduate,Good
+4845,23,Other,Postgraduate,Poor
+4846,21,Other,Undergraduate,Poor
+4847,20,Other,Postgraduate,Average
+4848,18,Male,High School,Average
+4849,19,Other,Undergraduate,Average
+4850,17,Female,Undergraduate,Good
+4851,25,Other,Postgraduate,Good
+4852,17,Male,Undergraduate,Good
+4853,23,Male,High School,Average
+4854,25,Female,Postgraduate,Good
+4855,20,Female,High School,Good
+4856,22,Female,Postgraduate,Good
+4857,25,Female,Undergraduate,Poor
+4858,23,Female,Undergraduate,Poor
+4859,23,Male,High School,Poor
+4860,25,Female,Postgraduate,Good
+4861,16,Female,Undergraduate,Good
+4862,23,Female,Postgraduate,Poor
+4863,25,Other,High School,Average
+4864,24,Male,Postgraduate,Average
+4865,19,Other,Undergraduate,Good
+4866,23,Female,High School,Poor
+4867,23,Male,Undergraduate,Poor
+4868,22,Female,Postgraduate,Good
+4869,24,Other,Postgraduate,Poor
+4870,24,Other,High School,Poor
+4871,25,Other,Undergraduate,Poor
+4872,21,Other,Undergraduate,Good
+4873,19,Other,Undergraduate,Average
+4874,21,Male,High School,Average
+4875,19,Other,Postgraduate,Average
+4876,25,Other,High School,Average
+4877,18,Male,Undergraduate,Poor
+4878,21,Male,Postgraduate,Good
+4879,24,Other,High School,Good
+4880,21,Female,Postgraduate,Poor
+4881,17,Male,High School,Average
+4882,16,Other,High School,Poor
+4883,23,Male,Undergraduate,Poor
+4884,21,Male,Postgraduate,Poor
+4885,16,Male,Undergraduate,Average
+4886,22,Female,Postgraduate,Poor
+4887,18,Male,High School,Average
+4888,22,Male,Undergraduate,Good
+4889,18,Other,High School,Average
+4890,25,Male,Undergraduate,Good
+4891,18,Male,Undergraduate,Average
+4892,23,Female,Postgraduate,Poor
+4893,16,Female,Postgraduate,Poor
+4894,18,Other,Postgraduate,Average
+4895,17,Other,Postgraduate,Average
+4896,24,Female,Postgraduate,Good
+4897,17,Other,High School,Good
+4898,24,Male,Postgraduate,Good
+4899,19,Other,Postgraduate,Good
+4900,25,Male,Postgraduate,Good
+4901,17,Female,High School,Average
+4902,21,Female,Undergraduate,Good
+4903,25,Other,Postgraduate,Poor
+4904,19,Male,Undergraduate,Poor
+4905,16,Female,Undergraduate,Poor
+4906,24,Female,Postgraduate,Average
+4907,20,Female,High School,Good
+4908,19,Other,Postgraduate,Average
+4909,22,Other,Postgraduate,Good
+4910,21,Female,Undergraduate,Poor
+4911,17,Male,Undergraduate,Poor
+4912,19,Other,Undergraduate,Good
+4913,18,Male,Postgraduate,Good
+4914,20,Female,Postgraduate,Poor
+4915,24,Male,Postgraduate,Average
+4916,22,Male,Postgraduate,Poor
+4917,16,Male,High School,Average
+4918,21,Female,Postgraduate,Good
+4919,24,Other,Undergraduate,Poor
+4920,18,Other,Postgraduate,Good
+4921,23,Male,High School,Poor
+4922,21,Male,High School,Average
+4923,23,Other,Undergraduate,Average
+4924,17,Other,High School,Good
+4925,17,Other,Postgraduate,Average
+4926,16,Other,Postgraduate,Average
+4927,16,Male,Undergraduate,Good
+4928,17,Female,High School,Good
+4929,19,Male,Postgraduate,Average
+4930,24,Other,Postgraduate,Average
+4931,18,Other,Undergraduate,Poor
+4932,18,Other,Undergraduate,Good
+4933,16,Female,High School,Good
+4934,18,Other,High School,Average
+4935,18,Other,Postgraduate,Average
+4936,23,Male,Undergraduate,Good
+4937,17,Other,High School,Good
+4938,16,Other,High School,Average
+4939,25,Female,Postgraduate,Average
+4940,16,Other,Postgraduate,Average
+4941,16,Male,Postgraduate,Average
+4942,21,Male,High School,Good
+4943,17,Male,Postgraduate,Good
+4944,20,Other,Postgraduate,Poor
+4945,20,Female,High School,Good
+4946,23,Male,Postgraduate,Average
+4947,16,Female,Undergraduate,Average
+4948,16,Female,High School,Average
+4949,25,Male,Undergraduate,Good
+4950,16,Other,High School,Poor
+4951,17,Female,Undergraduate,Poor
+4952,21,Female,Postgraduate,Good
+4953,17,Male,Postgraduate,Average
+4954,23,Female,Undergraduate,Average
+4955,18,Male,Undergraduate,Good
+4956,18,Other,Undergraduate,Good
+4957,16,Female,Undergraduate,Poor
+4958,23,Other,High School,Good
+4959,22,Male,Postgraduate,Poor
+4960,20,Male,Undergraduate,Good
+4961,22,Female,Postgraduate,Average
+4962,18,Female,High School,Average
+4963,18,Female,Postgraduate,Poor
+4964,18,Other,Undergraduate,Good
+4965,16,Female,Undergraduate,Poor
+4966,25,Male,Postgraduate,Good
+4967,19,Female,Postgraduate,Average
+4968,20,Other,Postgraduate,Average
+4969,17,Female,Postgraduate,Average
+4970,21,Female,Undergraduate,Poor
+4971,18,Female,High School,Average
+4972,16,Male,Undergraduate,Poor
+4973,20,Male,High School,Good
+4974,21,Other,Postgraduate,Poor
+4975,25,Female,Postgraduate,Average
+4976,21,Male,Undergraduate,Average
+4977,25,Female,Undergraduate,Average
+4978,19,Female,Postgraduate,Average
+4979,24,Male,High School,Poor
+4980,25,Male,Undergraduate,Good
+4981,25,Male,Postgraduate,Average
+4982,20,Other,Undergraduate,Good
+4983,25,Female,Undergraduate,Good
+4984,19,Female,Undergraduate,Good
+4985,22,Other,Postgraduate,Good
+4986,18,Female,High School,Average
+4987,20,Other,Postgraduate,Poor
+4988,23,Female,Postgraduate,Average
+4989,24,Other,High School,Average
+4990,20,Other,Postgraduate,Poor
+4991,22,Male,Undergraduate,Good
+4992,22,Male,Postgraduate,Good
+4993,17,Male,Postgraduate,Good
+4994,25,Female,Undergraduate,Good
+4995,21,Female,High School,Good
+4996,20,Other,Undergraduate,Good
+4997,24,Male,High School,Poor
+4998,22,Male,Undergraduate,Good
+4999,17,Male,Undergraduate,Good
+5000,22,Other,Undergraduate,Good
